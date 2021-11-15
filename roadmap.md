@@ -1,5 +1,7 @@
 ---
 description: The roadmap and future planning.
+cover: .gitbook/assets/roadmap_001_1200x1200.jpeg
+coverY: -413.21585903083707
 ---
 
 # 🚀 Roadmap
