@@ -1,6 +1,7 @@
 # Table of contents
 
 * [⚡ Genesis](README.md)
+* [⚡ Genesis](<README (1).md>)
 * [🎰 Games: All based on blockchain](games-all-based-on-blockchain/README.md)
   * [Blockchain Roulette](games-all-based-on-blockchain/blockchain-roulette.md)
   * [Slot](games-all-based-on-blockchain/slot.md)
@@ -21,7 +22,7 @@
 * [💰 Buy, Sell & Stake](buy-swampy-swamp.md)
 * [🎴 NFTs](nfts.md)
 * [🚀 Roadmap](roadmap.md)
-* [🇺🇳 Charity](charity.md)
+* [🇺🇳 🇺🇳 Charity](charity.md)
 * [🗳 Governing, proposal and voting](governing-proposal-and-voting.md)
 * [❓ FAQ](faq.md)
 * [😎 Useful Links](useful-links.md)
