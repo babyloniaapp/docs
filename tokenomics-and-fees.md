@@ -8,7 +8,7 @@ Tokens format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom,
 
 ![](.gitbook/assets/SLIDES\_TOKEN\_003.png)
 
-How the system works? Let's dive in!
+**How the system works? Let's dive in!**
 
 ### Chip (CHP)&#x20;
 

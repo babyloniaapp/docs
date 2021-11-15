@@ -21,7 +21,7 @@
 * [💰 Buy, Sell & Stake](buy-swampy-swamp.md)
 * [🎴 NFTs](nfts.md)
 * [🚀 Roadmap](roadmap.md)
-* [🇺🇳 🇺🇳 Charity](charity.md)
+* [🇺🇳 Charity](charity.md)
 * [🗳 Governing, proposal and voting](governing-proposal-and-voting.md)
 * [❓ FAQ](faq.md)
 * [😎 Useful Links](useful-links.md)

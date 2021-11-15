@@ -7,4 +7,7 @@ description: >-
 
 # 📅 Logs
 
-&#x20;
+* [x] 15.11.21 - Linking gitbook to babylonia.app website
+* [x] 15.11.21 - Synchronizing gitbook with GitHub, accessing to the repositories
+* [x] 15.11.21 - Adding flying astronaut with Alpha Stage to the main page
+* [x] 15.11.21 - Adding images
