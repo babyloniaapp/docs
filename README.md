@@ -26,12 +26,12 @@ The wealth and profits must be distributed fairly. The total net profits of the 
 
 ### Is babylonia.app just another clone?
 
-![](https://github.com/gis-ops/tutorials/blob/master/qgis/QGIS_SimplePlugin.md.gitbook/assets/Clones.jpg)
+![](https://github.com/babyloniaapp/docs/blob/main/.gitbook/assets/Clones.jpg)
 
 Yes but partially. The appearance and business model and functions can be copied, but it would consider as intellectual property theft. However, we believe the soul of our running system will not be clonable. We are intended in the running a fair and transparent gaming and gambling platform while paying complete attention to the players, visitors and gamers. We focus on a fair distribution of profits while keeping all parties satisfied and entertained. In short, good deeds and strong roots and clear conscience. The body can be cloned, but not what is inside your heart.
 
 ### Can babylonia.app be cloned?
 
-![](https://github.com/gis-ops/tutorials/blob/master/qgis/QGIS_SimplePlugin.md.gitbook/assets/Clones\_goats.jpg)
+![](https://github.com/babyloniaapp/docs/blob/main/.gitbook/assets/Clones\_goats.jpg)
 
 Yes but partially. The appearance and business model and functions can be copied, but it would consider as intellectual property theft. However, we believe the soul of our running system will not be clonable. We are intended in the running a fair and transparent gaming and gambling platform while paying complete attention to the players, visitors and gamers. We focus on a fair distribution of profits while keeping all parties satisfied and entertained. In short, good deeds and strong roots and clear conscience. The body can be cloned, but not what is inside your heart.
