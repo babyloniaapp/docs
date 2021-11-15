@@ -1,7 +1,6 @@
 # Table of contents
 
 * [⚡ Genesis](README.md)
-* [⚡ Genesis](<README (1).md>)
 * [🎰 Games: All based on blockchain](games-all-based-on-blockchain/README.md)
   * [Blockchain Roulette](games-all-based-on-blockchain/blockchain-roulette.md)
   * [Slot](games-all-based-on-blockchain/slot.md)

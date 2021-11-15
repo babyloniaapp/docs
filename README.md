@@ -1,5 +1,7 @@
 ---
 description: How everything started
+cover: .gitbook/assets/kDux8I.jpg
+coverY: -219.91189427312773
 ---
 
 # ⚡ Genesis
