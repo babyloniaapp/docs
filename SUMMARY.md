@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💡 babylonia.app](README.md)
+* [⚡ Genesis](README.md)
 * [🎰 Games: All based on blockchain](games-all-based-on-blockchain/README.md)
   * [Blockchain Roulette](games-all-based-on-blockchain/blockchain-roulette.md)
   * [Slot](games-all-based-on-blockchain/slot.md)

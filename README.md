@@ -2,9 +2,7 @@
 description: How everything started
 ---
 
-# 💡 babylonia.app
-
-## Genesis
+# ⚡ Genesis
 
 ### Who we are?
 
