@@ -12,7 +12,7 @@ The [babylonia.app](https://babylonia.app) is a fun entertainment platform. It i
 
 ### Where was Babylonia?
 
-![Babylon by frantisek kupka, 1906, source.](https://github.com/babyloniaapp/docs/blob/main/.gitbook/assets/babylon-1906.jpg)
+![](.gitbook/assets/babylon-1906.jpg)
 
 Babylonia was a glorious state found about 4000 years ago. It was located at the southeast of old Persia. At its heart, the city of Babylon became a city of beautiful and lavish buildings after a few centuries. The king of Babylon, Hammurabi, turned it into a rich, powerful and influential city. He created one of the world’s earliest and most complete written legal codes. Known as the Code of Hammurabi, it helped Babylon surpass other cities in the region. Babylon was the largest city in the world, the first city to reach a population above 200,000.
 
@@ -26,12 +26,12 @@ The wealth and profits must be distributed fairly. The total net profits of the 
 
 ### Is babylonia.app just another clone?
 
-![](https://github.com/babyloniaapp/docs/blob/main/.gitbook/assets/Clones.jpg)
+![](.gitbook/assets/Clones\_goats.jpg)
 
 Yes but partially. The appearance and business model and functions can be copied, but it would consider as intellectual property theft. However, we believe the soul of our running system will not be clonable. We are intended in the running a fair and transparent gaming and gambling platform while paying complete attention to the players, visitors and gamers. We focus on a fair distribution of profits while keeping all parties satisfied and entertained. In short, good deeds and strong roots and clear conscience. The body can be cloned, but not what is inside your heart.
 
 ### Can babylonia.app be cloned?
 
-![](https://github.com/babyloniaapp/docs/blob/main/.gitbook/assets/Clones\_goats.jpg)
+![](.gitbook/assets/2681\_1200x480.jpg)
 
 Yes but partially. The appearance and business model and functions can be copied, but it would consider as intellectual property theft. However, we believe the soul of our running system will not be clonable. We are intended in the running a fair and transparent gaming and gambling platform while paying complete attention to the players, visitors and gamers. We focus on a fair distribution of profits while keeping all parties satisfied and entertained. In short, good deeds and strong roots and clear conscience. The body can be cloned, but not what is inside your heart.
