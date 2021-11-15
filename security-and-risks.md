@@ -12,8 +12,6 @@ In the space of crypto, especially in the Decentralized Finance (DeFi) space, us
 
 ### Only 18+
 
-
-
 ### **General DeFi Risks** <a href="general-defi-risks" id="general-defi-risks"></a>
 
 DeFi risks encapsulates a wide range of risks such as [impermanent loss](https://www.bsc.news/post/cryptonomics-what-is-impermanent-loss) to risks of falling for scams such as wallet draining, private key being stolen, et cetera. Hence, DeFi users have to be careful themselves and learn to educate themselves constantly in this space. You can find a guide to keeping your funds SAFU [here](https://letmeape.medium.com/how-to-keep-your-funds-safe-metamask-guide-816773968310).
@@ -27,5 +25,7 @@ DeFi risks encapsulates a wide range of risks such as [impermanent loss](https:/
 We strongly recommend you that not to use your main wallet to get connected to the [_<mark style="background-color:orange;">**babylonia.app**</mark>_](https://babylonia.app) or any related or similar websites and applications. The safest way is to create a new wallet on your desire software or hardware wallet, transfer some funds to the new wallet and connect the new wallet to the [_<mark style="background-color:orange;">**babylonia.app**</mark>_](https://babylonia.app). KEEP your savings, main investment and primary stack of your money away and in a safe, and a clean wallet which is not-bonded to any smart contract projects. It takes only a few seconds to switch between your wallets, this few seconds can save you a fortune sometimes you cannot obtain in a lifetime.
 
 ### Token Price and Manipulation Risk
+
+![](.gitbook/assets/whale-watching\_002.jpg)
 
 The [_<mark style="background-color:orange;">**babylonia.app**</mark>_](https://babylonia.app) is not an investment or saving application, it is an entertainment place. The tokens and in game chip (CHP)and credit (CRD) are designed to facilitate using the application. It is not recommended looking at them as an investment or value appreciating asset. Our goal is to stabilize the value of fluctuations of the tokens, however the value of tokens are dependent on the market demands and also the value of pegged-assets (collaterals). Heavy selling or buying pressures can deviate the prices strongly. **Always be aware** of price manipulation by big hands, so-called whales :whale2:. In **a decentralized open market, we are not able to control or moderate the prices**. Do your own research before you dive into something new, stay safe and vigilant.

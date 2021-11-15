@@ -2,7 +2,7 @@
 
 ## Direct betting
 
-This is the traditional betting system and has nothing to do with the blockchain, only player can bet on the events with their Chips (CHP) tokens. The planning and implementation of the betting features will come a bit later to the platform, as the legality and licensing of the project must be studied. Here in babylonia.app we are intended to respect the laws and intellectual property of the other entities. This may require to register a proper business in a sovereign country not just being on the web, but we will work on it. However, the eSport events does not have strong bonds like professional sport entities, so, we will pursue the goals and opportunities as we move on the project. Games like StarCraft II, Dota 2, Counter Strike, League of Legends are on the list. Keep looking up.&#x20;
+This is the traditional betting system and has nothing to do with the blockchain, only player can bet on the events with their Chip (CHP) tokens. The planning and implementation of the betting features will come a bit later to the platform, as the legality and licensing of the project must be studied. Here in [_<mark style="background-color:orange;">**babylonia.app**</mark>_](https://babylonia.app) we are intended to respect the laws and intellectual property of the other entities. This may require to register a proper business in a sovereign country not just being on the web, but we will work on it. However, the eSport events does not have strong bonds like professional sport entities, so, we will pursue the goals and opportunities as we move on the project. Games like StarCraft II, Dota 2, Counter Strike, League of Legends are on the list. Keep looking up.&#x20;
 
 ## babylonia.app side-betting
 

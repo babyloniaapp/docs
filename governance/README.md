@@ -1,7 +1,9 @@
 # 🏟 Betting
 
-SwampDAO will be launched 2 months after the initial SWAMP tokens were minted. SWAMP held in the SWAMP Vault is our governance token. A minimum of 1000 SWAMP is required to create new community proposals.
+![](https://images.unsplash.com/photo-1581852549708-72910bd52cff?crop=entropy\&cs=srgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxiZXR0aW5nfGVufDB8fHx8MTYzNjk4OTY4Ng\&ixlib=rb-1.2.1\&q=85)
 
-## **BabyloniaDAO** <a href="swampdao" id="swampdao"></a>
+We have planned for 3 categories of betting applications.
 
-The BabyloniaDAO was formed to represent the will of the DAO (community of BABY holders), acting in their best interests.
+1. Direct betting on sports or esports
+2. Side-betting on [_<mark style="background-color:orange;">**babylonia.app**</mark>_](https://babylonia.app) games and tournaments
+3. Market prediction to guess future price of a digital asset like <mark style="background-color:green;">**Bitcoin**</mark> or commodity like <mark style="background-color:orange;">**Gold**</mark>
