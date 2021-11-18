@@ -1,6 +1,6 @@
 # 🏟 Betting
 
-![](../.gitbook/assets/SLIDES\_BETTING\_001.png)
+![](../.gitbook/assets/SLIDES\_BETTING\_003.jpg)
 
 We have planned for 3 categories of **betting** applications.
 
