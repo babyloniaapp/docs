@@ -2,7 +2,7 @@
 
 ### Ludo
 
-![](../.gitbook/assets/indian-ludo-chausar\_001.jpg)
+![](../../.gitbook/assets/indian-ludo-chausar\_001.jpg)
 
 Ludo is a strategy board game for two to eight players, in which the players race their four tokens from start to finish according to the rolls of a single die. About Ludo board, special areas of the Ludo board are typically colored differently. Each player is assigned a color and has four tokens\[c] in their color. The four-player board is a square with a cross-shaped play space, and the six-player board is a hexagon, with each arm of the cross having three columns of squares, usually six per column. The middle columns usually have five squares colored; these represent a player's home column. A sixth colored square not on the home column is a player is starting square. At the center of the board is a large finishing square, often composed of colored triangles, atop the players' home columns. How to play: Four or six, can play without partnerships, the empty spots will be filled by a bot player. At the beginning of the game, each player's tokens are out of play and staged in the player's yard (one of the large corner areas of the board in the player's color). When able to, the players will enter their tokens one per turn on their respective starting squares, and proceed to race them clockwise around the board along the game track (the path of squares not part of any player's home column). When reaching the square below his home column, a player continues by moving tokens up the column to the finishing square. The rolls of a single die control the swiftness of the tokens, and entry to the finishing square requires a precise roll from the player. The first to bring all their tokens to the finish wins the game.
 
