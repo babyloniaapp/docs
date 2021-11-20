@@ -6,6 +6,8 @@ coverY: -413.21585903083707
 
 # 🚀 Roadmap
 
+![](.gitbook/assets/SLIDES\_ROADMAP\_001.png)
+
 * [ ] Alpha launch of **babylobia.app **website
 * [ ] Creating --> testing ERC20 tokens on BSC testnet
 * [ ] Developing of 3 games: 1 slot 2 lottery 3 roulette

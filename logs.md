@@ -17,4 +17,5 @@ description: >-
 * [x] 17.11.21 - website UI optimization
 * [x] 19.11.21 - Added LOGO to the slides
 * [x] 19.11.21 - Updated logo of the gitbook & social media
+* [x] 20.11.21 - Added returning Astronaut-Image trajectory
 
