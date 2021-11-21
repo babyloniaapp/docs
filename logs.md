@@ -7,19 +7,28 @@ description: >-
 
 # 📅 Logs
 
+* [x] 20.11.21 - Added returning Astronaut-Image trajectory
+* [x] 20.11.21 - Added ROADMAP slide to the gitbook
+* [x] 20.11.21 - Added POOL slide to the gitbook + updating the website
+
+
+
+* [x] 19.11.21 - Added LOGO to the slides
+* [x] 19.11.21 - Updated logo of the gitbook & social media
+
+
+
+* [x] 17.11.21 - Updated the contact page
+* [x] 17.11.21 - website UI optimization
+
+
+
+* [x] 16.11.21 - Added wallet connect interface
+* [x] 16.11.21 - Optimizing left menu-icon function
+
+
+
 * [x] 15.11.21 - Linking gitbook to babylonia.app website
 * [x] 15.11.21 - Synchronizing gitbook with GitHub, accessing to the repositories
 * [x] 15.11.21 - Adding flying astronaut with Alpha Stage to the main page
 * [x] 15.11.21 - Adding images to the gitbook
-* [x] 16.11.21 - Added wallet connect interface
-* [x] 16.11.21 - Optimizing left menu-icon function
-* [x] 17.11.21 - Updated the contact page
-* [x] 17.11.21 - website UI optimization
-* [x] 19.11.21 - Added LOGO to the slides
-* [x] 19.11.21 - Updated logo of the gitbook & social media
-* [x] 20.11.21 - Added returning Astronaut-Image trajectory
-* [x] 20.11.21 - Added ROADMAP slide to the gitbook
-* [x] 21.11.21 - Added POOL slide to the gitbook + updating the website
-
-
-
