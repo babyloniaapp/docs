@@ -7,6 +7,12 @@ description: >-
 
 # 📅 Logs
 
+
+
+* [x] 21.11.21 - Added NFT slide page to the gitbook
+* [x] 21.11.21 - Added NFT slide to the website
+* [x] 21.11.21 - Completing Roadmap section on the gitbook
+* [x] 20.11.21 - Added returning Astronaut-Image trajectory
 * [x] 20.11.21 - Added returning Astronaut-Image trajectory
 * [x] 20.11.21 - Added ROADMAP slide to the gitbook
 * [x] 20.11.21 - Added POOL slide to the gitbook + updating the website
