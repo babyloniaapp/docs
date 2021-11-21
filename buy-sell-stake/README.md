@@ -1,6 +1,10 @@
-# 💰 Buy, Sell & Stake
+---
+description: Stake, farm, buy and sell!
+---
 
-![](https://images.unsplash.com/photo-1518133120397-258d5eb470c6?crop=entropy\&cs=srgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxjYXNpbm8lMjBjaGlwc3xlbnwwfHx8fDE2MzY5ODkxNzk\&ixlib=rb-1.2.1\&q=85)
+# 💰 Pool
+
+![](../.gitbook/assets/SLIDES\_POOL\_003\_4x3\_withLogo.jpg)
 
 Here you find everything you need to know on how to buy & sell [_<mark style="background-color:orange;">**babylonia.app**</mark>_](https://babylonia.app) tokens, on how to use them, trade them and finally stake them to earn more tokens.
 

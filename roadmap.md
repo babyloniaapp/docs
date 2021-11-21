@@ -6,41 +6,52 @@ coverY: -413.21585903083707
 
 # 🚀 Roadmap
 
-![](.gitbook/assets/SLIDES\_ROADMAP\_001.png)
+![](.gitbook/assets/SLIDES\_ROADMAP\_002\_4x3\_withLogo.jpg)
 
-* [ ] Alpha launch of **babylobia.app **website
-* [ ] Creating --> testing ERC20 tokens on BSC testnet
-* [ ] Developing of 3 games: 1 slot 2 lottery 3 roulette
-* [ ] Creating the Telegram General Chat ground
-* [ ] Presentation material
-*
+### Alpha Stage 2021Q4-2022Q1
 
-1.1.    beta token deployment
+* [x] Publishing the website
+* [x] Publishing the documents on GitBook
+* [ ] Developing Games: 1\ Lottery
+* [ ] Developing Games: 2\ Roulette
+* [x] a Telegram channel deployment
+* [ ] Presenting the website
+* [ ] Marketing & promoting the website
+* [ ] Testing the tokens & tokenomics and crowdsale on BSC testnet
+* [ ] Twitter presentation and activities
+* [ ] Looking for partners & collaborators
 
-1.2.    presale and crowdfunding
+### Crowdsale #1 2022Q1-2022Q2
 
-1.3.    hourly, every 4 hours, daily lottery
+* [ ] Last month performance analysis and updating the roadmap
+* [ ] Deploying the liquid pairs and starting pre-minting on BSC testnet
+* [ ] Starting beta-test of the Games 1\ Loterry&#x20;
+* [ ] Website visual updates + preparations for Crowdsale #1
+* [ ] Deployments of the Games website pages on new VPS hosting
+* [ ] Games server deployments
+* [ ] Kicking off the Crowdsale #1 with/without partners
+* [ ] Buying collaterals simultaneously with the Crowdsale #1
 
-1.4.    chat rooms telegram discord deployment
+### Beta Launch 2022Q1-2022Q2
 
-*   [ ] **August: Performance analysis**
 
-    2.1.    last month performance analysis and updating the roadmap
 
-    2.2.    deploying the liquid pairs and starting pre-minting
+### Crowdsale #2 2022Q2-2022Q3
 
-    2.3.    starting the beta blockchain slow-roulette&#x20;
 
-    2.4.    website visual updates
-*   [ ] **September: Potential mainnet babylonia.app launch**
 
-    3.1.    last month performance analysis and updating the roadmap
+### Open Mark 2022Q2-2022Q3
 
-    3.2.    main slow-roulette launch
 
-    3.3.    beta fast-roulette launch
 
-    3.4.    applying patent for slow-roulette&#x20;
+
+
+### Main Launch 2022Q2-2022Q3
+
+****
+
+### Expansion Plan I 2022Q3-2022Q4
+
 *   [ ] **Q4-2021: migration to the city base architecture**
 
     4.1.    Selling lands, structure and buildings
