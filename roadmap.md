@@ -34,6 +34,11 @@ coverY: -413.21585903083707
 
 ### Beta Launch 2022Q1-2022Q2
 
+* [ ] Last phase performance analysis and updating the roadmap
+* [ ] Align the goals and assign the budget to the tasks as plan
+* [ ] Using purchased collaterals in yield-earning swaps for extra income
+* [ ] Starting the Games 1\ Loterry with BUSD, BNB on BSC
+
 
 
 ### Crowdsale #2 2022Q2-2022Q3
