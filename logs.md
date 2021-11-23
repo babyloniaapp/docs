@@ -7,6 +7,8 @@ description: >-
 
 # 📅 Logs
 
+* [x] 23.11.21 - Completing Roadmap section Beta Launch on the gitbook
+
 
 
 * [x] 21.11.21 - Added NFT slide page to the gitbook

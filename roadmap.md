@@ -43,7 +43,10 @@ coverY: -413.21585903083707
 
 ### Crowdsale #2 2022Q2-2022Q3
 
-
+* [ ] Allocating from sales to collateral&#x20;
+* [ ] Starting the marketing campaign phase II
+* [ ] Hiring team members: 1\ web-developer backend, 2\ web-developer frontend, 3\ blockchain developer security, 4\ full-time social media promoter
+* [ ] Starting the Games 2\ Roulette with BUSD, BNB on BSC
 
 ### Open Mark 2022Q2-2022Q3
 
