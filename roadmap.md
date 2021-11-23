@@ -23,6 +23,8 @@ coverY: -413.21585903083707
 
 ### Crowdsale #1 2022Q1-2022Q2
 
+![](.gitbook/assets/SLIDES\_CROWDSALE#1\_002\_4x3\_withLogo.jpg)
+
 * [ ] Last month performance analysis and updating the roadmap
 * [ ] Deploying the liquid pairs and starting pre-minting on BSC testnet
 * [ ] Starting beta-test of the Games 1\ Loterry&#x20;
