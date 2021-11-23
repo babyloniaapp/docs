@@ -8,6 +8,10 @@ description: >-
 # 📅 Logs
 
 * [x] 23.11.21 - Completing Roadmap section Beta Launch on the gitbook
+* [x] 23.11.21 - Updating the Roadmap
+* [x] 23.11.21 - Increased twitter activities
+* [x] 23.11.21 - Preparing the VPS hosting for Games I
+* [x] 23.11.21 - Preparation of Giveaway I campaign&#x20;
 
 
 

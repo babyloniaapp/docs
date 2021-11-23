@@ -13,7 +13,7 @@ coverY: -413.21585903083707
 * [x] Publishing the website
 * [x] Publishing the documents on GitBook
 * [ ] Developing Games: 1\ Lottery
-* [ ] Developing Games: 2\ Roulette
+* [ ] Developing Games: 2\ Slow-Roulette
 * [x] a Telegram channel deployment
 * [ ] Presenting the website
 * [ ] Marketing & promoting the website
@@ -38,6 +38,7 @@ coverY: -413.21585903083707
 * [ ] Align the goals and assign the budget to the tasks as plan
 * [ ] Using purchased collaterals in yield-earning swaps for extra income
 * [ ] Starting the Games 1\ Loterry with BUSD, BNB on BSC
+* [ ] Starting beta-test of the Games 2\ Slow-Roulette
 
 
 
@@ -48,6 +49,9 @@ coverY: -413.21585903083707
 * [ ] Hiring team members: 1\ web-developer backend, 2\ web-developer frontend, 3\ blockchain developer security, 4\ full-time social media promoter
 * [ ] Starting the Games 2\ Roulette with BUSD, BNB on BSC
 * [ ] Security audits of smart contract of BABY V2 token
+*   [ ] Security audits of smart contracts of CHIP (CHP) & CREDIT (CRD) tokens
+
+
 
 ### Open Market 2022Q2-2022Q3
 
@@ -60,7 +64,12 @@ coverY: -413.21585903083707
 
 ### Main Launch 2022Q2-2022Q3
 
-****
+* [ ] Deploying the minting contracts
+* [ ] Deploying the smart contracts of CHIP (CHP) & CREDIT (CRD) tokens
+* [ ] CHIP (CHP) token airdrops implementation
+* [ ] Starting the Games, 1\ Lottery & 2\ Roulette with CHIP (CHP) & CREDIT (CRD)
+
+
 
 ### Expansion Plan I 2022Q3-2022Q4
 
