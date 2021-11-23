@@ -47,10 +47,14 @@ coverY: -413.21585903083707
 * [ ] Starting the marketing campaign phase II
 * [ ] Hiring team members: 1\ web-developer backend, 2\ web-developer frontend, 3\ blockchain developer security, 4\ full-time social media promoter
 * [ ] Starting the Games 2\ Roulette with BUSD, BNB on BSC
+* [ ] Security audits of smart contract of BABY V2 token
 
-### Open Mark 2022Q2-2022Q3
+### Open Market 2022Q2-2022Q3
 
-
+* [ ] Conversion of PBTM to BABY V2
+* [ ] Starting the process of swapping PBTM to BABY V2
+* [ ] Deploying the liquidity pairs on pancakeswap / BSC chain starting with BABY - BNB & BABY - BUSD
+* [ ] Setting the open market price at $0.4
 
 
 
