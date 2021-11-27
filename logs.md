@@ -8,7 +8,7 @@ description: >-
 
 # 📅 Logs
 
-    27.11.21 - Added TOKEN DISTRIBUTION slide
+27.11.21 - Added TOKEN DISTRIBUTION slide
 #
 25.11.21 - Added countdown timer on the babylonia.app
 #
