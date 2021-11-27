@@ -1,13 +1,6 @@
+>  📅 **LOGS**: We will publish our daily, weekly and monthly updates. It is very important   for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
----
-description: >-
-  ​We will publish our daily, weekly and monthly updates. It is very important
-  for investors, users and players to know what exactly we're doing, how or on
-  what we spend time and money.
----
-
-# 📅 Logs
-
+#
 27.11.21 - Added TOKEN DISTRIBUTION slide
 #
 25.11.21 - Added countdown timer on the babylonia.app
