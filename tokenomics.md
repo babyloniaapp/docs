@@ -26,6 +26,8 @@ Total supply: not capped fixed ratio vs. BUSD or USDC or USDT of : 1000 CHP = 1 
 
 ### Proportionally backed token mechanism (PBTM)&#x20;
 
+![](.gitbook/assets/SLIDES\_TOKENDISTRIBUTION\_001\_4x3\_withLogo.jpg)
+
 Total supply: 21,000,000&#x20;
 
 The PBTM v2 contract will be transformed to Babylonia Token (BABY) later on the project&#x20;

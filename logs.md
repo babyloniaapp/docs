@@ -7,6 +7,14 @@ description: >-
 
 # 📅 Logs
 
+* [x] 27.11.21 - Added TOKEN DISTRIBUTION slide
+
+
+
+* [x] 25.11.21 - Added countdown timer on the babylonia.app
+
+
+
 * [x] 23.11.21 - Completing Roadmap section Beta Launch on the gitbook
 * [x] 23.11.21 - Updating the Roadmap
 * [x] 23.11.21 - Increased twitter activities
