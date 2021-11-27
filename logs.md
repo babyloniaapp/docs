@@ -6,14 +6,19 @@
 25.11.21 - Added countdown timer on the babylonia.app
 #
 23.11.21 - Completing Roadmap section Beta Launch on the gitbook
+
 23.11.21 - Updating the Roadmap
+
 23.11.21 - Increased twitter activities
+
 23.11.21 - Preparing the VPS hosting for Games I
-23.11.21 - Preparation of Giveaway I campaign&#x20;
+
+23.11.21 - Preparation of Giveaway I campaign
 #
 21.11.21 - Added NFT slide page to the gitbook
 21.11.21 - Added NFT slide to the website
 21.11.21 - Completing Roadmap section on the gitbook
+#
 20.11.21 - Added returning Astronaut-Image trajectory
 20.11.21 - Added returning Astronaut-Image trajectory
 20.11.21 - Added ROADMAP slide to the gitbook
