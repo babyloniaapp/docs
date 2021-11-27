@@ -19,10 +19,10 @@
 21.11.21 - Added NFT slide to the website
 21.11.21 - Completing Roadmap section on the gitbook
 #
-20.11.21 - Added returning Astronaut-Image trajectory
-20.11.21 - Added returning Astronaut-Image trajectory
-20.11.21 - Added ROADMAP slide to the gitbook
-20.11.21 - Added POOL slide to the gitbook + updating the website
+20.11.21 - Added returning Astronaut-Image trajectory;
+20.11.21 - Added returning Astronaut-Image trajectory;
+20.11.21 - Added ROADMAP slide to the gitbook;
+20.11.21 - Added POOL slide to the gitbook + updating the website;
 #
 19.11.21 - Added LOGO to the slides
 19.11.21 - Updated logo of the gitbook & social media
