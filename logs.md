@@ -1,4 +1,4 @@
->  📅 **LOGS**: We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+> We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 #
 28.11.21 - Added CROWDSALE distribution slides to the gitBook\
 28.11.21 - Progressing on the website mobile version\
