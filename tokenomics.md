@@ -32,11 +32,19 @@ Total supply: 21,000,000&#x20;
 
 The PBTM v2 contract will be transformed to Babylonia Token (BABY) later on the project&#x20;
 
+![](.gitbook/assets/SLIDES\_CROWDSALE#1\_distri\_001\_4x3\_withLogo.jpg)
+
 Crowdsale #1: 2,100,000 - SP: $0.1-0.2 proportionally -->Unsold quantity will be transferred to second pre-sale&#x20;
 
-Crowdsale #2, 2,100,000 - SP: $0.2-0.4 proportionally -->Unsold pre-sale will be transferred to Open Market Launch&#x20;
+The Crowdsale #1 revenue generation will be distributed as: Development Team 35%, Collateral 30%, Website transition to a dedicated server 5%, Security audits 10%, and finally Marketing & Sale 20%.
 
-Remainder of crowdsale (unsold tokens) + 6,300,000 to yield rewards to the total of 70% of total supply in next two years.&#x20;
+![](.gitbook/assets/SLIDES\_CROWDSALE#2\_distri\_001\_4x3\_withLogo.jpg)
+
+Crowdsale #2, 2,100,000 - SP: $0.2-0.4 proportionally -->Unsold pre-sale will be transferred to Open Market Launch.
+
+The revenue generation will be assigned to: SWAP liquidity pairs 60%, Collateral 15%, Marketing & Sale 15%, Security audits 5%, Development Team 5%.
+
+What is remained and left of crowdsale (unsold tokens) + 6,300,000 to yield rewards to the total of 70% of total supply in next two years.&#x20;
 
 Expansion rate will proportional to the market demand, less demand will reduce the minting rate, higher demand will accelerate the minting ratio. We are still working on the whereabouts of the algorithm but for the first six months, the expansion will be fixed to (**100% - 30%** + **unsold tokens from crowd sales %**) / 2 years, so if all **20% of tokens** which are assigned to the crowd sales have been sold, the targeted expansion rate will be **50%** in 2 years, or 2.088% monthly.&#x20;
 
