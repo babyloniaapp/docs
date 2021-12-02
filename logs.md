@@ -1,10 +1,10 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 #
-02.12.21 - Updating the Roadmap
-02.12.21 - Publishing daily short stories on Twitter
+02.12.21 - Updating the Roadmap\
+02.12.21 - Publishing daily short stories on Twitter\
 02.12.21 - Initialization of BEP20 token
 #
-28.11.21 - Added CROWDSALE distribution slides to the gitBook\
+28.11.21 - Added CROWDSALE distribution slides to the gitbook\
 28.11.21 - Progressing on the website mobile version\
 28.11.21 - Twitting daily short stories & thanks for 300 followers
 #
