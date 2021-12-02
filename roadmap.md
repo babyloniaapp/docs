@@ -39,7 +39,7 @@ coverY: -413.21585903083707
 * [ ] Last phase performance analysis and updating the roadmap
 * [ ] Align the goals and assign the budget to the tasks as plan
 * [ ] Using purchased collaterals in yield-earning swaps for extra income
-* [ ] Starting the Games 1\ Loterry with BUSD, BNB on BSC
+* [ ] Starting the Games 1\ Lottery with BUSD, BNB on BSC
 * [ ] Starting beta-test of the Games 2\ Slow-Roulette
 
 
@@ -73,12 +73,10 @@ coverY: -413.21585903083707
 
 
 
-### Expansion Plan I 2022Q3-2022Q4
+### Expansion Plan I 2022Q3-2023Q1
 
-*   [ ] **Q4-2021: migration to the city base architecture**
-
-    4.1.    Selling lands, structure and buildings
-
-    4.2.    Starting of Casinos and entertainment centers
-
-    4.3.    Introduction of private ownership&#x20;
+* [ ] Migration to the city base architecture, modular and independent&#x20;
+* [ ] Selling lands, structure and buildings
+* [ ] Starting of Casinos and entertainment centers
+* [ ] Introduction of private ownership&#x20;
+* [ ] Implementation of 3rd party games and application
