@@ -1,8 +1,8 @@
 # 🪙 Tokenomics
 
-## **Tokens** <a href="swamp-reward-distribution" id="swamp-reward-distribution"></a>
+## **Tokens** <a href="#swamp-reward-distribution" id="swamp-reward-distribution"></a>
 
-There are 3 main tokens on **Babylonia**. **BABY (BABY), CHIP(CHP) **and** CREDIT (CRD).  BABY **is the main token of the platform, hard-capped to 21,000,000, mintable and partially backed by collaterals. CHIP & CREDIT are functional tokens, can be used only in babylonia.app, they are not hard-capped, cannot be minted by public.&#x20;
+There are 3 main tokens on **Babylonia**. **BABY (BABY), CHIP(CHP)** and **CREDIT (CRD).  BABY** is the main token of the platform, hard-capped to 21,000,000, mintable and partially backed by collaterals. CHIP & CREDIT are functional tokens, can be used only in babylonia.app, they are not hard-capped, cannot be minted by public.&#x20;
 
 Tokens format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom, the BABY token will be bridged between the blockchains, maintaining the total hard cap, will be distributed proportionally to the performance & demand of network. As the BSC transaction fee getting more expensive due to increase in price of BNB, we gradually move toward Polygon & Fantom.
 
@@ -30,7 +30,11 @@ Total supply: not capped fixed ratio vs. BUSD or USDC or USDT of : 1000 CHP = 1 
 
 Total supply: 21,000,000&#x20;
 
-The PBTM v2 contract will be transformed to Babylonia Token (BABY) later on the project&#x20;
+The PBTM v2 contract will be transformed to Babylonia Token (BABY) later on the project. The following table shows the collateral ratio in relation with the market cap of the BABY.
+
+![](<.gitbook/assets/PAGES\_Collateral Ratio\_01.jpg>)
+
+&#x20;
 
 ![](.gitbook/assets/SLIDES\_CROWDSALE#1\_distri\_001\_4x3\_withLogo.jpg)
 
@@ -50,4 +54,4 @@ Expansion rate will proportional to the market demand, less demand will reduce t
 
 Let's talk about the rest **30% of PBTM tokens**. 7% is designated to the founders, will be unlocked a year after the main launch. 7% goes to the marketing and sales activities. 5% is for the licensing, insurance and security audits. And finally, 11% is assigned to the development and team buy backs, burning and backing Aside from creating an entertaining platform that everyone have fun and spend a good time, the main goal of babylonia.app is to reward tokens holders, as the most important part of this platform. Without support of citizens of babylonia.app we never could develop the platform as effectively. So, embedded into the system, every dollar of income of the platform is being shared with PBTM tokens holders. The accurate formula of taking rewards, buyback and collateral adding feature will be released soon. Stay tuned and keep looking up.
 
-## **** <a href="all-vaults-including-swamp-vaults" id="all-vaults-including-swamp-vaults"></a>
+## **** <a href="#all-vaults-including-swamp-vaults" id="all-vaults-including-swamp-vaults"></a>

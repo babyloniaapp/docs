@@ -12,13 +12,13 @@ In the space of crypto, especially in the Decentralized Finance (DeFi) space, us
 
 ### Only 18+
 
-### **General DeFi Risks** <a href="general-defi-risks" id="general-defi-risks"></a>
+### **General DeFi Risks** <a href="#general-defi-risks" id="general-defi-risks"></a>
 
 DeFi risks encapsulates a wide range of risks such as [impermanent loss](https://www.bsc.news/post/cryptonomics-what-is-impermanent-loss) to risks of falling for scams such as wallet draining, private key being stolen, et cetera. Hence, DeFi users have to be careful themselves and learn to educate themselves constantly in this space. You can find a guide to keeping your funds SAFU [here](https://letmeape.medium.com/how-to-keep-your-funds-safe-metamask-guide-816773968310).
 
-### **3rd Party Risks** <a href="3rd-party-risks" id="3rd-party-risks"></a>
+### **3rd Party Risks** <a href="#3rd-party-risks" id="3rd-party-risks"></a>
 
-3rd Party Risks All the partners and 3rd party associates have been through a general audit regarding authenticity and being genuine of their project and services, however we do not control, dictate or monitor their activities and actions. Therefore, [_<mark style="background-color:orange;">**babylonia.app**</mark>_](https://babylonia.app)_** **_is not responsible for any of their wrong doing and potential misbehavior. We terminate or suspend any malicious and flawed activities of partners when they contradict or oppose the Babylonia constitution.
+3rd Party Risks All the partners and 3rd party associates have been through a general audit regarding authenticity and being genuine of their project and services, however we do not control, dictate or monitor their activities and actions. Therefore, [_<mark style="background-color:orange;">**babylonia.app**</mark>_](https://babylonia.app) _****_ is not responsible for any of their wrong doing and potential misbehavior. We terminate or suspend any malicious and flawed activities of partners when they contradict or oppose the Babylonia constitution.
 
 ### **​DO NOT USE YOUR MAIN WALLET!**
 
