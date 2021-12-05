@@ -1,6 +1,6 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 #
-04.12.21 - Deploying the BABY gold token on BSC Polygon and Fantom testnet\
+04.12.21 - Deploying the BABY gold token on BSC Polygon and Fantom testnet, last eteration available  https://testnet.bscscan.com/token/0xc0fb3250b550c6d20cbd7aa67c14fbe5136262e2?a=0xdbe29149E5E8752F438D37eDa188Dfec1E723AA2 \
 04.12.21 - Deploying crowdsale contract on BSC testnet
 #
 02.12.21 - Updating the Roadmap\
