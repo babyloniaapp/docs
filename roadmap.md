@@ -15,15 +15,15 @@ coverY: -413.21585903083707
 * [ ] Developing Games: 1\ Lottery
 * [ ] Developing Games: 2\ Slow-Roulette
 * [x] a Telegram channel deployment
-* [ ] Presenting the website
-* [ ] Marketing & promoting the website
-* [ ] Testing the tokens & tokenomics and crowdsale on BSC testnet
-* [ ] Twitter presentation and activities
+* [x] Presenting the website
+* [x] Marketing & promoting the website
+* [x] Testing the tokens & tokenomics and crowdsale on BSC testnet
+* [x] Twitter presentation and activities
 * [ ] Looking for partners & collaborators
 
 ### Crowdsale #1 2022Q1-2022Q2
 
-![](.gitbook/assets/SLIDES\_CROWDSALE#1\_002\_4x3\_withLogo.jpg)
+![](.gitbook/assets/SLIDES\_CROWDSALE#1\_001\_4x3\_withLogo.jpg)
 
 * [ ] Last month performance analysis and updating the roadmap
 * [ ] Deploying the liquid pairs and starting pre-minting on BSC testnet
