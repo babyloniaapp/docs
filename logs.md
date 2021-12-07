@@ -2,6 +2,9 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ##
+07.12.21 - Added coinmarketcap marquee\
+07.12.21 - Prepration of Crowdsale #1 on BSC testnet
+##
 06.12.21 - Another deploying of BABY token & successful crowdsale contract on BSC testnet, [reference here](https://testnet.bscscan.com/address/0x4f3a39480cc0a3a5cf031527ec0ed6b1b86c58b7)
 ##
 05.12.21 - Added collateral page on gitbook
