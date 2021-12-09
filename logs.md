@@ -2,6 +2,8 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ##
+09.12.21 - updated the mobile version of website, added features and crowdsale #1 countdown
+##
 07.12.21 - Added coinmarketcap marquee\
 07.12.21 - Prepration of Crowdsale #1 on BSC testnet
 ##
