@@ -24,7 +24,7 @@
   * [Bridge](pool/bridge.md)
 * [🎴 NFTs](nfts.md)
 * [🚀 Roadmap](roadmap.md)
-* [🇺🇳 Charity & Donation](charity.md)
+* [🌍 Charity & Donation](charity.md)
 * [🗳 Governing, proposal & voting](governence-voting.md)
 * [❓ FAQ](faq.md)
 * [😎 Useful Links](useful-links.md)
