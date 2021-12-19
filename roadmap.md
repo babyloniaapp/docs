@@ -7,6 +7,7 @@ coverY: -413.21585903083707
 # 🚀 Roadmap
 
 ![](.gitbook/assets/SLIDES\_ROADMAP\_002\_4x3\_withLogo.jpg)
+#
 The babylonia roadmap is a guide that describes the steps we need to take in order to reach our project goals. It's a plan of action that lines up our project's short-term and long-term goals, and we outline how they will be achieved. We start the project with an "Alpha Stage", which is consisted of initial planning, launching of the website, preparing the smart contracts of the token and "Crowdsale #1", and developing the phase I of the gaming platform. After the crowdfunding phases, we begin to testing the integration of tokenomics into the gaming platform, that stage is called "Beta Launch". The roadmap will be updated as the project proceeds, we might add extra steps to achieve the next milestone.
 ### Alpha Stage 2021Q4-2022Q1
 
@@ -22,9 +23,10 @@ The babylonia roadmap is a guide that describes the steps we need to take in ord
 * [ ] Looking for partners & collaborators
 
 ### Crowdsale #1 2022Q1-2022Q2
-
 ![](.gitbook/assets/SLIDES\_CROWDSALE#1\_001\_4x3\_withLogo.jpg)
-
+#
+We kick off the project in Q1 of 2022 with a public crowdfunding, 10% of total BABY tokens will be available to buy. Most of Crowdsale #1 fund generation will be spent on development of the project games and platform.
+#
 * [ ] Last month performance analysis and updating the roadmap
 * [ ] Deploying the liquid pairs and starting pre-minting on BSC testnet
 * [ ] Starting beta-test of the Games 1\ Loterry&#x20;
