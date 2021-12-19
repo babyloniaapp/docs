@@ -2,6 +2,9 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ##
+19.12.21 - Updating the Roadmap section on the docs\
+19.12.21 - Working on the babylonia.app SEO, optimizing for the google search
+##
 15.12.21 - deploying of BABY token with 888m supply & successful timecapped crowdsale contract on Fantom testnet, [reference here](https://testnet.ftmscan.com/address/0x8fd0Db385f03f7f99E4c16DAF96572ABEA54bbF1)
 ##
 12.12.21 - deploying of BABY token with 888m supply & successful crowdsale contract on Fantom testnet, [reference here](https://testnet.ftmscan.com/token/0xe2ea392b2d5a8d46a6b205fa97e25c7b551ca119?a=0xCe7f562B7a0Bb8c2cB121B0F4b6D453a18F4Da9D)
