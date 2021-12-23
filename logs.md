@@ -2,6 +2,12 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 >
+------------
+
+
+23.12.21 - SEO got under control, still work in progress\
+23.12.21 - Deployed CDN of babylonia.app, the website should be running smoother\
+23.12.21 - Deployed BABY Token on BSC with 888,888,888 capped total supply [reference here](https://bscscan.com/token/0xb8395727288ad2c86be5ba848c7fcc40e902b6d6)
 
 ------------
 
