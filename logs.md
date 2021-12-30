@@ -1,7 +1,9 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
->
+------------
+30.12.21 - Replacing the coinmarketcap marque widget with tradingview ticker as CMC one stopped working
+
 ------------
 28.12.21 - Deploying game "Dice Classic" on the VPS service, allocating to the new domain\
 28.12.21 - Finallizing wallet connet app and Crowdsale #1 interface
