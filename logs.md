@@ -2,6 +2,14 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
+05.01.22 - Preparing promotional plans on Twitter, promoting a tweet and give away campaigns
+
+------------
+04.01.22 - Some visual upgrades on the Crowdsale #1 theme of the website\
+04.01.22 - Deploying Game & Pool subdomains, will be linking soon the the website\
+04.01.22 - Completing two games of Game Phase I, Classic Dice & Bingo Classic, bought the code, we optimize and fit them to the platform
+
+------------
 30.12.21 - Replacing the coinmarketcap marque widget with tradingview ticker as CMC one stopped working
 
 ------------
