@@ -2,6 +2,9 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
+09.01.22 - Finalizing the Pool, connect to wallet section, will be published and linked soon this week.
+
+------------
 05.01.22 - Preparing promotional plans on Twitter, promoting a tweet and give away campaigns
 
 ------------
