@@ -2,6 +2,10 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
+13.01.22 - Starting the giveaway campaign on Twitter Starting 14.01.22, lasts for 72 hours\
+13.01.22 - Last touches on the Pool, will be published shortly
+
+------------
 09.01.22 - Finalizing the Pool, connect to wallet section, will be published and linked soon this week.
 
 ------------
