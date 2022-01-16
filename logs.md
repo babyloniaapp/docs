@@ -2,6 +2,11 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
+16.01.22 - Working on the Instagram posts and stuff\
+16.01.22 - Finally our pool.babylonia.app & game.babylonia.app is linked and connected thanks to Raiden our CTO\
+16.01.22 - Put an add for hiring web dev on upwork, doing interviews
+
+------------
 13.01.22 - Starting the giveaway campaign on Twitter Starting 14.01.22, lasts for 72 hours\
 13.01.22 - Last touches on the Pool, will be published shortly
 
