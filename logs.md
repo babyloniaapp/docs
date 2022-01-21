@@ -2,6 +2,13 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
+21.01.22 - We are about to hire three new developers\
+21.01.22 - Started the transition to React based platform from WordPress
+
+------------
+19.01.22 - Hired a new web developer, welcome Gloompi to the Babylonia team!
+
+------------
 16.01.22 - Working on the Instagram posts and stuff\
 16.01.22 - Finally our pool.babylonia.app & game.babylonia.app is linked and connected thanks to Raiden our CTO\
 16.01.22 - Put an add for hiring web dev on upwork, doing interviews
