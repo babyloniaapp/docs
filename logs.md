@@ -2,6 +2,14 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
+27.01.22 - Our transformation of main website from WordPress to React application is almost done, the website will be live during next days\
+27.01.22 - Our pool.babylonia.app subdomain is finally ready and live, it works with MetaMask and TrustWallet for now, thanks team!
+
+------------
+25.01.22 - We hired a team of social madia content creator and advisers\
+25.01.22 - Working to finalize the hiring of blockchain developer for out lottery application
+
+------------
 21.01.22 - We are about to hire three new developers\
 21.01.22 - Started the transition to React based platform from WordPress
 
@@ -18,10 +26,16 @@
 13.01.22 - Last touches on the Pool, will be published shortly
 
 ------------
+10.01.22 - We welcome Dr. ALMA to the Babylonia, he will be partnering on the project, and will be operating as the CMO.
+
+------------
 09.01.22 - Finalizing the Pool, connect to wallet section, will be published and linked soon this week.
 
 ------------
 05.01.22 - Preparing promotional plans on Twitter, promoting a tweet and give away campaigns
+
+------------
+04.01.22 - Unfortunately Bamzi has left the team and retired as the co-founder and partner
 
 ------------
 04.01.22 - Some visual upgrades on the Crowdsale #1 theme of the website\
