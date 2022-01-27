@@ -20,7 +20,10 @@ The babylonia roadmap is a guide that describes the steps we need to take in ord
 * [x] Marketing & promoting the website
 * [x] Testing the tokens & tokenomics and crowdsale on BSC testnet
 * [x] Twitter presentation and activities
+* [x] Hiring smart contract devs
+* [x] Hiring social media creators
 * [ ] Looking for partners & collaborators
+* [ ] Expansion on web3 applications, pool, tickers, blockchain connector
 
 ### Crowdsale #1 2022Q1-2022Q2
 ![](.gitbook/assets/SLIDES\_CROWDSALE#1\_001\_4x3\_withLogo.jpg)
