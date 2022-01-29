@@ -2,6 +2,10 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
+29.01.22 - We hired a game/smart contract developer to help us developing our lottery on Binance Smart Chain (BSC)\
+29.01.22 - Started to expand our pool.babylonia.app web3 application to Polygon and later to Fantom chains
+
+------------
 27.01.22 - Our transformation of main website from WordPress to React application is almost done, the website will be live during next days\
 27.01.22 - Our pool.babylonia.app subdomain is finally ready and live, it works with MetaMask and TrustWallet for now, thanks team!
 
