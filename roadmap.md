@@ -26,7 +26,7 @@ The babylonia roadmap is a guide that describes the steps we need to take in ord
 * [ ] Expansion on web3 applications, pool, tickers, blockchain connector
 
 ### Crowdsale #1 2022Q1-2022Q2
-![](.gitbook/assets/SLIDES\_CROWDSALE#1\_001\_4x3\_withLogo.jpg)
+![](.gitbook/assets/SLIDES\SLIDES_CROWDSALE#1_003_4x3_withLogo.jpg)
 #
 We kick off the project in Q1 of 2022 with a public crowdfunding, 10% of total BABY tokens will be available to buy. Most of Crowdsale #1 fund generation will be spent on development of the project games and platform.
 #
