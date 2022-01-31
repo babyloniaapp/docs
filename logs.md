@@ -2,6 +2,9 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
+30.01.22 - Our new website is live, all programmed with React.js , now it is compatible with many more browsers like Safari too. We still working on the refinement, but it is much faster, lighter. The transition from WordPress is done. Thanks guys!
+
+------------
 29.01.22 - We hired a game/smart contract developer to help us developing our lottery on Binance Smart Chain (BSC)\
 29.01.22 - Started to expand our pool.babylonia.app web3 application to Polygon and later to Fantom chains
 
