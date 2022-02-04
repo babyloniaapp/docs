@@ -2,8 +2,11 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
-03.01.22 - This week we have started working on the smart contract lottery, developing the UI and the contract on the BSC test net\
-03.01.22 - Team is working on completing pool.babylonia.app, adding features, also completing the front-end and back-end parts of ICO, which will be linked to the pool section
+04.02.21 - We are having our second #Giveaway on Twitter and Instagram, [link here](https://twitter.com/AppBabylonia/status/1489510002239086594?s=20&t=aw7hqalLb0k1VMU9QgWatw)
+
+------------
+03.02.22 - This week we have started working on the smart contract lottery, developing the UI and the contract on the BSC test net\
+03.02.22 - Team is working on completing pool.babylonia.app, adding features, also completing the front-end and back-end parts of ICO, which will be linked to the pool section
 
 ------------
 30.01.22 - Our new website is live, all programmed with React.js , now it is compatible with many more browsers like Safari too. We still working on the refinement, but it is much faster, lighter. The transition from WordPress is done. Thanks guys!
