@@ -1,6 +1,10 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+
+------------
+06.02.22 - Dev Working on chain selector tool for MetaMask, and our pool.babylonia.app web3 connector on Polygon & Fantom
+
 ------------
 04.02.21 - We are having our second #Giveaway on Twitter and Instagram, [link here](https://twitter.com/AppBabylonia/status/1489510002239086594?s=20&t=aw7hqalLb0k1VMU9QgWatw)
 
