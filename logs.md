@@ -1,6 +1,8 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+------------
+07.02.22 - We planned to go multichain for ICO at the same time, devs working on new token machanism and therefore Crowdsale contract mods 
 
 ------------
 06.02.22 - Dev Working on chain selector tool for MetaMask, and our pool.babylonia.app web3 connector on Polygon & Fantom
