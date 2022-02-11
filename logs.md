@@ -2,7 +2,11 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
-07.02.22 - We planned to go multichain for ICO at the same time, devs working on new token machanism and therefore Crowdsale contract mods 
+11.02.22 - Yesterday we ended the contract with a social media content creator we hired thought Upwork, despite of their effort, we were not happy with their knowledge and quality of work they provided. We looking for another recruits.\
+11.02.22 - We have planned to host an IPO & ICO services in future as a part of portfolio of our products
+
+------------
+07.02.22 - We planned to go multichain for ICO at the same time, devs working on new token mechanism and therefore Crowdsale contract mods 
 
 ------------
 06.02.22 - Dev Working on chain selector tool for MetaMask, and our pool.babylonia.app web3 connector on Polygon & Fantom
@@ -15,7 +19,7 @@
 03.02.22 - Team is working on completing pool.babylonia.app, adding features, also completing the front-end and back-end parts of ICO, which will be linked to the pool section
 
 ------------
-30.01.22 - Our new website is live, all programmed with React.js , now it is compatible with many more browsers like Safari too. We still working on the refinement, but it is much faster, lighter. The transition from WordPress is done. Thanks guys!
+30.01.22 - Our new website is live, all programmed with React.js, now it is compatible with many more browsers like Safari too. We still working on the refinement, but it is much faster, lighter. The transition from WordPress is done. Thanks guys!
 
 ------------
 29.01.22 - We hired a game/smart contract developer to help us developing our lottery on Binance Smart Chain (BSC)\
@@ -26,7 +30,7 @@
 27.01.22 - Our pool.babylonia.app subdomain is finally ready and live, it works with MetaMask and TrustWallet for now, thanks team!
 
 ------------
-25.01.22 - We hired a team of social madia content creator and advisers\
+25.01.22 - We hired a team of social media content creator and advisers\
 25.01.22 - Working to finalize the hiring of blockchain developer for out lottery application
 
 ------------
@@ -39,7 +43,7 @@
 ------------
 16.01.22 - Working on the Instagram posts and stuff\
 16.01.22 - Finally our pool.babylonia.app & game.babylonia.app is linked and connected thanks to Raiden our CTO\
-16.01.22 - Put an add for hiring web dev on upwork, doing interviews
+16.01.22 - Put an ad for hiring web dev on Upwork, doing interviews
 
 ------------
 13.01.22 - Starting the giveaway campaign on Twitter Starting 14.01.22, lasts for 72 hours\
@@ -59,7 +63,7 @@
 
 ------------
 04.01.22 - Some visual upgrades on the Crowdsale #1 theme of the website\
-04.01.22 - Deploying Game & Pool subdomains, will be linking soon the the website\
+04.01.22 - Deploying Game & Pool subdomains, will be linking soon the website\
 04.01.22 - Completing two games of Game Phase I, Classic Dice & Bingo Classic, bought the code, we optimize and fit them to the platform
 
 ------------
@@ -67,7 +71,7 @@
 
 ------------
 28.12.21 - Deploying game "Dice Classic" on the VPS service, allocating to the new domain\
-28.12.21 - Finallizing wallet connet app and Crowdsale #1 interface
+28.12.21 - Finallizing wallet connect app and Crowdsale #1 interface
 
 ------------
 23.12.21 - SEO got under control, still work in progress\
@@ -104,7 +108,7 @@
 05.12.21 - Added collateral page on gitbook
 
 ------------
-04.12.21 - Deploying the BABY gold token on BSC Polygon and Fantom testnet, last eteration available [here](https://testnet.bscscan.com/token/0xc0fb3250b550c6d20cbd7aa67c14fbe5136262e2?a=0xdbe29149E5E8752F438D37eDa188Dfec1E723AA2)\
+04.12.21 - Deploying the BABY gold token on BSC Polygon and Fantom testnet, last iteration available [here](https://testnet.bscscan.com/token/0xc0fb3250b550c6d20cbd7aa67c14fbe5136262e2?a=0xdbe29149E5E8752F438D37eDa188Dfec1E723AA2)\
 04.12.21 - Deploying crowdsale contract on BSC testnet
 
 ------------
