@@ -2,7 +2,8 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
-18.02.22 - We got our pool.babylonia.app updated, some of the bugs are fixed, the darkmode and grayscale mode have been aded.
+18.02.22 - We got our pool.babylonia.app updated, some of the bugs are fixed, the darkmode and grayscale mode have been added.\
+18.02.22 - Winners of the second Giveaway have been paid.
 
 ------------
 11.02.22 - Yesterday we ended the contract with a social media content creator we hired thought Upwork, despite of their effort, we were not happy with their knowledge and quality of work they provided. We looking for another recruits.\
