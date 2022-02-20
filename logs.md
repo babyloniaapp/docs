@@ -2,6 +2,10 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
+20.02.22 - The grayscale mode have been added to the main website home page www.babylonia.app \
+20.02.22 - Team is working on a new animation neon glow for the menu on the leftside, the preview is out, waiting for code to get merged.
+
+------------
 18.02.22 - We got our pool.babylonia.app updated, some of the bugs are fixed, the darkmode and grayscale mode have been added.\
 18.02.22 - Winners of the second Giveaway have been paid.
 
