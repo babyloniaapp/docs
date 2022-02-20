@@ -33,8 +33,8 @@ We kick off the project in Q1 of 2022 with a public crowdfunding, 10% of total B
 * [ ] Last month performance analysis and updating the roadmap
 * [ ] Deploying the liquid pairs and starting pre-minting on BSC testnet
 * [ ] Starting beta-test of the Games 1\ Loterry&#x20;
-* [ ] Website visual updates + preparations for Crowdsale #1
-* [ ] Deployments of the Games website pages on new VPS hosting
+* [x] Website visual updates + preparations for Crowdsale #1
+* [x] Deployments of the Games website pages on new VPS hosting
 * [ ] Games server deployments
 * [ ] Kicking off the Crowdsale #1 with/without partners
 * [ ] Buying collaterals simultaneously with the Crowdsale #1
