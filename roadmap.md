@@ -65,7 +65,7 @@ We kick off the project in Q1 of 2022 with a public crowdfunding, 10% of total B
 * [ ] Conversion of PBTM to BABY V2
 * [ ] Starting the process of swapping PBTM to BABY V2
 * [ ] Deploying the liquidity pairs on pancakeswap / BSC chain starting with BABY - BNB & BABY - BUSD
-* [ ] Setting the open market price at $0.4
+* [ ] Setting the open market price at $0.05
 
 
 
