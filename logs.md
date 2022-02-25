@@ -2,19 +2,23 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
-24.02.22 - Unfortunately we had to postpone our ICO once again for the second time, we could not get enough investment to go forward, besides unfavourable crypto market due to risk of war made it harder. \
-24.02.22 - We working on the NFT developments, the previews on the way and team is busy developing the backend.
+25.02.22 - We have been approached by [SoftSwiss](softswiss.com) and got introduced to their line of products and services.
+
+
+------------
+24.02.22 - Unfortunately we had to postpone our ICO once again for the second time, we could not get enough investment to go forward, besides unfavorable crypto market due to risk of war made it harder. \
+24.02.22 - We working on the NFT developments, the previews on the way and team are busy developing the backend.
 
 ------------
 22.02.22 - Our web2 developer is working on the improvements on 3D effects of our Babylonia planet of the main page \
-20.02.22 - The new animation neon glow for the menu on the leftside is ready, we started tranistion to SVG base images from PNG
+20.02.22 - The new animation neon glow for the menu on the left side is ready, we started transition to SVG base images from PNG
 
 ------------
-20.02.22 - The grayscale mode have been added to the main website home page www.babylonia.app \
-20.02.22 - Team is working on a new animation neon glow for the menu on the leftside, the preview is out, waiting for code to get merged.
+20.02.22 - The grayscale mode has been added to the main website home page www.babylonia.app \
+20.02.22 - Team is working on a new animation neon glow for the menu on the left side, the preview is out, waiting for code to get merged.
 
 ------------
-18.02.22 - We got our pool.babylonia.app updated, some of the bugs are fixed, the darkmode and grayscale mode have been added.\
+18.02.22 - We got our pool.babylonia.app updated, some of the bugs are fixed, the dark mode and grayscale mode have been added.\
 18.02.22 - Winners of the second Giveaway have been paid.
 
 ------------
