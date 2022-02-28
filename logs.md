@@ -11,7 +11,7 @@
 
 ------------
 24.02.22 - Unfortunately we had to postpone our ICO once again for the second time, we could not get enough investment to go forward, besides unfavorable crypto market due to risk of war made it harder. \
-24.02.22 - We working on the NFT developments, the previews on the way and team are busy developing the backend.
+24.02.22 - We are working on the NFT developments, the previews on the way and team are busy developing the backend.
 
 ------------
 22.02.22 - Our web2 developer is working on the improvements on 3D effects of our Babylonia planet of the main page \
