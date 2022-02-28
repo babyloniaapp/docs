@@ -2,6 +2,9 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
+28.02.22 - Team is working on the two new pages nft.babylonia.app & media.babylonia.app, will be published in next few days.
+
+------------
 25.02.22 - We have been approached by [SoftSwiss](softswiss.com) and got introduced to their line of products and services.
 
 
