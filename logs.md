@@ -1,6 +1,12 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+
+------------
+02.03.22 - Two new pages nft.babylonia.app & media.babylonia.app are published, they are still work-in-progress \
+02.03.22 - We hired a 3D modelling developer to help updating the website visuals \
+02.03.22 - Team is working to fix pool.babylonia.app bugs and problems, also adding 12 more chains.
+
 ------------
 28.02.22 - Team is working on the two new pages nft.babylonia.app & media.babylonia.app, will be published in next few days \
 28.02.22 - We redesigned our logo and slogan, it is "Babylonia Always More Fun", it is cool.
