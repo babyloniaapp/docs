@@ -3,6 +3,10 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
 ------------
+04.03.22 - We hired two developers to work on the media.babylonia.app projects, adding podcast player features \
+04.03.22 - The first phase of the NFT design project is finished, we have started to create NFT collections.
+
+------------
 02.03.22 - Two new pages nft.babylonia.app & media.babylonia.app are published, they are still work-in-progress \
 02.03.22 - We hired a 3D modelling developer to help updating the website visuals \
 02.03.22 - Team is working to fix pool.babylonia.app bugs and problems, also adding 12 more chains.
