@@ -1,6 +1,11 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+------------
+06.03.22 - Unfortunately we lost contact with our freelance developer of NFT in Russia. The design task handed over to another freelance dev. 
+
+------------
+05.03.22 - Started using Linear and Slacks for team assignment management and inter-communication.
 
 ------------
 04.03.22 - We hired two developers to work on the media.babylonia.app projects, adding podcast player features \
