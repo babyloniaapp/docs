@@ -8,7 +8,7 @@ coverY: -413.21585903083707
 
 ![](.gitbook/assets/SLIDES\_ROADMAP\_002\_4x3\_withLogo.jpg)
 ##
-The babylonia roadmap is a guide that describes the steps we need to take in order to reach our project goals. It's a plan of action that lines up our project's short-term and long-term goals, and we outline how they will be achieved. We start the project with an "Alpha Stage", which is consisted of initial planning, launching of the website, preparing the smart contracts of the token and "Crowdsale #1", and developing the phase I of the gaming platform. After the crowdfunding phases, we begin to testing the integration of tokenomics into the gaming platform, that stage is called "Beta Launch". The roadmap will be updated as the project proceeds, we might add extra steps to achieve the next milestone.
+The Babylonia roadmap is a guide that describes the steps we need to take in order to reach our project goals. It's a plan of action that lines up our project's short-term and long-term goals, and we outline how they will be achieved. We start the project with an "Alpha Stage", which is consisted of initial planning, launching of the website, preparing the smart contracts of the token and "Crowdsale #1", and developing the phase I of the gaming platform. After the crowdfunding phases, we begin to testing the integration of tokenomics into the gaming platform, that stage is called "Beta Launch". The roadmap will be updated as the project proceeds, we might add extra steps to achieve the next milestone.
 ### Alpha Stage 2021Q4-2022Q1
 
 * [x] Publishing the website
@@ -28,9 +28,11 @@ The babylonia roadmap is a guide that describes the steps we need to take in ord
 ### Crowdsale #1 2022Q1-2022Q2
 ![](.gitbook/assets/SLIDES\_CROWDSALE#1\_004\_4x3\_withLogo.png)
 #
-We kick off the project in Q1 of 2022 with a public crowdfunding, 10% of total BABY tokens will be available to buy. Most of Crowdsale #1 fund generation will be spent on development of the project games and platform.
+~~**We kick off the project in Q1 of 2022 with a public crowdfunding**~~ The Crowdsale #1 has been delayed two times, due to lack of potential investors, also unfavorable market condition, it is now set to be on 1/May/2022, 10% of total BABY tokens will be available to buy. Most of Crowdsale #1 fund generation will be spent on development of the project games and platform.
 #
 * [ ] Last month performance analysis and updating the roadmap
+* [x] Developing Media platforms, web3 integration + web2 --> web3 media + podcast player
+* [x] Developing NFT platform --> creating NFT collections + web3 integration
 * [ ] Deploying the liquid pairs and starting pre-minting on BSC testnet
 * [ ] Starting beta-test of the Games 1\ Loterry&#x20;
 * [x] Website visual updates + preparations for Crowdsale #1
@@ -57,7 +59,7 @@ We kick off the project in Q1 of 2022 with a public crowdfunding, 10% of total B
 * [ ] Hiring team members: 1\ web-developer backend, 2\ web-developer frontend, 3\ blockchain developer security, 4\ full-time social media promoter
 * [ ] Starting the Games 2\ Roulette with BUSD, BNB on BSC
 * [ ] Security audits of smart contract of BABY V2 token
-*   [ ] Security audits of smart contracts of CHIP (CHP) & CREDIT (CRD) tokens
+* [ ] Security audits of smart contracts of CHIP (CHP) & CREDIT (CRD) tokens
 
 
 
@@ -65,7 +67,7 @@ We kick off the project in Q1 of 2022 with a public crowdfunding, 10% of total B
 
 * [ ] Conversion of PBTM to BABY V2
 * [ ] Starting the process of swapping PBTM to BABY V2
-* [ ] Deploying the liquidity pairs on pancakeswap / BSC chain starting with BABY - BNB & BABY - BUSD
+* [ ] Deploying the liquidity pairs on the Pancakeswap / BSC chain starting with BABY - BNB & BABY - BUSD
 * [ ] Setting the open market price at $0.04
 
 
@@ -86,3 +88,4 @@ We kick off the project in Q1 of 2022 with a public crowdfunding, 10% of total B
 * [ ] Starting of Casinos and entertainment centers
 * [ ] Introduction of private ownership&#x20;
 * [ ] Implementation of 3rd party games and application
+
