@@ -26,7 +26,7 @@ Total supply: not capped fixed ratio vs. BUSD or USDC or USDT of : 1000 CHP = 1 
 
 ### Proportionally backed token mechanism (PBTM)&#x20;
 
-![](.gitbook/assets/SLIDES\_TOKENDISTRIBUTION\_002\_4x3\_withLogo.jpg)
+![](.gitbook/assets/SLIDES\_TOKENDISTRIBUTION\_003\_4x3\_withLogo.png)
 
 Total supply: 888,888,888
 
