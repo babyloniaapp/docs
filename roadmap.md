@@ -1,12 +1,12 @@
 ---
 description: The roadmap and future planning.
-cover: .gitbook/assets/roadmap_003_2000x1000
+cover: .gitbook/assets/roadmap_003_2000x1000.png
 coverY: -413.21585903083707
 ---
 
 # 🚀 Roadmap
 
-![](.gitbook/assets/SLIDES\_ROADMAP\_003\_2000x1000\_withLogo.png)
+![](.gitbook/assets/SLIDES\_ROADMAP\_003\_2000x1000.png)
 ##
 The Babylonia roadmap is a guide that describes the steps we need to take in order to reach our project goals. It's a plan of action that lines up our project's short-term and long-term goals, and we outline how they will be achieved. We start the project with an "Alpha Stage", which is consisted of initial planning, launching of the website, preparing the smart contracts of the token and "Crowdsale #1", and developing the phase I of the gaming platform. After the crowdfunding phases, we begin to testing the integration of tokenomics into the gaming platform, that stage is called "Beta Launch". The roadmap will be updated as the project proceeds, we might add extra steps to achieve the next milestone.
 ### Alpha Stage 2021Q4-2022Q1
@@ -41,7 +41,7 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 * [ ] Kicking off the Crowdsale #1 with/without partners
 * [ ] Buying collaterals simultaneously with the Crowdsale #1
 
-### Beta Launch 2022Q1-2022Q2
+### Beta Launch 2022Q2-2022Q3
 
 * [ ] Last phase performance analysis and updating the roadmap
 * [ ] Align the goals and assign the budget to the tasks as plan
@@ -63,7 +63,7 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 
 
 
-### Open Market 2022Q2-2022Q3
+### Open Market 2022Q3-2022Q4
 
 * [ ] Conversion of PBTM to BABY V2
 * [ ] Starting the process of swapping PBTM to BABY V2
@@ -72,7 +72,7 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 
 
 
-### Main Launch 2022Q2-2022Q3
+### Main Launch 2022Q3-2022Q4
 
 * [ ] Deploying the minting contracts
 * [ ] Deploying the smart contracts of CHIP (CHP) & CREDIT (CRD) tokens
