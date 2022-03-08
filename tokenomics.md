@@ -36,13 +36,13 @@ The PBTM v2 contract will be transformed to Babylonia Token (BABY) later on the 
 
 &#x20;
 
-![](.gitbook/assets/SLIDES\_CROWDSALE#1\_distri\_001\_4x3\_withLogo.jpg)
+![](.gitbook/assets/SLIDES\_CROWDSALE#1\_distri\_002\_4x3\_withLogo.jpg)
 
 Crowdsale #1: 10% equal to 88,888,888 - SP: $0.01 -->Unsold quantity will be transferred to second pre-sale&#x20;
 
 The Crowdsale #1 revenue generation will be distributed as: Development Team 35%, Collateral 30%, Website transition to a dedicated server 5%, Security audits 10%, and finally Marketing & Sale 20%.
 
-![](.gitbook/assets/SLIDES\_CROWDSALE#2\_distri\_001\_4x3\_withLogo.jpg)
+![](.gitbook/assets/SLIDES\_CROWDSALE#2\_distri\_002\_4x3\_withLogo.jpg)
 
 Crowdsale #2, 5% equal to 44,444,444 - SP: $0.02 proportionally -->Unsold pre-sale will be transferred to Open Market Launch.
 
