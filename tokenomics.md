@@ -44,7 +44,7 @@ The Crowdsale #1 revenue generation will be distributed as: Development Team 35%
 
 ![](.gitbook/assets/SLIDES\_CROWDSALE#2\_distri\_001\_4x3\_withLogo.jpg)
 
-Crowdsale #2, 10% equal to 88,888,888 - SP: $0.02 proportionally -->Unsold pre-sale will be transferred to Open Market Launch.
+Crowdsale #2, 5% equal to 44,444,444 - SP: $0.02 proportionally -->Unsold pre-sale will be transferred to Open Market Launch.
 
 The revenue generation will be assigned to: SWAP liquidity pairs 60%, Collateral 15%, Marketing & Sale 15%, Security audits 5%, Development Team 5%.
 
