@@ -2,6 +2,9 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
+09.03.22 - The pool.babylonia.app and the chain selector have been reworked and published yesterday. We added 8 more ERC20 compatible networks. 
+
+------------
 06.03.22 - Unfortunately we lost contact with our freelance developer of NFT in Russia. The design task handed over to another freelance dev. 
 
 ------------
