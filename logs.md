@@ -1,6 +1,11 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+
+------------
+10.03.22 - The nft.babylonia.app page is up and running, it is still a draft and work-in-progress \
+10.03.22 - The work on the NFT minting page has began and the project has been assigned. 
+
 ------------
 09.03.22 - The pool.babylonia.app and the chain selector have been reworked and published yesterday. We added 8 more ERC20 compatible networks. 
 
