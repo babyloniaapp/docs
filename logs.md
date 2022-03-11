@@ -2,6 +2,10 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+
+------------
+11.03.22 - Team is working on the possibility of offering our BABY token and services on the AVAX Avalanche network. 
+
 ------------
 10.03.22 - The nft.babylonia.app page is up and running, it is still a draft and work-in-progress \
 10.03.22 - The work on the NFT minting page has began and the project has been assigned. 
