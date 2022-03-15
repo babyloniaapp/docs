@@ -4,7 +4,7 @@
 
 There are 3 main tokens on **Babylonia**. **BABY (BABY), CHIP(CHP)** and **CREDIT (CRD).  BABY** is the main token of the platform, hard-capped to 888,888,888, mintable and partially backed by collaterals. CHIP & CREDIT are functional tokens, can be used only in babylonia.app, they are not hard-capped, cannot be minted by public.&#x20;
 
-Tokens format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom, the BABY token will be bridged between the blockchains, maintaining the total hard cap, will be distributed proportionally to the performance & demand of network. As the BSC transaction fee getting more expensive due to increase in price of BNB, we gradually move toward Polygon & Fantom.
+Tokens format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom, the Ethereum and Avalanche expansions are also on the way. The BABY token will be bridged between the blockchains, maintaining the total hard cap, will be distributed proportionally to the performance & demand of network. As the BSC transaction fee getting more expensive due to increase in price of BNB, we gradually move toward Polygon & Fantom.
 
 ![](.gitbook/assets/SLIDES\_TOKEN\_006\_4x3\_withLogo.png)
 
@@ -16,7 +16,7 @@ Purpose: Utility token to be used playing or using babylonia.app services&#x20;
 
 Total supply: not capped Fixed ratio vs. BUSD or USDC or USDT of : 1000 CHP = 1 USD Can be purchased directly or be airdropped with staking PBTM Daily airdrops to the PBTM holders: airdropped CHP can not be sold without playing at least a game and winning Credits (CRD).
 
-Airdrops formula: fixed amount + proportional to the PBTM amount, airdrops do not add up, there will not be an airdrop if the player did not use yesterday airdrop. Air drop mechanism: either by creating intermediary + auto-expiring token or algorithmic logic-check. Everything is under development.
+Airdrops formula: fixed amount + proportional to the BABY Token amount, airdrops do not add up, there will not be an airdrop if the player did not use yesterday airdrop. Air drop mechanism: either by creating intermediary + auto-expiring token or algorithmic logic-check. Everything is under development.
 
 ### Credit (CRD)&#x20;
 
@@ -52,6 +52,6 @@ What is remained and left of crowdsale (unsold tokens) + to yield rewards to the
 
 Expansion rate will proportional to the market demand, less demand will reduce the minting rate, higher demand will accelerate the minting ratio. We are still working on the whereabouts of the algorithm but for the first six months, the expansion will be fixed to (**100% - 30%** + **unsold tokens from crowd sales %**) / 2 years, so if all **20% of tokens** which are assigned to the crowd sales have been sold, the targeted expansion rate will be **50%** in 2 years, or 2.088% monthly.&#x20;
 
-Let's talk about the rest **30% of PBTM tokens**. 7% is designated to the founders, will be unlocked a year after the main launch. 7% goes to the marketing and sales activities. 5% is for the licensing, insurance and security audits. And finally, 11% is assigned to the development and team buybacks, burning and backing Aside from creating an entertaining platform that everyone have fun and spend a good time, the main goal of babylonia.app is to reward tokens holders, as the most important part of this platform. Without support of citizens of babylonia.app we never could develop the platform as effectively. So, embedded into the system, every dollar of income of the platform is being shared with PBTM tokens holders. The accurate formula of taking rewards, buyback and collateral adding feature will be released soon. Stay tuned and keep looking up.
+Let's talk about the rest **30% of PBTM tokens**. 10% is designated to the founders, will be unlocked a year after the main launch. 7% goes to the marketing and sales activities. 5% is for the licensing, insurance and security audits. And finally, 11% is assigned to the development and team buybacks, burning and backing Aside from creating an entertaining platform that everyone have fun and spend a good time, the main goal of babylonia.app is to reward tokens holders, as the most important part of this platform. Without support of citizens of babylonia.app we never could develop the platform as effectively. So, embedded into the system, every dollar of income of the platform is being shared with PBTM tokens holders. The accurate formula of taking rewards, buyback and collateral adding feature will be released soon. Stay tuned and keep looking up.
 
 ## **** <a href="#all-vaults-including-swamp-vaults" id="all-vaults-including-swamp-vaults"></a>
