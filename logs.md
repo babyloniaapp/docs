@@ -2,6 +2,10 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+------------
+17.03.22 - The main webpage is getting a new look soon, we worked for 3D implementation for a long, it is time to publish the first revision.
+17.03.22 - We are in a process of updating our documents, and revisit the pages we wrote earlier of the project. 
+
 
 ------------
 11.03.22 - Team is working on the possibility of offering our BABY token and services on the AVAX Avalanche network. 
