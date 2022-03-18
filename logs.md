@@ -1,6 +1,8 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+------------
+18.03.22 - The new 3D planet is live, is it heavy and little buggy, we are working on it.
 
 ------------
 17.03.22 - The main webpage is getting a new look soon, we worked for 3D implementation for a long, it is time to publish the first revision.
