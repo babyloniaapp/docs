@@ -5,7 +5,7 @@
 18.03.22 - The new 3D planet is live, is it heavy and little buggy, we are working on it.
 
 ------------
-17.03.22 - The main webpage is getting a new look soon, we worked for 3D implementation for a long, it is time to publish the first revision.
+17.03.22 - The main webpage is getting a new look soon, we worked for 3D implementation for a long, it is time to publish the first revision. \
 17.03.22 - We are in a process of updating our documents, and revisit the pages we wrote earlier of the project. 
 
 
