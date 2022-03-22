@@ -2,6 +2,11 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
+22.03.22 - The team is busy finishing the NFT page designs, the ETA is about next week. \
+22.03.22 - The media project faced some difficulties, our previos podcast grabber API is not responsive and we are working on the options with different API provider, that means some delays, but we trying to finalize it by end of March. 
+
+
+------------
 20.03.22 - The 3D planet is running smoothly , yes it is a big heavy, we will optimize the scenery and objects in next phase of development. \
 20.03.22 - The home page icons are refreshed, they look sharper with new SVG icon implementaions. \
 20.03.22 - The Babylonia slides and presentation images have been updated, having new logo too. 
