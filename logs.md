@@ -1,6 +1,10 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+
+------------
+23.03.22 - The devs fixed the media.babylonia.app bugs, it looks better, we are pushing the code in few hours.
+
 ------------
 22.03.22 - The team is busy finishing the NFT page designs, the ETA is about next week. \
 22.03.22 - The media project faced some difficulties, our previos podcast grabber API is not responsive and we are working on the options with different API provider, that means some delays, but we trying to finalize it by end of March. 
