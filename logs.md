@@ -1,6 +1,9 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+------------
+24.03.22 - The wallet connect feature and experimental NFT minting page is up and running, we still working to optimize the layout. \
+24.03.22 - The media page is refreshed, the category and search option is now working, it still buggy and the left side icons aren't in place, we are working on it.
 
 ------------
 23.03.22 - The devs fixed the media.babylonia.app bugs, it looks better, we are pushing the code in few hours.
