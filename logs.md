@@ -2,20 +2,26 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
+26.03.22 - Started to update our mobile pages, haven't been touched for a month, will be updated soon this week.
+
+------------
+25.03.22 - We deployed another update on the media.babylonia.app page, search options is running, categories too, still working on fixing problems.
+
+------------
 24.03.22 - The wallet connect feature and experimental NFT minting page is up and running, we still working to optimize the layout. \
-24.03.22 - The media page is refreshed, the category and search option is now working, it still buggy and the left side icons aren't in place, we are working on it.
+24.03.22 - The media page is refreshed, the category and search option is now working, it is still buggy and the left side icons aren't in place, we are working on it.
 
 ------------
 23.03.22 - The devs fixed the media.babylonia.app bugs, it looks better, we are pushing the code in few hours.
 
 ------------
 22.03.22 - The team is busy finishing the NFT page designs, the ETA is about next week. \
-22.03.22 - The media project faced some difficulties, our previos podcast grabber API is not responsive and we are working on the options with different API provider, that means some delays, but we trying to finalize it by end of March. 
+22.03.22 - The media project faced some difficulties, our previous podcast grabber API is not responsive, and we are working on the options with different API provider, that means some delays, but we are trying to finalize it by end of March. 
 
 
 ------------
-20.03.22 - The 3D planet is running smoothly , yes it is a big heavy, we will optimize the scenery and objects in next phase of development. \
-20.03.22 - The home page icons are refreshed, they look sharper with new SVG icon implementaions. \
+20.03.22 - The 3D planet is running smoothly, yes it is a big heavy, we will optimize the scenery and objects in next phase of development. \
+20.03.22 - The home page icons are refreshed, they look sharper with new SVG icon implementations. \
 20.03.22 - The Babylonia slides and presentation images have been updated, having new logo too. 
 
 
@@ -23,7 +29,7 @@
 18.03.22 - The new 3D planet is live, is it heavy and little buggy, we are working on it.
 
 ------------
-17.03.22 - The main webpage is getting a new look soon, we worked for 3D implementation for a long, it is time to publish the first revision. \
+17.03.22 - The main webpage is getting a new look soon, we worked on 3D implementation for a long, it is time to publish the first revision. \
 17.03.22 - We are in a process of updating our documents, and revisit the pages we wrote earlier of the project. 
 
 
@@ -32,7 +38,7 @@
 
 ------------
 10.03.22 - The nft.babylonia.app page is up and running, it is still a draft and work-in-progress \
-10.03.22 - The work on the NFT minting page has began and the project has been assigned. 
+10.03.22 - The work on the NFT minting page has begun, and the project has been assigned. 
 
 ------------
 09.03.22 - The pool.babylonia.app and the chain selector have been reworked and published yesterday. We added 8 more ERC20 compatible networks. 
