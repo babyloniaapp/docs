@@ -2,6 +2,9 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
+27.03.22 - The NFT page at nft.babylonia.app has been updated, we added new collections, team is still working on it today, we push another update by evening .
+
+------------
 26.03.22 - Started to update our mobile pages, haven't been touched for a month, will be updated soon this week.
 
 ------------
