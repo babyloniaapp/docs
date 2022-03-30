@@ -1,6 +1,10 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+
+------------
+30.03.22 - We pushed another update on the our NFT page. We got some fixes on the creating page, will be deployed soon.
+
 ------------
 27.03.22 - The NFT page at nft.babylonia.app has been updated, we added new collections, team is still working on it today, we push another update by evening .
 
