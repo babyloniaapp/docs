@@ -4,6 +4,7 @@
 
 ------------
 30.03.22 - We pushed another update on the our NFT page. We got some fixes on the creating page, will be deployed soon.
+30.03.22 - Mobile pages are under a re-work job, updating icons and adding extra menues.
 
 ------------
 27.03.22 - The NFT page at nft.babylonia.app has been updated, we added new collections, team is still working on it today, we push another update by evening .
