@@ -1,6 +1,10 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+------------
+31.03.22 - The nft.babylonia.app has been updated, the NFT categories have been added and menu icons updated.\
+31.03.22 - the pool.babylonia.app page is updated and looks similar to nft, we keep the same stylings.
+
 
 ------------
 30.03.22 - We pushed another update on the our NFT page. We got some fixes on the creating page, will be deployed soon.\
