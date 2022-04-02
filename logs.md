@@ -1,6 +1,10 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+
+------------
+02.04.22 - We got some visual updates on media.babylonia.app, the music service is down due to API issue, we fix it in some other time, at the moment we don't have time and resources to spend on music and radio project.
+
 ------------
 31.03.22 - The nft.babylonia.app has been updated, the NFT categories have been added and menu icons updated.\
 31.03.22 - the pool.babylonia.app page is updated and looks similar to nft, we keep the same stylings.
