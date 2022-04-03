@@ -2,6 +2,10 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+
+------------
+03.04.22 - Unfortunately we have ended the contract with one of our devs, on the short term it slows us down to find a replacement and bring the new member up to speed, but this is story of our small start up, we have limited time and small budget, sadly it do not please most devs.
+
 ------------
 02.04.22 - We got some visual updates on media.babylonia.app, the music service is down due to API issue, we fix it in some other time, at the moment we don't have time and resources to spend on music and radio project.\
 02.04.22 - We busy patching pool.babylonia.app, adding network selector, the updates are under review, will be deployed shorty.
