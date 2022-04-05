@@ -4,8 +4,9 @@
 
 
 ------------
-05.04.22 - media.babylonia.app has been updated, we still working on the podcast section, our free to use podcast API service is not very sophisticated so we are limited in term of features. Later on the project with a better funding we will get a paid API services.
-05.04.22 - Our pool.babylonia.app also has been updated, we added Etherum and Avalanche support.
+05.04.22 - media.babylonia.app has been updated, we still working on the podcast section, our free to use podcast API service is not very sophisticated so we are limited in term of features. Later on the project with a better funding we will get a paid API services. \
+05.04.22 - Our pool.babylonia.app also has been updated, we added Etherum and Avalanche support. \
+05.04.22 - Unfortunately GitHub does not show the small updates, fixed and pull requests, some days we got more than ten PR and fixes but it is not considered as a contribution. We need to fix that too!
 
 ------------
 03.04.22 - Unfortunately we have ended the contract with one of our devs, on the short term it slows us down to find a replacement and bring the new member up to speed, but this is story of our small start up, we have limited time and small budget, sadly it do not please most devs.
@@ -152,7 +153,7 @@
 16.01.22 - Put an ad for hiring web dev on Upwork, doing interviews
 
 ------------
-13.01.22 - Starting the giveaway campaign on Twitter Starting 14.01.22, lasts for 72 hours\
+13.01.22 - Starting the giveaway campaign on Twitter Starting on 14.01.22 it lasts for 72 hours\
 13.01.22 - Last touches on the Pool, will be published shortly
 
 ------------
