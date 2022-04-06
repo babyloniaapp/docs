@@ -2,9 +2,12 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+------------
+06.04.22 - To get ready for the ICO, we are hiring smart contract developers to do some security audit on our contracts. 
+
 
 ------------
-05.04.22 - media.babylonia.app has been updated, we still working on the podcast section, our free to use podcast API service is not very sophisticated so we are limited in term of features. Later on the project with a better funding we will get a paid API services. \
+05.04.22 - media.babylonia.app has been updated, we still working on the podcast section, our free to use podcast API service is not very sophisticated so we are limited in term of features. Later on the project with aش better funding we will get a paid API services. \
 05.04.22 - Our pool.babylonia.app also has been updated, we added Etherum and Avalanche support. \
 05.04.22 - Unfortunately GitHub does not show the small updates, fixed and pull requests, some days we got more than ten PR and fixes but it is not considered as a contribution. We need to fix that too!
 
