@@ -3,6 +3,10 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
 ------------
+08.04.22 - Hiring a security auditor is the way, we will finalze it by tomorrow . \
+08.04.22 - Team is working on the mobile page of NFT services, it is getting ready in next few days.
+
+------------
 06.04.22 - To get ready for the ICO, we are hiring smart contract developers to do some security audit on our contracts. 
 
 
