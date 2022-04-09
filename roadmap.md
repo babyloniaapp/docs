@@ -13,7 +13,7 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 
 * [x] Publishing the website
 * [x] Publishing the documents on GitBook
-* [ ] Developing Games: 1\ Lottery
+* [ ] Developing Games: 1\ Lottery --> postponed to after the Crowdsale #1
 * [ ] Developing Games: 2\ Slow-Roulette
 * [x] a Telegram channel deployment
 * [x] Presenting the website
@@ -24,12 +24,10 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 * [x] Hiring social media creators
 * [ ] Looking for partners & collaborators
 * [x] Expansion on web3 applications, pool, tickers, blockchain connector
-
+#
 ### Crowdsale #1 2022Q1-2022Q2
 ![](.gitbook/assets/SLIDES\_CROWDSALE#1\_004\_4x3\_withLogo.png)
-#
 ~~**We kick off the project in Q1 of 2022 with a public crowdfunding**~~ The Crowdsale #1 has been delayed two times, due to lack of potential investors, also unfavorable market condition, it is now set to be on 1/May/2022, 10% of total BABY tokens will be available to buy. Most of Crowdsale #1 fund generation will be spent on development of the project games and platform.
-#
 * [ ] Last month performance analysis and updating the roadmap
 * [x] Developing Media platforms, web3 integration + web2 --> web3 media + podcast player
 * [x] Developing NFT platform --> creating NFT collections + web3 integration
@@ -38,9 +36,12 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 * [x] Website visual updates + preparations for Crowdsale #1
 * [x] Deployments of the Games website pages on new VPS hosting
 * [ ] Games server deployments
+* [x] Creating media project + web3 integration
+* [x] Kicking off the NFT project
 * [ ] Kicking off the Crowdsale #1 with/without partners
 * [ ] Buying collaterals simultaneously with the Crowdsale #1
 
+#
 ### Beta Launch 2022Q2-2022Q3
 
 * [ ] Last phase performance analysis and updating the roadmap
@@ -48,9 +49,10 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 * [ ] Using purchased collaterals in yield-earning swaps for extra income
 * [ ] Starting the Games 1\ Lottery with BUSD, BNB on BSC
 * [ ] Starting beta-test of the Games 2\ Slow-Roulette
+* [ ] Starting the IPO Project
+* [ ] Starting the SHOP platform
 
-
-
+#
 ### Crowdsale #2 2022Q2-2022Q3
 ![](.gitbook/assets/SLIDES\_CROWDSALE#2\_004\_4x3\_withLogo.png)
 
@@ -62,7 +64,7 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 * [ ] Security audits of smart contracts of CHIP (CHP) & CREDIT (CRD) tokens
 
 
-
+#
 ### Open Market 2022Q3-2022Q4
 
 * [ ] Conversion of PBTM to BABY V2
@@ -71,7 +73,7 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 * [ ] Setting the open market price at $0.04
 
 
-
+#
 ### Main Launch 2022Q3-2022Q4
 
 * [ ] Deploying the minting contracts
@@ -84,8 +86,7 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 ### Expansion Plan I 2022Q3-2023Q1
 
 * [ ] Migration to the city base architecture, modular and independent&#x20;
-* [ ] Selling lands, structure and buildings
+* [ ] Selling lands, structure, and buildings
 * [ ] Starting of Casinos and entertainment centers
 * [ ] Introduction of private ownership&#x20;
 * [ ] Implementation of 3rd party games and application
-
