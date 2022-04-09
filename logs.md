@@ -2,11 +2,11 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
-09.04.22 - The left side menues and buttons got updated, for the first time we have a same styling across the platform . \
-09.04.22 - The first phase of wallet connect & Web3 itegration on media.babylonia.app is done, we are working on the optimization.
+09.04.22 - The left side menus and buttons got updated, for the first time we have a same styling across the platform. \
+09.04.22 - The first phase of wallet connect & Web3 integration on media.babylonia.app is done, we are working on the optimization.
 
 ------------
-08.04.22 - Hiring a security auditor is the way, we will finalze it by tomorrow . \
+08.04.22 - Hiring a security auditor is the way, we will finalize it by tomorrow. \
 08.04.22 - Team is working on the mobile page of NFT services, it is getting ready in next few days.
 
 ------------
@@ -14,28 +14,28 @@
 
 
 ------------
-05.04.22 - media.babylonia.app has been updated, we still working on the podcast section, our free to use podcast API service is not very sophisticated so we are limited in term of features. Later on the project with aش better funding we will get a paid API services. \
-05.04.22 - Our pool.babylonia.app also has been updated, we added Etherum and Avalanche support. \
-05.04.22 - Unfortunately GitHub does not show the small updates, fixed and pull requests, some days we got more than ten PR and fixes but it is not considered as a contribution. We need to fix that too!
+05.04.22 - media.babylonia.app has been updated, we are still working on the podcast section, our free to use podcast API service is not very sophisticated, so we are limited in terms of features. Later on the project with a better funding we will get a paid API services. \
+05.04.22 - Our pool.babylonia.app also has been updated, we added Ethereum and Avalanche support. \
+05.04.22 - Unfortunately GitHub does not show the small updates, fixed and pull requests, some days we got more than ten PR and fixes, but it is not considered as a contribution. We need to fix that too!
 
 ------------
-03.04.22 - Unfortunately we have ended the contract with one of our devs, on the short term it slows us down to find a replacement and bring the new member up to speed, but this is story of our small start up, we have limited time and small budget, sadly it do not please most devs.
+03.04.22 - Unfortunately we have ended the contract with one of our devs. On the short term, it slows us down to find a replacement and bring the new member up to speed, but this is the story of our small start up. We have limited time and small budget, sadly it does not please most devs.
 
 ------------
-02.04.22 - We got some visual updates on media.babylonia.app, the music service is down due to API issue, we fix it in some other time, at the moment we don't have time and resources to spend on music and radio project.\
-02.04.22 - We busy patching pool.babylonia.app, adding network selector, the updates are under review, will be deployed shorty.
+02.04.22 - We got some visual updates on media.babylonia.app, the music service is down due to API issue, we fix it in some other time. At the moment, we don't have time and resources to spend on music and radio project.\
+02.04.22 - We are busy patching pool.babylonia.app, adding network selector, the updates are under review, will be deployed shorty.
 
 ------------
-31.03.22 - The nft.babylonia.app has been updated, the NFT categories have been added and menu icons updated.\
-31.03.22 - the pool.babylonia.app page is updated and looks similar to nft, we keep the same stylings.
+31.03.22 - The nft.babylonia.app has been updated, the NFT categories have been added, and menu icons updated.\
+31.03.22 - the pool.babylonia.app page is updated and looks similar to NFT, we keep the same stylings.
 
 
 ------------
-30.03.22 - We pushed another update on the our NFT page. We got some fixes on the creating page, will be deployed soon.\
-30.03.22 - Mobile pages are under a re-work job, updating icons and adding extra menues.
+30.03.22 - We pushed another update on our NFT page. We got some fixes on the creating page, will be deployed soon.\
+30.03.22 - Mobile pages are under a re-work job, updating icons and adding extra menus.
 
 ------------
-27.03.22 - The NFT page at nft.babylonia.app has been updated, we added new collections, team is still working on it today, we push another update by evening .
+27.03.22 - The NFT page at nft.babylonia.app has been updated, we added new collections, team is still working on it today, we push another update by evening.
 
 ------------
 26.03.22 - Started to update our mobile pages, haven't been touched for a month, will be updated soon this week.
