@@ -1,6 +1,10 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+
+------------
+11.04.22 - We hired two smart contract developers to audit our contracts and comment. \
+
 ------------
 09.04.22 - The left side menus and buttons got updated, for the first time we have a same styling across the platform. \
 09.04.22 - The first phase of wallet connect & Web3 integration on media.babylonia.app is done, we are working on the optimization.
