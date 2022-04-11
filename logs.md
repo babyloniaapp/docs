@@ -4,6 +4,7 @@
 
 ------------
 11.04.22 - We hired two smart contract developers to audit our contracts and comment. \
+11.04.22 - The game.babylonia.app is going to be published soon, it is just a display at the moment, games will come after the ICO.
 
 ------------
 09.04.22 - The left side menus and buttons got updated, for the first time we have a same styling across the platform. \
