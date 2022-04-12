@@ -1,6 +1,8 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+------------
+12.04.22 - The game.babylonia.app is ready and publish, looks good!
 
 ------------
 11.04.22 - We hired two smart contract developers to audit our contracts and comment. \
