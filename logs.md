@@ -1,6 +1,9 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+> ------------
+13.04.22 - We have dismissed one of our web2 devs, sadly the performance was not what we expected to be, and it is not easy to carry on with our small budget, we get it.
+
 ------------
 12.04.22 - The game.babylonia.app is ready and publish, looks good!
 
