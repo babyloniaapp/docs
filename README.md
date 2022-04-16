@@ -6,6 +6,8 @@ coverY: 0
 
 # ⚡ Genesis
 
+<img align="center" src=".gitbook/assets/SLIDES_MainBabylonia_280322_1920x1920.png" alt="MainBabylonia_280322" width="800"/>
+
 ### What is babylonia.app
 
 The [babylonia.app](https://babylonia.app) is a fun entertainment platform. It is a place to play games, bet and gamble. Gamers can try their chance on daily lotteries and win lucky draws. By nature, everything runs on the website is blockchain based and runs completely transparent, automatic without human interference and totally fair. The main purpose of babylonia.app is to accommodate a place that visitors can have good time.
