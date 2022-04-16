@@ -2,6 +2,17 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 > ------------
+16.04.22 - Devs are very busy working on 1/ Media project, 2/ NFT page, platform and web3 functionality, 3/ Token contract audits. \
+16.04.22 - We are ready to deploy the Internet Radio section of Media project once again today, we are still working on the optimization and bug fixing.
+
+------------
+
+15.04.22 - We have contacted many promoters to advertise our platform, we chose a few authentic channels to carry on.
+
+------------
+12.04.22 - The game.babylonia.app is ready and publish, looks good!
+
+
 13.04.22 - We have dismissed one of our web2 devs, sadly the performance was not what we expected to be, and it is not easy to carry on with our small budget, we get it. \
 13.04.22 - Started working on the user database, signing up structure and storing the data, two devs are working on this project.
 
