@@ -6,7 +6,7 @@ coverY: 0
 
 # ⚡ Genesis
 
-<kbd width="900"> ![Image](.gitbook/assets/SLIDES_MainBabylonia_280322_1920x1920.png) </kbd>
+<kbd> ![Image](.gitbook/assets/SLIDES_MainBabylonia_280322_1920x1920.png) </kbd>
 
 ### What is babylonia.app
 
