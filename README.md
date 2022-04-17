@@ -15,7 +15,7 @@ The [babylonia.app](https://babylonia.app) is a fun entertainment platform. It i
 
 ### Where was Babylonia?
 
-<kbd> <img align="center" src=".gitbook/assets/babylon-1906.jpg" alt="Babylon_1906" /> </kbd>
+![Babylon 1906](.gitbook/assets/babylon-1906.jpg)
 
 Babylonia was a glorious state found about 4000 years ago. It was located at the southeast of old Persia. At its heart, the city of Babylon became a city of beautiful and lavish buildings after a few centuries. The king of Babylon, Hammurabi, turned it into a rich, powerful and influential city. He created one of the world’s earliest and most complete written legal codes. Known as the Code of Hammurabi, it helped Babylon surpass other cities in the region. Babylon was the largest city in the world, the first city to reach a population above 200,000.
 
@@ -37,7 +37,8 @@ Babylonia is a private entity, the government is autonomous and runs on démarch
 
 ### Is babylonia.app just another clone?
 
-<kbd> <img align="center" src=".gitbook/assets/Clones_goats.jpg" alt="CloneGoats" width="900" /> </kbd>
+![Cloned Goats](.gitbook/assets/Clones_goats.jpg)
+
 
 
 The short answer is no. We try to be innovating and bring new staff all the time to the market. However, we are just a few enthusiasts getting together to run the project and our budget and capabilities are limited. Therefore, we try to maximize what we can obtain from the free and public contents on the internet. Anything goes, from GitHub to Turbosquid. While utilizing accessible and loyalty free content, we are totally against using intellectual property of others without their permission and contest. We respect the hard work and effort of any individual or entities, so what is being published or used on the platform is going through complete scrutiny to maintain fairness and rights of original authors, creators and developers.
@@ -45,7 +46,7 @@ The short answer is no. We try to be innovating and bring new staff all the time
 ### Can babylonia.app be cloned?
 
 
-<kbd> <img align="center" src=".gitbook/assets/2681_1200x480.jpg" alt="CloningChamber" width="900" /> </kbd>
+![Cloning Chamber](.gitbook/assets/2681_1200x480.jpg)
 
 
 Yes but partially. The appearance and business model and functions can be copied, but it would consider as intellectual property theft. However, we believe the soul of our running system will not be clonable. We are intended in the running a fair and transparent gaming and gambling platform while paying complete attention to the players, visitors and gamers. We focus on a fair distribution of profits while keeping all parties satisfied and entertained. In short, good deeds and strong roots and clear conscience. The body can be cloned, but not what is inside your heart.
