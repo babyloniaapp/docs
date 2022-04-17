@@ -9,14 +9,13 @@ coverY: 0
 ![Babylonia Whole Picture](.gitbook/assets/SLIDES_MainBabylonia_280322_1920x1920.png)
 
 
-
 ### What is babylonia.app
 
 The [babylonia.app](https://babylonia.app) is a fun entertainment platform. It is a place to play games, bet and gamble. Gamers can try their chance on daily lotteries and win lucky draws. By nature, everything runs on the website is blockchain based and runs completely transparent, automatic without human interference and totally fair. The main purpose of babylonia.app is to accommodate a place that visitors can have good time.
 
 ### Where was Babylonia?
 
-<kbd> <img align="center" src=".gitbook/assets/babylon-1906.jpg" alt="Babylon_1906" width="900" /> </kbd>
+<kbd> <img align="center" src=".gitbook/assets/babylon-1906.jpg" alt="Babylon_1906" /> </kbd>
 
 Babylonia was a glorious state found about 4000 years ago. It was located at the southeast of old Persia. At its heart, the city of Babylon became a city of beautiful and lavish buildings after a few centuries. The king of Babylon, Hammurabi, turned it into a rich, powerful and influential city. He created one of the world’s earliest and most complete written legal codes. Known as the Code of Hammurabi, it helped Babylon surpass other cities in the region. Babylon was the largest city in the world, the first city to reach a population above 200,000.
 
