@@ -2,6 +2,10 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 > ------------
+18.04.22 - We have contacted some very knowledgeable promoters & Instagram influencers to talk and advertise about the platform. \
+18.04.22 - Unfortunately, the Crowdsale #1 is delayed for another month. Sadly, despite all our efforts, the number of new user that we require to start the process is below our goal number. Also, the feelings on Crypto market in April 2022 is very bearish and cold, we would rather wait for more favorable weather in May & June.
+
+------------
 16.04.22 - Devs are very busy working on 1/ Media project, 2/ NFT page, platform and web3 functionality, 3/ Token contract audits. \
 16.04.22 - We are ready to deploy the Internet Radio section of Media project once again today, we are still working on the optimization and bug fixing.
 
