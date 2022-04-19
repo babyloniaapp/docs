@@ -1,7 +1,11 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
-> ------------
+------------
+19.04.22 - The 3D model of the main page is under review, soon we will have some updates.
+19.04.22 - We deployed minor UI improvements on the Pool & NFT pages.
+
+------------
 18.04.22 - We have contacted some very knowledgeable promoters & Instagram influencers to talk and advertise about the platform. \
 18.04.22 - Unfortunately, the Crowdsale #1 is delayed for another month. Sadly, despite all our efforts, the number of new user that we require to start the process is below our goal number. Also, the feelings on Crypto market in April 2022 is very bearish and cold, we would rather wait for more favorable weather in May & June.
 
