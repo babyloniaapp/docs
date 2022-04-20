@@ -32,7 +32,7 @@ Total supply: 888,888,888
 
 The PBTM v2 contract will be transformed to Babylonia Token (BABY) later on the project. The following table shows the collateral ratio in relation with the market cap of the BABY.
 
-![](<.gitbook/assets/PAGES\_Collateral Ratio\_01.jpg>)
+![](<.gitbook/assets/PAGES_Collateral Ratio_0201.png>)
 
 &#x20;
 
