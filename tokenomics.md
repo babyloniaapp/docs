@@ -34,6 +34,9 @@ The PBTM v2 contract will be transformed to Babylonia Token (BABY) later on the 
 
 ![](<.gitbook/assets/PAGES_Collateral Ratio_0201.png>)
 
+![](<.gitbook/assets/PAGES_Collateral Ratio_0202.png>)
+
+
 &#x20;
 
 ![](.gitbook/assets/SLIDES\_CROWDSALE#1\_distri\_002\_4x3\_withLogo.png)
