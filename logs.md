@@ -2,6 +2,10 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ------------
+22.04.22 - The 3D model of the main page is optimized and got lighter, devs are working on the changes. \
+22.04.22 - The user registration and sign in/sign up pages are under development, coming soon.
+
+------------
 19.04.22 - The 3D model of the main page is under review, soon we will have some updates.
 19.04.22 - We deployed minor UI improvements on the Pool & NFT pages.
 
