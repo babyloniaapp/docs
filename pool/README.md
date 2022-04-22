@@ -26,3 +26,7 @@ The dashboard is the main profiler. It shows the tokens and coin on the wallet a
 
 
 ---
+
+### CHAIN SELECTOR
+![Screenshot of Profile section of Chain Selector](https://github.com/babyloniaapp/docs/blob/59a9efbe6a4cd2d82f317fc3f5ead4677272f567/.gitbook/assets/Screenshot_pool.babylonia.app_02.png)
+
