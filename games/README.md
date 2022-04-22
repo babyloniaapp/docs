@@ -9,7 +9,7 @@ The list of games is under review, as we complete our developers team, we contin
 
 ## GAMES Phase II
 
-![Screenshot of the game.babylonia](games/assets/Screenshot_GAME_preview_01.png)
+![Screenshot of the game.babylonia](https://raw.githubusercontent.com/babyloniaapp/docs/main/.gitbook/assets/Screenshot_GAME_preview_01.png)
 
 ![Babylonia Whole Picture](.gitbook/assets/SLIDES_MainBabylonia_280322_1920x1920.png)
 
