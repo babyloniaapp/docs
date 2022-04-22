@@ -5,7 +5,7 @@ In the **Pool** we offer all range of **DeFi** products and services. At the mom
 
 ---
 ### SWAP (BUY & SELL)
-Here you find everything you need to know on how to buy & sell [_<mark style="background-color:orange;">**babylonia.app**</mark>_](https://babylonia.app) tokens, on how to use them, trade them and finally stake them to earn more tokens.
+Here you find everything you need to know on how to buy & sell [_<mark style="background-color:orange;">**babylonia.app**</mark>_](https://babylonia.app) tokens, on how to use them, trade them. Our platform is not a DEX, and we do not have any plans to offer a DEX or in house SWAP services, however our SWAP services will be using (borrowing) some other platform facilities. Simply we only facilitate the exchange and swap but inside, the system using an API from 1Inch, Pancakeswap, Uniswap or similar trustworthy websites.
 
 
 
