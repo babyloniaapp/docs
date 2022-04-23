@@ -10,7 +10,7 @@ Tokens format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom,
 ![](.gitbook/assets/SLIDES\_TOKEN\_006\_4x3\_withLogo.png)
 
 **How the system works? Let's dive in!**
-
+##
 ### Chip (CHP)&#x20;
 
 Purpose: Utility token to be used playing or using babylonia.app services&#x20;
@@ -18,22 +18,23 @@ Purpose: Utility token to be used playing or using babylonia.app services&#x20;
 Total supply: not capped Fixed ratio vs. BUSD or USDC or USDT of : 1000 CHP = 1 USD Can be purchased directly or be airdropped with staking PBTM Daily airdrops to the PBTM holders: airdropped CHP can not be sold without playing at least a game and winning Credits (CRD).
 
 Airdrops formula: fixed amount + proportional to the BABY Token amount, airdrops do not add up, there will not be an airdrop if the player did not use yesterday airdrop. Air drop mechanism: either by creating intermediary + auto-expiring token or algorithmic logic-check. Everything is under development.
-
+##
 ### Credit (CRD)&#x20;
 
 Purpose: Utility token to be used cashing out or converting to other tokens The wining prize is paid in Credit (CRD) & Credit can be converted to Chip (CHP) to ensure continues game playing
 
 Total supply: not capped fixed ratio vs. BUSD or USDC or USDT of : 1000 CHP = 1 USD Can not be minted, can not be purchased, can be swapped with CHP,  BABY token or USD.  There is a limit on the amount that can be cashed out, time-limit + cashing-out-limit Large swaps and cash-outs must be verified by admins. There will be an anti-cheating mechanism monitoring each player transactions at the end of each session to verify input and output of the tokens.
 We not believe and trust the automation without proper scrutiny and examination. The main problem on the DeFi today is an absurd number of exploits, hacks, and frauds due to overestimation and trust to the code. In **Babylonia**, we believe that there is not a golden solution to everything, and the path to automation must be traveled slowly and carefully. Shortly, we do things mostly manually. So expect to hear more accountability and responsibilities and less “oops there was a bug in the code!”
+##
 
 ### BABY Token 
 The **BABY token** is the native token of the **Babylonia.app** platform.  It is an ERC-20 format token, and it is available on multiple chains such as BNB Chain (BSC), Ethereum, Avalanche (AVAX), Polygon and Fantom.  The BABY token protocol is designed to be fully decentralized, using a trading model known as an automated liquidity protocol. The liquidity pool will be introduced in the **OPEN MARKET** phase of roadmap development.
 
 The **Baby token** is capped at maximum supply of 888,888,888 BABY. At its core, it uses a mechanism that we called it “Proportionally backed token mechanism (PBTM)”. 
 
+##
 
-
-### Proportionally backed token mechanism (PBTM)&#x20;
+### Proportionally backed token mechanism (PBTM)
 
 ![](<.gitbook/assets/PAGES_Collateral Ratio_0201.png>)
 
@@ -41,7 +42,7 @@ The **Baby token** is capped at maximum supply of 888,888,888 BABY. At its core,
 
 
 
-
+##
 
 ### BABY Token distribution
 
