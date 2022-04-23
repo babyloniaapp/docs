@@ -1,3 +1,4 @@
+
 # 🪙 Tokenomics
 
 ## **Tokens** <a href="#swamp-reward-distribution" id="swamp-reward-distribution"></a>
@@ -22,22 +23,37 @@ Airdrops formula: fixed amount + proportional to the BABY Token amount, airdrops
 
 Purpose: Utility token to be used cashing out or converting to other tokens The wining prize is paid in Credit (CRD) & Credit can be converted to Chip (CHP) to ensure continues game playing
 
-Total supply: not capped fixed ratio vs. BUSD or USDC or USDT of : 1000 CHP = 1 USD Can not be minted, can not be purchased, can be swapped with CHP, PBTM, or USD There is a limit on the amount that can be cashed out, time-limit + cashing-out-limit Large swaps and cash-outs must be verified by admins, there will be anti-cheating mechanism monitoring each player transactions at the end of each session to verify input and output of the tokens.
+Total supply: not capped fixed ratio vs. BUSD or USDC or USDT of : 1000 CHP = 1 USD Can not be minted, can not be purchased, can be swapped with CHP,  BABY token or USD.  There is a limit on the amount that can be cashed out, time-limit + cashing-out-limit Large swaps and cash-outs must be verified by admins. There will be an anti-cheating mechanism monitoring each player transactions at the end of each session to verify input and output of the tokens.
+We not believe and trust the automation without proper scrutiny and examination. The main problem on the DeFi today is an absurd number of exploits, hacks, and frauds due to overestimation and trust to the code. In **Babylonia**, we believe that there is not a golden solution to everything, and the path to automation must be traveled slowly and carefully. Shortly, we do things mostly manually. So expect to hear more accountability and responsibilities and less “oops there was a bug in the code!”
+
+### BABY Token 
+The **BABY token** is the native token of the **Babylonia.app** platform.  It is an ERC-20 format token, and it is available on multiple chains such as BNB Chain (BSC), Ethereum, Avalanche (AVAX), Polygon and Fantom.  The BABY token protocol is designed to be fully decentralized, using a trading model known as an automated liquidity protocol. The liquidity pool will be introduced in the **OPEN MARKET** phase of roadmap development.
+
+The **Baby token** is capped at maximum supply of 888,888,888 BABY. At its core, it uses a mechanism that we called it “Proportionally backed token mechanism (PBTM)”. 
+
+
 
 ### Proportionally backed token mechanism (PBTM)&#x20;
-
-![](.gitbook/assets/SLIDES\_TOKENDISTRIBUTION\_003\_4x3\_withLogo.png)
-
-Total supply: 888,888,888
-
-The PBTM v2 contract will be transformed to Babylonia Token (BABY) later on the project. The following table shows the collateral ratio in relation with the market cap of the BABY.
 
 ![](<.gitbook/assets/PAGES_Collateral Ratio_0201.png>)
 
 ![](<.gitbook/assets/PAGES_Collateral Ratio_0202.png>)
 
 
-&#x20;
+
+
+
+### BABY Token distribution
+
+![](.gitbook/assets/SLIDES\_TOKENDISTRIBUTION\_003\_4x3\_withLogo.png)
+
+Let's talk about the BABY Token distribution model.
+
+
+
+
+
+
 
 ![](.gitbook/assets/SLIDES\_CROWDSALE#1\_distri\_002\_4x3\_withLogo.png)
 
@@ -51,8 +67,8 @@ Crowdsale #2, 5% equal to 44,444,444 - SP: $0.02 proportionally -->Unsold pre-sa
 
 The revenue generation will be assigned to: SWAP liquidity pairs 60%, Collateral 15%, Marketing & Sale 15%, Security audits 5%, Development Team 5%.
 
-What is remained and left of crowdsale (unsold tokens) + to yield rewards to the total of 70% of total supply in next two years.&#x20;
+What is remained and left of **Crowdsale** (unsold tokens) + to yield rewards to the total of 70% of total supply in next two years.&#x20;
 
 Expansion rate will proportional to the market demand, less demand will reduce the minting rate, higher demand will accelerate the minting ratio. We are still working on the whereabouts of the algorithm but for the first six months, the expansion will be fixed to (**100% - 30%** + **unsold tokens from crowd sales %**) / 2 years, so if all **20% of tokens** which are assigned to the crowd sales have been sold, the targeted expansion rate will be **50%** in 2 years, or 2.088% monthly.&#x20;
 
-Let's talk about the rest **30% of BABY tokens**. 10% is designated to the founders, will be unlocked a year after the main launch. 7% goes to the marketing and sales activities. 5% is for the licensing, insurance and security audits. And finally, 11% is assigned to the development and team buybacks, burning and backing Aside from creating an entertaining platform that everyone have fun and spend a good time, the main goal of babylonia.app is to reward tokens holders, as the most important part of this platform. Without support of citizens of babylonia.app we never could develop the platform as effectively. So, embedded into the system, every dollar of income of the platform is being shared with PBTM tokens holders. The accurate formula of taking rewards, buyback and collateral adding feature will be released soon. Stay tuned and keep looking up.
+Let's talk about the rest **30% of BABY tokens**. 10% is designated to the founders, will be unlocked a year after the main launch. 7% goes to the marketing and sales activities. 5% is for the licensing, insurance and security audits. And finally, 11% is assigned to the development and team buybacks, burning and backing Aside from creating an entertaining platform that everyone have fun and spend a good time, the main goal of babylonia.app is to reward tokens holders, as the most important part of this platform. Without support of citizens of **babylonia.app** we never could develop the platform as effectively. So, embedded into the system, every dollar of income of the platform is being shared with PBTM tokens holders. The accurate formula of taking rewards, buyback and collateral adding feature will be released soon. Stay tuned and keep looking up.
