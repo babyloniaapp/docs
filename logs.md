@@ -1,70 +1,74 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
-------------
+
+---
+23.04.22 - We are in the process of updating our documents again, as the development moves forward very fast, we needed to update our structure of content more often.
+
+---
 22.04.22 - The 3D model of the main page is optimized and got lighter, devs are working on the changes. \
 22.04.22 - The user registration and sign in/sign up pages are under development, coming soon.
 
-------------
+---
 19.04.22 - The 3D model of the main page is under review, soon we will have some updates.
 19.04.22 - We deployed minor UI improvements on the Pool & NFT pages.
 
-------------
+---
 18.04.22 - We have contacted some very knowledgeable promoters & Instagram influencers to talk and advertise about the platform. \
 18.04.22 - Unfortunately, the Crowdsale #1 is delayed for another month. Sadly, despite all our efforts, the number of new user that we require to start the process is below our goal number. Also, the feelings on Crypto market in April 2022 is very bearish and cold, we would rather wait for more favorable weather in May & June.
 
-------------
+---
 16.04.22 - Devs are very busy working on 1/ Media project, 2/ NFT page, platform and web3 functionality, 3/ Token contract audits. \
 16.04.22 - We are ready to deploy the Internet Radio section of Media project once again today, we are still working on the optimization and bug fixing.
 
-------------
+---
 
 15.04.22 - We have contacted many promoters to advertise our platform, we chose a few authentic channels to carry on.
 
-------------
+---
 12.04.22 - The game.babylonia.app is ready and publish, looks good!
 
 
 13.04.22 - We have dismissed one of our web2 devs, sadly the performance was not what we expected to be, and it is not easy to carry on with our small budget, we get it. \
 13.04.22 - Started working on the user database, signing up structure and storing the data, two devs are working on this project.
 
-------------
+---
 12.04.22 - The game.babylonia.app is ready and publish, looks good!
 
-------------
+---
 11.04.22 - We hired two smart contract developers to audit our contracts and comment. \
 11.04.22 - The game.babylonia.app is going to be published soon, it is just a display at the moment, games will come after the ICO.
 
-------------
+---
 09.04.22 - The left side menus and buttons got updated, for the first time we have a same styling across the platform. \
 09.04.22 - The first phase of wallet connect & Web3 integration on media.babylonia.app is done, we are working on the optimization.
 
-------------
+---
 08.04.22 - Hiring a security auditor is the way, we will finalize it by tomorrow. \
 08.04.22 - Team is working on the mobile page of NFT services, it is getting ready in next few days.
 
-------------
+---
 06.04.22 - To get ready for the ICO, we are hiring smart contract developers to do some security audit on our contracts. 
 
 
-------------
+---
 05.04.22 - media.babylonia.app has been updated, we are still working on the podcast section, our free to use podcast API service is not very sophisticated, so we are limited in terms of features. Later on the project with a better funding we will get a paid API services. \
 05.04.22 - Our pool.babylonia.app also has been updated, we added Ethereum and Avalanche support. \
 05.04.22 - Unfortunately GitHub does not show the small updates, fixed and pull requests, some days we got more than ten PR and fixes, but it is not considered as a contribution. We need to fix that too!
 
-------------
+---
 03.04.22 - Unfortunately we have ended the contract with one of our devs. On the short term, it slows us down to find a replacement and bring the new member up to speed, but this is the story of our small start up. We have limited time and small budget, sadly it does not please most devs.
 
-------------
+---
 02.04.22 - We got some visual updates on media.babylonia.app, the music service is down due to API issue, we fix it in some other time. At the moment, we don't have time and resources to spend on music and radio project.\
 02.04.22 - We are busy patching pool.babylonia.app, adding network selector, the updates are under review, will be deployed shorty.
 
-------------
+---
 31.03.22 - The nft.babylonia.app has been updated, the NFT categories have been added, and menu icons updated.\
 31.03.22 - the pool.babylonia.app page is updated and looks similar to NFT, we keep the same stylings.
 
 
-------------
+---
 30.03.22 - We pushed another update on our NFT page. We got some fixes on the creating page, will be deployed soon.\
 30.03.22 - Mobile pages are under a re-work job, updating icons and adding extra menus.
 
