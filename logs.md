@@ -1,6 +1,9 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+---
+24.04.22 - Sadly we fired our 3D dev, who got hired through Upwork, he was able to deliver the requested tasks on-time satisfactory. We are looking to replace him ASAP. WIP!
+
 
 ---
 23.04.22 - We are in the process of updating our documents again, as the development moves forward very fast, we needed to update our structure of content more often.
