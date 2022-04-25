@@ -39,9 +39,9 @@ The **Baby token** is capped at maximum supply of 888,888,888 BABY. At its core,
 In cryptocurrency, collateral tokens are **used as a risk mitigation asset when borrowing other types of crypto tokens**. Just like with collateral used in traditional finance, collateral tokens serve as a risk-mitigating asset for lenders when borrowers want to get a crypto loan. In **BABYLONIA**, we use PBTM system. Based on two years of active experience in DeFi sector, we have seen rise and fall of many token values. The DeFi tokens tend to have more expansion rate, as a tool to promote higher yields and APR on the holding, staking and farming products. Consequently, at the short amount of time they reach to their climax and fall down pretty fast and hard, some can never recover. 
 In PBTM system, we have more support and backing for **BABY Token**, also collaterals will be liquidated to buyback tokens from the market, if the price of token falls in respect with the total cryptocurrency market cap. So, it is a braking system to slow down the downtrends.
 
-![](<.gitbook/assets/PAGES_Collateral Ratio_0201.png>)
+![Collateral calculation with $2B marketcap](<.gitbook/assets/PAGES_Collateral Ratio_0201.png>)
 
-![](<.gitbook/assets/PAGES_Collateral Ratio_0202.png>)
+![Collateral calculation with $3B marketcap](<.gitbook/assets/PAGES_Collateral Ratio_0202.png>)
 
 
 
@@ -49,7 +49,7 @@ In PBTM system, we have more support and backing for **BABY Token**, also collat
 
 ### BABY Token distribution
 
-![](.gitbook/assets/SLIDES\_TOKENDISTRIBUTION\_003\_4x3\_withLogo.png)
+![Token Distribution of BABY Token](.gitbook/assets/SLIDES\_TOKENDISTRIBUTION\_003\_4x3\_withLogo.png)
 
 Let's talk about the BABY Token distribution model.
 
