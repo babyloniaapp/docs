@@ -44,7 +44,6 @@ In PBTM system, we have more support and backing for **BABY Token**, also collat
 ![Collateral calculation with $3B marketcap](<.gitbook/assets/PAGES_Collateral Ratio_0202.png>)
 
 
-
 ##
 
 ### BABY Token distribution
@@ -57,15 +56,17 @@ Let's talk about the BABY Token distribution model. We have studied tokenomics o
 
 
 
+
+
 ![](.gitbook/assets/SLIDES\_CROWDSALE#1\_distri\_002\_4x3\_withLogo.png)
 
-Crowdsale #1: 10% equal to 88,888,888 - SP: $0.01 -->Unsold quantity will be transferred to second pre-sale&#x20;
+**Crowdsale #1:** 10% equal to 88,888,888 - SP: $0.01 -->Unsold quantity will be transferred to second pre-sale&#x20;
 
 The Crowdsale #1 revenue generation will be distributed as: Development Team 35%, Collateral 30%, Website transition to a dedicated server 5%, Security audits 10%, and finally Marketing & Sale 20%.
 
 ![](.gitbook/assets/SLIDES\_CROWDSALE#2\_distri\_002\_4x3\_withLogo.png)
 
-Crowdsale #2, 5% equal to 44,444,444 - SP: $0.02 proportionally -->Unsold pre-sale will be transferred to Open Market Launch.
+**Crowdsale #2:** 5% equal to 44,444,444 - SP: $0.02 proportionally -->Unsold pre-sale will be transferred to Open Market Launch.
 
 The revenue generation will be assigned to: SWAP liquidity pairs 60%, Collateral 15%, Marketing & Sale 15%, Security audits 5%, Development Team 5%.
 
