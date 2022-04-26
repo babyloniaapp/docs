@@ -20,17 +20,31 @@ With a distributed ledger that is shared among members of a network, time-wastin
 
 (Source: [IBM](https://www.ibm.com/topics/what-is-blockchain))
 
+---
 
+### Blockchain use cases
+
+#### Money Transfer
+#### Smart Contracts
+#### Internet of Things
+#### Personal Identity Security
+#### Healthcare
+#### Logistics
+#### Non-Fungible Tokens (NFTs)
+#### Government
+#### Media
+
+---
 ## Cryptocurrency
-
+---
 ## ERC20
-
+---
 ## Stable Coin
-
+---
 ## Wallets
-
+---
 ## Coin & Token
-
+---
 ## ICO & IPO
 
 
