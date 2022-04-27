@@ -24,8 +24,11 @@ With a distributed ledger that is shared among members of a network, time-wastin
 
 ### Blockchain use cases
 
+
 #### Money Transfer
 #### Smart Contracts
+#### Gambling
+
 #### Internet of Things
 #### Personal Identity Security
 #### Healthcare
