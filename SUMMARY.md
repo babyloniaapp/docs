@@ -4,7 +4,7 @@
 * [🎰 Games: All based on blockchain](games/README.md)
   * [Blockchain Roulette](games/blockchain-roulette.md)
   * [Slot](games/slot/README.md)
-    * [Dice Games](games/slot/dice-games.md)
+  * [Dice Games](games/slot/dice-games.md)
   * [Lottery](games/lottery.md)
   * [Bingo](games/bingo.md)
   * [BabyFOMO](games/babyfomo.md)
