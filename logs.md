@@ -2,6 +2,9 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ---
+27.04.22 - The pool.babylonia.app has a new look, we are working on the wallet connection of Solana Phantom. Stay tuned!
+
+---
 25.04.22 - We are very busy finalizing our user database on the backend side, also devs are working on the game.babylonia.app page, to add user registration and login features.
 
 ---
