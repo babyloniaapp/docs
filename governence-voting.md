@@ -1,6 +1,6 @@
 # 🗳 Governing, proposal & voting
 
-![](https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy\&cs=srgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHx2b3Rlc3xlbnwwfHx8fDE2MzcwNDQ1ODY\&ixlib=rb-1.2.1\&q=85)
+![](https://github.com/babyloniaapp/docs/blob/2e19e053513e7ce474533e2ea93344f9e11ecb93/.gitbook/assets/Role-of-blockchain-in-voting.gif)
 
 Here in [_<mark style="background-color:orange;">**babylonia.app**</mark>_](https://babylonia.app) we listen to people, first our stakeholders and then the players. Weekly proposals from the developer team, Babylonians and the community members will go live on the board, we discuss and vote for or against them. Each Babylonian with ~~10~~ **1000 BABY tokens** or more can be participating. Each ~~10~~ **1000 BABY tokens** will count as a one vote, the maximum voting power will be limited to 1000 per address. Non-Babylonian can create a proposal, but can not cast a vote. 
 
