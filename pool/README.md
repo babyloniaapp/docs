@@ -32,5 +32,6 @@ The dashboard is the main profiler. It shows the tokens and coin on the wallet a
 
 The chain selector is a tool to add ERC20 compatible networks to the MetaMask. The idea has been existed on the net for some time, we figured it is not very well managed, and lacks the well-designed UI, so we created this tool from scratch. The chain selector is a part of a program that we intended to add handy tools to our **POOL** ecosystem. So many more to come!
 
+---
 
 ### Bridge
