@@ -27,6 +27,7 @@
 * [🌍 Charity & Donation](charity.md)
 * [🗳 Governing, proposal & voting](governence-voting.md)
 * [🔞 Security & Risks](security-and-risks.md)
+  * [:thumbsup: User Agreement](security-and-risks/useragreement.md)
 * [:bulb: Learning](learning.md)
 * [❓ FAQ](faq.md)
 * [😎 Useful Links](useful-links.md)
