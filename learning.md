@@ -53,21 +53,36 @@ This increased popularity has led some to question the role that copyright law w
 While NFTs are relatively new and may be an unfamiliar type of art, copyright law will treat NFTs the same as any other traditional artwork. If an artist creates a new piece of artwork, they will automatically acquire a copyright of that new artwork. There are certain rights that are acquired by a copyright owner automatically upon creation of a copyrighted work. A copyright owner has exclusive rights to reproduce the work, prepare derivative works, and distribute copies of the work. Thus, a copyright owner has exclusive rights to make an NFT based on an original piece of artwork because “creation of an NFT can be categorized as a copy or even a derivative of the original work.”
 (Source: [jdsupra.com](https://www.jdsupra.com/legalnews/nfts-and-copyright-law-7361836/))
 
+---
+
 
 #### Government
+
+
 #### Media
 
 ---
+
 ## Cryptocurrency
+
 ---
+
 ## ERC20
+
 ---
+
 ## Stable Coin
+
 ---
+
 ## Wallets
+
 ---
+
 ## Coin & Token
+
 ---
+
 ## ICO & IPO
 
 
