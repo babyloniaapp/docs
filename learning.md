@@ -42,7 +42,18 @@ The Internet of Things (IoT) is making our lives easier, but it's also opening t
 #### Personal Identity Security
 #### Healthcare
 #### Logistics
+---
 #### Non-Fungible Tokens (NFTs)
+A non-fungible token (NFT) is a unique piece of data that is stored on a blockchain. More specifically, NFTs are digital files such as photographs, videos, or audio files that can be bought and sold with cryptocurrency. In many cases, NFTs are large files and, thus, a link to the actual photo, video, or audio file is what is stored on the blockchain rather than the actual piece of artwork.
+
+While NFTs have been around for most of the past decade, they have dramatically gained in popularity over the past year. One reason so many people have become interested in NFTs could be because of the massive sales prices associated with some NFTs.
+
+This increased popularity has led some to question the role that copyright law will play in the protection of this new type of artwork.
+
+While NFTs are relatively new and may be an unfamiliar type of art, copyright law will treat NFTs the same as any other traditional artwork. If an artist creates a new piece of artwork, they will automatically acquire a copyright of that new artwork. There are certain rights that are acquired by a copyright owner automatically upon creation of a copyrighted work. A copyright owner has exclusive rights to reproduce the work, prepare derivative works, and distribute copies of the work. Thus, a copyright owner has exclusive rights to make an NFT based on an original piece of artwork because “creation of an NFT can be categorized as a copy or even a derivative of the original work.”
+(Source: [jdsupra.com](https://www.jdsupra.com/legalnews/nfts-and-copyright-law-7361836/))
+
+
 #### Government
 #### Media
 
