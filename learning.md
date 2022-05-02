@@ -35,6 +35,8 @@ The gambling industry can use blockchain to provide several benefits to players.
 
 #### Internet of Things
 The Internet of Things (IoT) is making our lives easier, but it's also opening the door for nefarious actors to access our data or take control of important systems. Blockchain technology can provide greater security by storing passwords and other data on a decentralized network instead of a centralized server. Additionally, it offers protection against data tampering since a blockchain is practically immutable.
+(Source: [fool.com](https://www.fool.com/investing/stock-market/market-sectors/financials/blockchain-stocks/blockchain-applications))
+
 
 ---
 #### Personal Identity Security
