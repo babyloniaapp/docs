@@ -31,7 +31,12 @@ With a distributed ledger that is shared among members of a network, time-wastin
 The gambling industry can use blockchain to provide several benefits to players. One of the biggest benefits of operating a casino on the blockchain is the transparency it provides to potential gamblers. Since every transaction is recorded on the blockchain, bettors can see that the games are fair and the casino pays out. Furthermore, by using blockchain, there's no need to provide personal information, including a bank account, which may be a hurdle for some would-be gamblers. It also provides a workaround for regulatory restrictions since players can gamble anonymously and the decentralized network isn't susceptible to government shutdown.
 (Source: [fool.com](https://www.fool.com/investing/stock-market/market-sectors/financials/blockchain-stocks/blockchain-applications))
 
+---
+
 #### Internet of Things
+The Internet of Things (IoT) is making our lives easier, but it's also opening the door for nefarious actors to access our data or take control of important systems. Blockchain technology can provide greater security by storing passwords and other data on a decentralized network instead of a centralized server. Additionally, it offers protection against data tampering since a blockchain is practically immutable.
+
+---
 #### Personal Identity Security
 #### Healthcare
 #### Logistics
