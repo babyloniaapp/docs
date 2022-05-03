@@ -43,7 +43,7 @@
 15.04.22 - We have contacted many promoters to advertise our platform, we chose a few authentic channels to carry on.
 
 ---
-12.04.22 - The game.babylonia.app is ready and publish, looks good!
+14.04.22 - The game.babylonia.app is ready and publish, looks good!
 
 
 13.04.22 - We have dismissed one of our web2 devs, sadly the performance was not what we expected to be, and it is not easy to carry on with our small budget, we get it. \
