@@ -27,7 +27,7 @@
 22.04.22 - The user registration and sign in/sign up pages are under development, coming soon.
 
 ---
-19.04.22 - The 3D model of the main page is under review, soon we will have some updates.
+19.04.22 - The 3D model of the main page is under review, soon we will have some updates. \
 19.04.22 - We deployed minor UI improvements on the Pool & NFT pages.
 
 ---
