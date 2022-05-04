@@ -3,6 +3,12 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
 ---
+05.04.22 - We are in process of negotiating with promoters and influecners for the platform, some of their fees are extremly high. \
+05.04.22 - The game page is still under development, we got trouble deploying the user database and signup forms. \
+05.04.22 - Our monthly updates of April has been published in various forums and websites by our trustee distributor.
+
+
+---
 30.04.22 - The Solana, Phantom wallet connection is adding to the wallet connect, soon the updates will be deployed. \
 30.04.22 - We hired a 3D developer for the 3rd time this season, after disappointing work by previous two, we raised our hopes up with the new one. \
 30.04.22 - The final UI design of login and Signup pages are done, devs working on it to code it into the platform and be deployed withing next week.
