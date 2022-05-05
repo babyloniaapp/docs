@@ -3,6 +3,10 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
 ---
+06.04.22 - The signin and create account of game.babylonia.app page is almost completed. It is up and working. We are busy with finalizing the final details. \
+06.04.22 - The 3D globe and models are under heavy rework, we hope to publish first prieview in next few days.
+
+---
 05.04.22 - We are in process of negotiating with promoters and influecners for the platform, some of their fees are extremly high. \
 05.04.22 - The game page is still under development, we got trouble deploying the user database and signup forms. \
 05.04.22 - Our monthly updates of April has been published in various forums and websites by our trustee distributor.
