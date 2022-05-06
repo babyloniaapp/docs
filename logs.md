@@ -1,6 +1,9 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+---
+07.05.22 - We pushed an update on the Pool page yesterday, merging Solana with ERC20 networks, but it was buggy and problematic, so we revert it back, working on the fixed.
+
 
 ---
 06.05.22 - The signin and create account of game.babylonia.app page is almost completed. It is up and working. We are busy with finalizing the final details. \
