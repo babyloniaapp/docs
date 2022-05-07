@@ -67,5 +67,6 @@ Now, save the changes.
 ####
 
 ![MetaMask with BNB Chain](https://github.com/babyloniaapp/docs/blob/f5dd4ea8fbee0c84f1fb1e27860596d5b04a8307/assets/screenshot/Screenshot-MetaMask-04.png)
+
 Finally, the MetaMask should look like this, repeat the procedures to add another network if you desire so.
 
