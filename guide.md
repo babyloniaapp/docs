@@ -43,18 +43,19 @@ Let’s change that.
 Click **Add Network** in the top-right corner to **manually add the BNB Chain or Polygon** one – it doesn’t come packaged with MetaMask. Below are the parameters to fill in.
 
 ---
-**Network Name:** BNB Chain
-**New RPC URL:** https://bsc-dataseed.binance.org
-**ChainID:** 56
-**Symbol:** BNB
+
+**Network Name:** BNB Chain \
+**New RPC URL:** https://bsc-dataseed.binance.org \
+**ChainID:** 56 \
+**Symbol:** BNB \
 **Block Explorer URL:** https://bscscan.com
 
 ---
 
-**Network Name:** Polygon Mainnet
-**New RPC URL:** [https://polygon-rpc.com](https://polygon-rpc.com/) 
-**ChainID:** 137
-**Symbol:** MATIC
+**Network Name:** Polygon Mainnet \
+**New RPC URL:** [https://polygon-rpc.com](https://polygon-rpc.com/) \
+**ChainID:** 137 \
+**Symbol:** MATIC \
 **Block Explorer URL:** [https://polygonscan.com](https://polygonscan.com/)
 
 ---
