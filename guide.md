@@ -22,3 +22,14 @@ Firstly, you’ll want to head over to the MetaMask [Download page](https://meta
 Next, follow along with the setup specified by the app. Go ahead and click Create a Wallet. Write down the backup [seed phrase](https://academy.binance.com/en/glossary/seed-phrase) somewhere secret (preferably not on an Internet-connected device). Without this phrase, your funds can’t be recovered if your device is damaged or lost. Confirm that you’ve written them down on the next page.
 
 And that’s it! You should now see your wallet, ready to send and receive funds.
+
+
+
+## Configuring the wallet
+
+You might notice straight away that we’re still dealing with an [Ethereum](https://academy.binance.com/en/articles/what-is-ethereum) wallet. The **BABY token**, the Babylonia.app native token is deployed on BNB Chain (BSC), Polygon and Fantom network. So, it is required that these networks to be added to the MetaMask original network list. 
+
+
+Do not use MetaMask with Ethereum network, at best, this won’t work with BNB Chain(Binance Smart Chain or BSC) DApps. At worst, **you could lose funds by sending them to addresses you can’t actually use**.
+
+Let’s change that. 
