@@ -21,7 +21,12 @@ Firstly, you’ll want to head over to the MetaMask [Download page](https://meta
 
 Next, follow along with the setup specified by the app. Go ahead and click Create a Wallet. Write down the backup [seed phrase](https://academy.binance.com/en/glossary/seed-phrase) somewhere secret (preferably not on an Internet-connected device). Without this phrase, your funds can’t be recovered if your device is damaged or lost. Confirm that you’ve written them down on the next page.
 
+
+![MetaMask fresh install](https://github.com/babyloniaapp/docs/blob/ec06cbe41281338ae849adcaddcd5797e9344317/assets/screenshot/Screenshot-MetaMask-01.png)
+
+
 And that’s it! You should now see your wallet, ready to send and receive funds.
+
 
 
 
