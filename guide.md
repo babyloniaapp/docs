@@ -38,3 +38,31 @@ You might notice straight away that we’re still dealing with an [Ethereum](htt
 Do not use MetaMask with Ethereum network, at best, this won’t work with BNB Chain(Binance Smart Chain or BSC) DApps. At worst, **you could lose funds by sending them to addresses you can’t actually use**.
 
 Let’s change that. 
+
+![MetaMask adding new network](https://github.com/babyloniaapp/docs/blob/f5dd4ea8fbee0c84f1fb1e27860596d5b04a8307/assets/screenshot/Screenshot-MetaMask-02.png)
+Click **Add Network** in the top-right corner to **manually add the BNB Chain or Polygon** one – it doesn’t come packaged with MetaMask. Below are the parameters to fill in.
+
+---
+**Network Name:** BNB Chain
+**New RPC URL:** https://bsc-dataseed.binance.org
+**ChainID:** 56
+**Symbol:** BNB
+**Block Explorer URL:** https://bscscan.com
+
+---
+
+**Network Name:** Polygon Mainnet
+**New RPC URL:** [https://polygon-rpc.com](https://polygon-rpc.com/) 
+**ChainID:** 137
+**Symbol:** MATIC
+**Block Explorer URL:** [https://polygonscan.com](https://polygonscan.com/)
+
+---
+
+![MetaMask adding BNB Chain](https://github.com/babyloniaapp/docs/blob/f5dd4ea8fbee0c84f1fb1e27860596d5b04a8307/assets/screenshot/Screenshot-MetaMask-03.png)
+Now, save the changes.
+
+
+![MetaMask with BNB Chain](https://github.com/babyloniaapp/docs/blob/f5dd4ea8fbee0c84f1fb1e27860596d5b04a8307/assets/screenshot/Screenshot-MetaMask-04.png)
+Finally, the MetaMask should look like this, repeat the procedures to add another network if you desire so.
+
