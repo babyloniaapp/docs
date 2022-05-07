@@ -8,3 +8,7 @@
 
 
 ## How game section on Babylonia.app works?
+
+
+
+## Connecting with MetaMask wallet
