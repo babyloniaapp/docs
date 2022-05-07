@@ -5,3 +5,6 @@
 
 
 ## How to use Babylonia media?
+
+
+## How game section on Babylonia.app works?
