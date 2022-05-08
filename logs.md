@@ -2,6 +2,9 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ---
+08.05.22 - There 3D globe has totally been updated, and reworked. It looks amazing, we are working on the animations and more optimazations.
+
+---
 07.05.22 - We pushed an update on the Pool page yesterday, merging Solana with ERC20 networks, but it was buggy and problematic, so we revert it back, working on the fixed.
 
 
