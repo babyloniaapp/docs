@@ -17,7 +17,7 @@ MetaMask can be downloaded on Chrome and Firefox, or on iOS and Android if you�
 
 Firstly, you’ll want to head over to the MetaMask [Download page](https://metamask.io/download.html). From there, select whichever platform you’re using, and follow the steps to install it on your device. Easy!
 
-:warning: MetaMask does not have a **mobile application**, not on Android or iOS, if there is one on the app store or play store that is most likely a fraudulent and scam. Do not use it. Read more about it on our [article](https://appbabylonia.medium.com/safety-tips-for-cryptocurrency-users-ver-001-9d5ad2e86632) we published on Medium.
+:warning: MetaMask does not have a  **mobile application** , not on Android or iOS, if there is one on the app store or play store that is most likely a fraudulent and scam. Do not use it. Read more about it on our [article](https://appbabylonia.medium.com/safety-tips-for-cryptocurrency-users-ver-001-9d5ad2e86632) we published on Medium.
 
 Next, follow along with the setup specified by the app. Go ahead and click Create a Wallet. Write down the backup [seed phrase](https://academy.binance.com/en/glossary/seed-phrase) somewhere secret (preferably not on an Internet-connected device). Without this phrase, your funds can’t be recovered if your device is damaged or lost. Confirm that you’ve written them down on the next page.
 
@@ -41,6 +41,7 @@ Do not use MetaMask with Ethereum network, at best, this won’t work with BNB C
 Let’s change that. 
 
 <img src="https://github.com/babyloniaapp/docs/blob/f5dd4ea8fbee0c84f1fb1e27860596d5b04a8307/assets/screenshot/Screenshot-MetaMask-02.png" alt="MetaMask adding new network" width="300"/>
+
 Click **Add Network** in the top-right corner to **manually add the BNB Chain or Polygon** one – it doesn’t come packaged with MetaMask. Below are the parameters to fill in.
 
 ---
