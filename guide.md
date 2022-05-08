@@ -36,7 +36,7 @@ And that’s it! You should now see your wallet, ready to send and receive funds
 You might notice straight away that we’re still dealing with an [Ethereum](https://academy.binance.com/en/articles/what-is-ethereum) wallet. The **BABY token**, the Babylonia.app native token is deployed on BNB Chain (BSC), Polygon and Fantom network. So, it is required that these networks to be added to the MetaMask original network list. 
 
 
-Do not use MetaMask with Ethereum network, at best, this won’t work with BNB Chain(Binance Smart Chain or BSC) DApps. At worst, **you could lose funds by sending them to addresses you can’t actually use**.
+ℹ️Do not use MetaMask with Ethereum network, at best, this won’t work with BNB Chain(Binance Smart Chain or BSC) DApps. At worst, **you could lose funds by sending them to addresses you can’t actually use**.
 
 Let’s change that. 
 
