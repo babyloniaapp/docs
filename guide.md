@@ -60,7 +60,9 @@ Click **Add Network** in the top-right corner to **manually add the BNB Chain or
 
 ---
 
-![MetaMask adding BNB Chain](https://github.com/babyloniaapp/docs/blob/f5dd4ea8fbee0c84f1fb1e27860596d5b04a8307/assets/screenshot/Screenshot-MetaMask-03.png)
+<img src="https://github.com/babyloniaapp/docs/blob/f5dd4ea8fbee0c84f1fb1e27860596d5b04a8307/assets/screenshot/Screenshot-MetaMask-03.png" alt="MetaMask adding BNB Chain" width="400"/>
+
+
 Now, save the changes.
 
 
