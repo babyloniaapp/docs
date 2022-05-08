@@ -22,7 +22,8 @@ Firstly, you’ll want to head over to the MetaMask [Download page](https://meta
 Next, follow along with the setup specified by the app. Go ahead and click Create a Wallet. Write down the backup [seed phrase](https://academy.binance.com/en/glossary/seed-phrase) somewhere secret (preferably not on an Internet-connected device). Without this phrase, your funds can’t be recovered if your device is damaged or lost. Confirm that you’ve written them down on the next page.
 
 
-![MetaMask fresh install](https://github.com/babyloniaapp/docs/blob/ec06cbe41281338ae849adcaddcd5797e9344317/assets/screenshot/Screenshot-MetaMask-01.png)
+<img src="https://github.com/babyloniaapp/docs/blob/ec06cbe41281338ae849adcaddcd5797e9344317/assets/screenshot/Screenshot-MetaMask-01.png" alt="MetaMask fresh install" width="300"/>
+
 
 
 And that’s it! You should now see your wallet, ready to send and receive funds.
@@ -39,7 +40,7 @@ Do not use MetaMask with Ethereum network, at best, this won’t work with BNB C
 
 Let’s change that. 
 
-![MetaMask adding new network](https://github.com/babyloniaapp/docs/blob/f5dd4ea8fbee0c84f1fb1e27860596d5b04a8307/assets/screenshot/Screenshot-MetaMask-02.png)
+<img src="https://github.com/babyloniaapp/docs/blob/f5dd4ea8fbee0c84f1fb1e27860596d5b04a8307/assets/screenshot/Screenshot-MetaMask-02.png" alt="MetaMask adding new network" width="300"/>
 Click **Add Network** in the top-right corner to **manually add the BNB Chain or Polygon** one – it doesn’t come packaged with MetaMask. Below are the parameters to fill in.
 
 ---
@@ -60,7 +61,7 @@ Click **Add Network** in the top-right corner to **manually add the BNB Chain or
 
 ---
 
-<img src="https://github.com/babyloniaapp/docs/blob/f5dd4ea8fbee0c84f1fb1e27860596d5b04a8307/assets/screenshot/Screenshot-MetaMask-03.png" alt="MetaMask adding BNB Chain" width="400"/>
+<img src="https://github.com/babyloniaapp/docs/blob/f5dd4ea8fbee0c84f1fb1e27860596d5b04a8307/assets/screenshot/Screenshot-MetaMask-03.png" alt="MetaMask adding BNB Chain" height="400"/>
 
 
 Now, save the changes.
@@ -68,7 +69,7 @@ Now, save the changes.
 
 ####
 
-<img src="https://github.com/babyloniaapp/docs/blob/f5dd4ea8fbee0c84f1fb1e27860596d5b04a8307/assets/screenshot/Screenshot-MetaMask-04.png" alt="MetaMask with BNB Chain" width="400"/>
+<img src="https://github.com/babyloniaapp/docs/blob/f5dd4ea8fbee0c84f1fb1e27860596d5b04a8307/assets/screenshot/Screenshot-MetaMask-04.png" alt="MetaMask with BNB Chain" width="300"/>
 
 Finally, the MetaMask should look like this, repeat the procedures to add another network if you desire so.
 
