@@ -38,7 +38,9 @@ You might notice straight away that we’re still dealing with an [Ethereum](htt
 
 ℹ️Do not use MetaMask with Ethereum network, at best, this won’t work with BNB Chain(Binance Smart Chain or BSC) DApps. At worst, **you could lose funds by sending them to addresses you can’t actually use**.
 
-Let’s change that. 
+There two methods to change and add extra networks, the manual way and using our "Babylonia Chain Selector" in the pool.babylonia.app page. So, let’s change that. 
+
+### Manual Method
 
 <img src="https://github.com/babyloniaapp/docs/blob/f5dd4ea8fbee0c84f1fb1e27860596d5b04a8307/assets/screenshot/Screenshot-MetaMask-02.png" alt="MetaMask adding new network" width="300"/>
 
@@ -74,3 +76,6 @@ Now, save the changes.
 
 Finally, the MetaMask should look like this, repeat the procedures to add another network if you desire so.
 
+---
+
+### Chain Selector Tool
