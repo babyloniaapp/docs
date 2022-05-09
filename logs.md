@@ -2,6 +2,10 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ---
+<img src="https://github.com/babyloniaapp/docs/blob/420a3ff94d2a308f18b5d08332c85f7541e2e00a/assets/screenshot/Screenshot-MainPage-2022-05-09-01.png" alt="Babylonia.app Mainpage 09.05.22" width="200"/>
+09.05.22 - We managed to run the animations on the 3D globe, also colors are better now, and less of over explosure. The 3D dev is working on the imrprovements.
+
+---
 08.05.22 - There 3D globe has totally been updated, and reworked. It looks amazing, we are working on the animations and more optimazations.
 
 ---
