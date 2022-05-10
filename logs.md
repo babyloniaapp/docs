@@ -4,7 +4,8 @@
 ---
 
 10.05.22 - The the 3D globe is now final, optimized and our team managed to reduce the size to half, with 60% less triangles. It is crisp and lighter now. \
-10.05.22 - The UI of Pool page is under development. Today we will push for another update.
+10.05.22 - The UI of Pool page is under development. Today we will push for another update. \
+10.05.22 - The documents are getting updated once again, as we getting closer to the Crowdsale #1 day, we publish and complete our comprehensive guides and learning section.
 
 ---
 
