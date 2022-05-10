@@ -3,6 +3,10 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ---
 
+10.05.22 - The the 3D globe is now final, optimized and our team managed to reduce the size to half, with 60% less triangles. It is crisp and lighter now. \
+10.05.22 - The UI of Pool page under development. Today we will push for another update.
+
+---
 
 ![Babylonia.app Mainpage 09.05.22](https://github.com/babyloniaapp/docs/blob/4d89b61ae0238eff2f6ea690e794eb420ed5b202/assets/screenshot/Screenshot-MainPage-2022-05-09-02.png)
 
