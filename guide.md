@@ -106,7 +106,7 @@ Finally, the MetaMask should look like this, repeat the procedures to add anothe
 
 5. Select the Mainnet.
 
-![Adding to MetaMask | pool.babylonia.app](https://github.com/babyloniaapp/docs/blob/677dc1d708a5c032931b4b4c3e0977e168c72934/assets/screenshot/Screenshot_pool.babylonia.app_ChainSelector-06.png)
+![Adding to MetaMask | pool.babylonia.app](https://github.com/babyloniaapp/docs/blob/7a2805ac886d7954e01aef7e4ec9f30599863529/assets/screenshot/Screenshot_pool.babylonia.app_ChainSelector-06.png)
 
 ![Allow to add Mainnet | pool.babylonia.app](https://github.com/babyloniaapp/docs/blob/7bea527dff36a65c0ad0a78fc75543842260e3ce/assets/screenshot/Screenshot_pool.babylonia.app_ChainSelector-07.png)
 
