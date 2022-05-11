@@ -102,4 +102,8 @@ Finally, the MetaMask should look like this, repeat the procedures to add anothe
 4. Click on the BNB Chain, Polygon or Fantom icon.
 
 
+![Selecting Mainnet | pool.babylonia.app](https://github.com/babyloniaapp/docs/blob/35b6bd07e6d4672365ca6dbf0b1a83bae43eb8ea/assets/screenshot/Screenshot_pool.babylonia.app_ChainSelector-05.png)
+
+5. Select the Mainnet.
+
 
