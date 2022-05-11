@@ -108,8 +108,16 @@ Finally, the MetaMask should look like this, repeat the procedures to add anothe
 
 ![Adding to MetaMask | pool.babylonia.app](https://github.com/babyloniaapp/docs/blob/7a2805ac886d7954e01aef7e4ec9f30599863529/assets/screenshot/Screenshot_pool.babylonia.app_ChainSelector-06.png)
 
+6. Now, select add to MetaMask.
+
 ![Allow to add Mainnet | pool.babylonia.app](https://github.com/babyloniaapp/docs/blob/7bea527dff36a65c0ad0a78fc75543842260e3ce/assets/screenshot/Screenshot_pool.babylonia.app_ChainSelector-07.png)
+
+7. Click on approve writing new data into MetaMask.
 
 ![Allow to switch network | pool.babylonia.app](https://github.com/babyloniaapp/docs/blob/677dc1d708a5c032931b4b4c3e0977e168c72934/assets/screenshot/Screenshot_pool.babylonia.app_ChainSelector-08.png)
 
+8. Allow pool.babylonia.app switch your current network to BNB Chain (BSC).
+
 ![Binance network | pool.babylonia.app](https://github.com/babyloniaapp/docs/blob/677dc1d708a5c032931b4b4c3e0977e168c72934/assets/screenshot/Screenshot_pool.babylonia.app_ChainSelector-09.png)
+
+9. The BNB Chain (BSC) is already added to the MetaMask and displays on the top right corver.
