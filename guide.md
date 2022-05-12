@@ -3,6 +3,9 @@
 
 ## How to buy NFTs?
 
+BABY token is available on BNB Chain and Polygon network. 
+1. Go to the pool.babylonia.app or click on the POOL icon on the left side of the babylonia.app homepage.
+2. Click on the Crowdsale #1 menu on the top.
 
 ## How to use Babylonia media?
 
