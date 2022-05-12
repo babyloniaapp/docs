@@ -14,6 +14,15 @@ BABY token is available on BNB Chain and Polygon network.
 
 ## How to use Babylonia media?
 
+1. Go to the media.babylonia.app or click on the MEDIA icon on the left side of the babylonia.app homepage.
+
+![Selecting Podcast | pool.babylonia.app](https://github.com/babyloniaapp/docs/blob/4848c7435f49b21405aa90c1bf028b687c5bf318/assets/screenshot/Screenshot_media.babylonia.app_Podcast-01.png)
+
+
+2. Click on the Podcast or Internet Radio menu on the top.
+
+
+
 
 ## How game section on Babylonia.app works?
 
