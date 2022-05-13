@@ -3,7 +3,7 @@ BABY token is available on BNB Chain and Polygon network.
 1. Go to the pool.babylonia.app or click on the POOL icon on the left side of the babylonia.app homepage.
 
 
-![Selecting Crowdsale #1 | pool.babylonia.app](.gitbook/assets/screenshot/Screenshot_pool.babylonia.app_Crowdsale #1-01.png)
+![Selecting Crowdsale #1 | pool.babylonia.app](https://github.com/babyloniaapp/docs/blob/2e664e97a65dc52472366e746649d423689ddeff/.gitbook/assets/screenshot/Screenshot_pool.babylonia.app_Crowdsale%20%231-01.png)
 
 2. Click on the Crowdsale #1 menu on the top.
 
