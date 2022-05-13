@@ -3,6 +3,13 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ---
 
+13.05.22 - The UI of Pool page is still getting daily updates and fixes. \
+13.05.22 - We publish new learning material and quick guidelines on how to use our platform. \
+13.05.22 - We are monitoring the bear market development very closely, we may postpond the Crowdsale #1 for another month.
+
+
+---
+
 10.05.22 - The the 3D globe is now final, optimized and our team managed to reduce the size to half, with 60% less triangles. It is crisp and lighter now. \
 10.05.22 - The UI of Pool page is under development. Today we will push for another update. \
 10.05.22 - The documents are getting updated once again, as we getting closer to the Crowdsale #1 day, we publish and complete our comprehensive guides and learning section.
