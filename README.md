@@ -1,10 +1,4 @@
----
-description: How everything started
-cover: .gitbook/assets/dice-photo_004_1200x240.jpeg
-coverY: 0
----
-
-# ⚡ Genesis
+# ⚡ Genesis: How everything started
 
 ![Babylonia Whole Picture](.gitbook/assets/SLIDES_MainBabylonia_280322_1920x1920.png)
 
