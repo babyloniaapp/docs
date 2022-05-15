@@ -1,9 +1,3 @@
----
-description: The roadmap and future planning.
-cover: .gitbook/assets/roadmap_003_2000x1000.png
-coverY: -413.21585903083707
----
-
 # 🚀 Roadmap
 
 ![](.gitbook/assets/SLIDES\_ROADMAP\_003\_2000x1000.png)
@@ -22,7 +16,7 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 * [x] Twitter presentation and activities
 * [x] Hiring smart contract devs
 * [x] Hiring social media creators
-* [ ] Looking for partners & collaborators
+* [x] Looking for partners & collaborators
 * [x] Expansion on web3 applications, pool, tickers, blockchain connector
 #
 ### Crowdsale #1 2022Q1-2022Q2
@@ -68,8 +62,8 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 #
 ### Open Market 2022Q3-2022Q4
 
-* [ ] Conversion of PBTM to BABY V2
-* [ ] Starting the process of swapping PBTM to BABY V2
+* [ ] Conversion of BABY to BABY V2
+* [ ] Starting the process of swapping BABY to BABY V2
 * [ ] Deploying the liquidity pairs on the Pancakeswap / BSC chain starting with BABY - BNB & BABY - BUSD
 * [ ] Setting the open market price at $0.04
 
