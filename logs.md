@@ -2,6 +2,12 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+---
+
+16.05.22 - The UI of Pool page, the Crowdsale #1 & SWAP page got updated, and some problems got fix. 
+
+---
+
 15.05.22 - The UI of Pool page got another update on the dark and light mode. \
 15.05.22 - Solana network profiler is up and ready, team is working on fixing the bugs and adding price features.
 
