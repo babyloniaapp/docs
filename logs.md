@@ -4,6 +4,10 @@
 
 ---
 
+17.05.22 - Solana network profiler is finalized, it is showing the values of tokens too.
+
+---
+
 16.05.22 - The UI of Pool page, the Crowdsale #1 & SWAP page got updated, and some problems got fix. 
 
 ---
