@@ -3,6 +3,11 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ---
 
+20.05.22 - We got all the SSL certificates of the subdomains reissued today and renewed.
+
+
+---
+
 18.05.22 - Last month we lost the contact with our Ukrainian smart contract developer. It was difficult to get everything back to normal and find a substitute. Today we made our final successful Token and ICO deployment on the BSC testnet again. We are on the track to do the final test on the mainnet on Friday.
 
 ---
