@@ -3,6 +3,10 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ---
 
+22.05.22 - The Signup and Login form is operational, it is still far from being complete, devs are working in it.
+
+---
+
 20.05.22 - We got all the SSL certificates of the subdomains reissued today and renewed.
 
 
