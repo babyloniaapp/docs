@@ -67,6 +67,10 @@ While NFTs are relatively new and may be an unfamiliar type of art, copyright la
 
 ---
 
+## Token & Coin
+
+---
+
 ## ERC20
 
 ---
