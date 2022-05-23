@@ -72,6 +72,9 @@ While NFTs are relatively new and may be an unfamiliar type of art, copyright la
 ---
 
 ## ERC20
+ERC-20 defines a common list of rules for Ethereum tokens to follow within the larger Ethereum ecosystem, allowing developers to program how new tokens will function in this ecosystem. This also allows developers to accurately predict interaction between tokens. These rules include how the tokens are transferred between addresses and how data within each token is accessed.
+(Source: [coinbase](https://help.coinbase.com/en/coinbase/getting-started/crypto-education/what-is-erc20)) 
+
 
 ---
 
