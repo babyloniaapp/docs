@@ -75,6 +75,10 @@ While NFTs are relatively new and may be an unfamiliar type of art, copyright la
 ERC-20 defines a common list of rules for Ethereum tokens to follow within the larger Ethereum ecosystem, allowing developers to program how new tokens will function in this ecosystem. This also allows developers to accurately predict interaction between tokens. These rules include how the tokens are transferred between addresses and how data within each token is accessed.
 (Source: [coinbase](https://help.coinbase.com/en/coinbase/getting-started/crypto-education/what-is-erc20)) 
 
+An ERC20 token contract keeps track of fungible tokens: any one token is exactly equal to any other token; no tokens have special rights or behavior associated with them. This makes ERC20 tokens useful for things like a medium of exchange currency, voting rights, staking, and more. 
+(Source: [openzeppeling](https://docs.openzeppelin.com/contracts/4.x/erc20)) 
+
+
 
 ---
 
