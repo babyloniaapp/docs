@@ -83,6 +83,14 @@ An ERC20 token contract keeps track of fungible tokens: any one token is exactly
 
 ---
 
+Wei & Gwei
+
+Wei is the smallest denomination of ether—the cryptocurrency coin used on the Ethereum network. One ether = 1,000,000,000,000,000,000 wei (1018). The other way to look at it is one wei is one quintillionth of an ether. 
+(Source: [Investopedia](https://www.investopedia.com/terms/w/wei.asp))
+
+
+---
+
 ## Stable Coin
 
 ---
