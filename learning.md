@@ -83,9 +83,13 @@ An ERC20 token contract keeps track of fungible tokens: any one token is exactly
 
 ---
 
-Wei & Gwei
+Satoshi, Wei & Gwei
 
-Wei is the smallest denomination of ether—the cryptocurrency coin used on the Ethereum network. One ether = 1,000,000,000,000,000,000 wei (1018). The other way to look at it is one wei is one quintillionth of an ether. 
+Satoshi is a structural part of the Bitcoin cryptocurrency, which is one hundred millionth of bitcoin ($10^{-8}$). Such small units facilitate transactions with BTC. The total structural component of 1 bitcoin (BTC) is equivalent to 1000 millibits (mBTC), 1,000,000 microbe (mkBTC) or 100,000,000 Satoshi. The exact data is unknown, but it is assumed that Nakamoto can have 1 million BTC, and it is equivalent to 100 000 000 000 Satoshis. 
+(Source: [Bitcoinwiki](https://en.bitcoinwiki.org/wiki/Satoshi))
+
+
+Wei is the smallest denomination of ether—the cryptocurrency coin used on the Ethereum network. One ether = 1,000,000,000,000,000,000 wei ($10^{-18}$). The other way to look at it is one wei is one quintillionth of an ether. 
 (Source: [Investopedia](https://www.investopedia.com/terms/w/wei.asp))
 
 
