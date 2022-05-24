@@ -3,6 +3,10 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ---
 
+24.05.22 - We pushed another update on the signup. Now our logo is embeded in the verification email.
+
+---
+
 22.05.22 - The Signup and Login form is operational, it is still far from being complete, devs are working in it.
 
 ---
