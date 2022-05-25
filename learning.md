@@ -79,6 +79,23 @@ ERC-20 defines a common list of rules for Ethereum tokens to follow within the l
 An ERC20 token contract keeps track of fungible tokens: any one token is exactly equal to any other token; no tokens have special rights or behavior associated with them. This makes ERC20 tokens useful for things like a medium of exchange currency, voting rights, staking, and more. 
 (Source: [openzeppeling](https://docs.openzeppelin.com/contracts/4.x/erc20)) 
 
+Here’s a brief rundown of how the mandatory standards apply to the creation of tokens.
+
+- TotalSupply: Outlines the total number of tokens to be created.
+
+- Approve: Helps to eliminate the possibility of counterfeit tokens being created by requiring approval of smart contract functions.
+
+- BalanceOf: Returns the total number of tokens held by an address, allowing users to check their balances.
+
+- TransferFrom: Allows for the automation of transactions when desired.
+
+- Transfer: Allows for the transfer of tokens from one address to another, like any other blockchain-based transaction.
+
+- Allowance: When a smart contract wants to execute a transaction, it has to be able to see the balance held by the Ethereum wallet trying to transact. The allowance function allows the contract to carry out the transaction if the user has sufficient balance or cancel the transaction if they do not.
+
+These six rules must be programmed into a token for it to be considered ERC20. (Source: [Sofi Learn](https://www.sofi.com/learn/content/what-is-erc20-token-standard/))
+
+
 
 
 ---
