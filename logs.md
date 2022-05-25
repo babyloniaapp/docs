@@ -1,6 +1,12 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+
+---
+
+25.05.22 - The Crowdsale #1 page of pool.babylonia.app has been updated, we added secondary purchage method with works with direct transfer and does not need interaction with our web3 or giving permission . \
+25.05.22 - The social media field has been updated and dicord link has been added.
+
 ---
 
 24.05.22 - We pushed another update on the signup. Now our logo is embeded in the verification email.
