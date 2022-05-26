@@ -4,6 +4,11 @@
 
 ---
 
+26.05.22 - The ICO - Crowdsale #1 is moved to 15/June/2022, we are determined to make it happen.
+
+
+---
+
 25.05.22 - The Crowdsale #1 page of pool.babylonia.app has been updated, we added secondary purchage method with works with direct transfer and does not need interaction with our web3 or giving permission . \
 25.05.22 - The social media field has been updated and dicord link has been added.
 
