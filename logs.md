@@ -3,6 +3,10 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ---
 
+29.05.22 - The second voice-over project is underway, we are praparing the multiple laungauges this time.
+
+---
+
 28.05.22 - We pushed another update on the POOL page, some bugs fixed, the price section looks more settled now.
 
 ---
