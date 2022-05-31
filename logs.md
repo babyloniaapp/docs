@@ -3,6 +3,11 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ---
 
+31.05.22 - The second voice-over project is ready, we prepared a promotional piece in English and Chinesse and soon will be published. \
+31.05.22 - Team worked on some updates on the mainpage, to play the introduction to Babylonia on the front page, in the que to be deployed. 
+
+---
+
 
 29.05.22 - The second voice-over project is underway, we are preparing the multiple languages this time. We contacted professional freelancers on the Upwork already.
 
