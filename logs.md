@@ -1,6 +1,14 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+
+---
+
+01.06.22 - We hired a GitHub specialist to trim and organize our documents and projects neatly. \
+01.06.22 - The voice-intro is live on the main page. \
+01.06.22 - Team fixed a problem on the POOL page, where the chain selector networks could not be edited manually. \
+01.06.22 - The Crowdsale #1 voice-over project is out and posted on the twitter and Instragram pages.
+
 ---
 
 31.05.22 - The second voice-over project is ready, we prepared a promotional piece in English and Chinesse and soon will be published. \
