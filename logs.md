@@ -7,12 +7,12 @@
 01.06.22 - We hired a GitHub specialist to trim and organize our documents and projects neatly. \
 01.06.22 - The voice-intro is live on the main page. \
 01.06.22 - Team fixed a problem on the POOL page, where the chain selector networks could not be edited manually. \
-01.06.22 - The Crowdsale #1 voice-over project is out and posted on the twitter and Instragram pages.
+01.06.22 - The Crowdsale #1 voice-over project is out and posted on the twitter and Instagram pages.
 
 ---
 
-31.05.22 - The second voice-over project is ready, we prepared a promotional piece in English and Chinesse and soon will be published. \
-31.05.22 - Team worked on some updates on the mainpage, to play the introduction to Babylonia on the front page, in the que to be deployed. 
+31.05.22 - The second voice-over project is ready, we prepared a promotional piece in English and Chinese and soon will be published. \
+31.05.22 - Team worked on some updates on the main page, to play the introduction to Babylonia on the front page, in the quo to be deployed. 
 
 ---
 
@@ -22,6 +22,7 @@
 ---
 
 28.05.22 - We pushed another update on the POOL page, some bugs fixed, the price section looks more settled now.
+
 
 ---
 
