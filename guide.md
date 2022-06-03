@@ -101,7 +101,7 @@ Finally, the MetaMask should look like this, repeat the procedures to add anothe
 ### Chain Selector Tool
 
 
-![Connect wallet | pool.babylonia.app](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/screenshot/Screenshot_pool.babylonia.app_ChainSelector-02.png)
+![wallet | pool.babylonia.app](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/screenshot/Screenshot_pool.babylonia.app_ChainSelector-02.png)
 
 
 1. Go to the [pool.babylonia.app](https://pool.babylonia.app/) or just click on the POOL icon on the left side of the page.
@@ -113,7 +113,7 @@ Finally, the MetaMask should look like this, repeat the procedures to add anothe
 2. Select the Chain Selector from the top menu.
 
 
-![Selecting MetaMask | pool.babylonia.app](https://github.com/babyloniaapp/docs/blob/38f4054a4006841f9bc87e9b7ef2040011945eff/assets/screenshot/Screenshot_pool.babylonia.app_ConnectWallet-02.png)
+![Selecting MetaMask | pool.babylonia.app](https://raw.githubusercontent.com/babyloniaapp/docs/38f4054a4006841f9bc87e9b7ef2040011945eff/assets/screenshot/Screenshot_pool.babylonia.app_ConnectWallet-02.png)
 
 3. Select the MetaMask from the Connect Wallet menu.
 
