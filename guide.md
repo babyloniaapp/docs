@@ -2,7 +2,7 @@
 BABY token is available on BNB Chain and Polygon network. 
 1. Go to the pool.babylonia.app or click on the POOL icon on the left side of the babylonia.app homepage.
 
-![Selecting Crowdsale #1 | pool.babylonia.app](https://github.com/babyloniaapp/docs/blob/9e71e3b44dd886177786cb6415bf4e893e4e81cf/.gitbook/assets/Screenshot_pool.babylonia.app_Crowdsale%20%231-01.png)
+![Selecting Crowdsale #1 | pool.babylonia.app](https://raw.githubusercontent.com/babyloniaapp/docs/9e71e3b44dd886177786cb6415bf4e893e4e81cf/.gitbook/assets/Screenshot_pool.babylonia.app_Crowdsale%20%231-01.png)
 
 
 2. Click on the Crowdsale #1 menu on the top.
@@ -17,7 +17,7 @@ BABY token is available on BNB Chain and Polygon network.
 
 1. Go to the media.babylonia.app or click on the MEDIA icon on the left side of the babylonia.app homepage.
 
-![Selecting Podcast | pool.babylonia.app](https://github.com/babyloniaapp/docs/blob/52f46aab5425d2ce21f4f61fa642457db107f82a/assets/screenshot/Screenshot_media.babylonia.app_Podcast-01.png)
+![Selecting Podcast | pool.babylonia.app](https://raw.githubusercontent.com/babyloniaapp/docs/52f46aab5425d2ce21f4f61fa642457db107f82a/assets/screenshot/Screenshot_media.babylonia.app_Podcast-01.png)
 
 
 2. Click on the Podcast or Internet Radio menu on the top.
@@ -39,7 +39,7 @@ Firstly, you’ll want to head over to the MetaMask [Download page](https://meta
 
 Next, follow along with the setup specified by the app. Go ahead and click Create a Wallet. Write down the backup [seed phrase](https://academy.binance.com/en/glossary/seed-phrase) somewhere secret (preferably not on an Internet-connected device). Without this phrase, your funds can’t be recovered if your device is damaged or lost. Confirm that you’ve written them down on the next page.
 
-![MetaMask fresh install](https://github.com/babyloniaapp/docs/blob/ad5394664ed7b14b03a2bd4166cc28f6fdfa99e8/assets/screenshot/Screenshot-MetaMask-01.png)
+![MetaMask fresh install](https://raw.githubusercontent.com/babyloniaapp/docs/ad5394664ed7b14b03a2bd4166cc28f6fdfa99e8/assets/screenshot/Screenshot-MetaMask-01.png)
 
 
 And that’s it! You should now see your wallet, ready to send and receive funds.
