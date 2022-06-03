@@ -60,7 +60,8 @@ There two methods to change and add extra networks, the manual way and using our
 
 
 
-![MetaMask adding new network](https://github.com/babyloniaapp/docs/blob/dcb06a8e293e868759615b41539e223139fb1769/assets/screenshot/Screenshot-MetaMask-02.png)
+![MetaMask adding new network](https://raw.githubusercontent.com/babyloniaapp/docs/dcb06a8e293e868759615b41539e223139fb1769/assets/screenshot/Screenshot-MetaMask-02.png)
+
 
 1. Click **Add Network** in the top-right corner to **manually add the BNB Chain or Polygon** one – they don't come packaged with MetaMask. Below are the parameters to fill in.
 
