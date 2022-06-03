@@ -24,7 +24,9 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 ### Crowdsale #1 2022Q1-2022Q2
 ![](.gitbook/assets/SLIDES\_CROWDSALE#1\_004\_4x3\_withLogo.png)
 
-~~**We kick off the project in Q1 of 2022 with a public crowdfunding**~~ The Crowdsale #1 has been delayed two times, due to lack of potential investors, also unfavorable market condition, it is now set to be on 1/May/2022, 10% of total BABY tokens will be available to buy. Most of Crowdsale #1 fund generation will be spent on development of the project games and platform.
+~~**We kick off the project in Q1 of 2022 with a public crowdfunding**~~ The Crowdsale #1 has been delayed two times, due to lack of potential investors, also unfavorable market condition, it is now set to be on ~~1/May/2022~~ 15/June.2022, 10% of total BABY tokens will be available to buy. Most of Crowdsale #1 fund generation will be spent on development of the project games and platform.
+
+We funded the project ourselves until now, and running low on money has taught us how to run the project very lean. According to the calculation and formula, large amount of Crowdsale money will be saved as collateral for rainy days and buyback plans, to ensure the prolonged life of the project and preserving the BABY token price.
 
 * [ ] Last month performance analysis and updating the roadmap
 * [x] Developing Media platforms, web3 integration + web2 --> web3 media + podcast player
