@@ -92,7 +92,7 @@ There two methods to change and add extra networks, the manual way and using our
 
 ####
 
-![MetaMask with BNB Chain](https://github.com/babyloniaapp/docs/blob/1bc52d7391d225c0bc46b91fced408ca696fb5cc/assets/screenshot/Screenshot-MetaMask-04.png)
+![MetaMask with BNB Chain](https://raw.githubusercontent.com/babyloniaapp/docs/1bc52d7391d225c0bc46b91fced408ca696fb5cc/assets/screenshot/Screenshot-MetaMask-04.png)
 
 Finally, the MetaMask should look like this, repeat the procedures to add another network if you desire so.
 
