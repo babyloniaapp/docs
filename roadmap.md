@@ -18,6 +18,8 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 * [x] Hiring social media creators
 * [x] Looking for partners & collaborators
 * [x] Expansion on web3 applications, pool, tickers, blockchain connector
+
+
 #
 ### Crowdsale #1 2022Q1-2022Q2
 ![](.gitbook/assets/SLIDES\_CROWDSALE#1\_004\_4x3\_withLogo.png)
