@@ -118,7 +118,7 @@ Finally, the MetaMask should look like this, repeat the procedures to add anothe
 3. Select the MetaMask from the Connect Wallet menu.
 
 
-![Selecting Network | pool.babylonia.app](https://github.com/babyloniaapp/docs/blob/466e0f34a7c0f351b74d58e7758b2395c24a9335/assets/screenshot/Screenshot_pool.babylonia.app_ChainSelector-04.png)
+![Selecting Network | pool.babylonia.app](https://raw.githubusercontent.com/babyloniaapp/docs/466e0f34a7c0f351b74d58e7758b2395c24a9335/assets/screenshot/Screenshot_pool.babylonia.app_ChainSelector-04.png)
 
 4. Click on the BNB Chain, Polygon or Fantom icon.
 
