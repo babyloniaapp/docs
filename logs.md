@@ -83,7 +83,7 @@
 
 ---
 
-![Babylonia.app Mainpage 09.05.22](https://github.com/babyloniaapp/docs/blob/4d89b61ae0238eff2f6ea690e794eb420ed5b202/assets/screenshot/Screenshot-MainPage-2022-05-09-02.png)
+![Babylonia.app Mainpage 09.05.22](https://raw.githubusercontent.com/babyloniaapp/docs/4d89b61ae0238eff2f6ea690e794eb420ed5b202/assets/screenshot/Screenshot-MainPage-2022-05-09-02.png)
 
 09.05.22 - We managed to run the animations on the 3D globe, also colors are better now, and less of over explosure. The 3D dev is working on the imrprovements.
 
