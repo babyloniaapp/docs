@@ -4,10 +4,14 @@
 
 ---
 
+03.06.22 - We did some fixes on the Roadmap document, updating the dates and information, also will do a fix on the main page of the website, as the Roadmap image does not show the right size. 
+
+---
+
 01.06.22 - We hired a GitHub specialist to trim and organize our documents and projects neatly. \
 01.06.22 - The voice-intro is live on the main page. \
 01.06.22 - Team fixed a problem on the POOL page, where the chain selector networks could not be edited manually. \
-01.06.22 - The Crowdsale #1 voice-over project is out and posted on the twitter and Instagram pages.
+01.06.22 - The Crowdsale #1 voice-over project is out and posted on the Twitter and Instagram pages.
 
 ---
 
@@ -352,7 +356,7 @@
 20.12.21 - still Working on the babylonia.app SEO, resolving conflicts with github .md files
 
 ------------
-19.12.21 - Updating the Roadmap section on the docs\
+19.12.21 - Updating the section on the docs\
 19.12.21 - Working on the babylonia.app SEO, optimizing for the google search
 
 ------------
