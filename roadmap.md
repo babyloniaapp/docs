@@ -21,7 +21,7 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 
 
 #
-### Crowdsale #1 2022Q1-2022Q2
+### Crowdsale #1 2022Q2-2022Q3
 ![](.gitbook/assets/SLIDES\_CROWDSALE#1\_004\_4x3\_withLogo.png)
 
 ~~**We kick off the project in Q1 of 2022 with a public crowdfunding**~~ The Crowdsale #1 has been delayed two times, due to lack of potential investors, also unfavorable market condition, it is now set to be on ~~1/May/2022~~ 15/June.2022, 10% of total BABY tokens will be available to buy. Most of Crowdsale #1 fund generation will be spent on development of the project games and platform.
@@ -45,7 +45,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 
 #
-### Beta Launch 2022Q2-2022Q3
+### Beta Launch 2022Q3-2022Q4
 
 * [ ] Last phase performance analysis and updating the roadmap
 * [ ] Align the goals and assign the budget to the tasks as plan
@@ -56,7 +56,7 @@ We funded the project ourselves until now, and running low on money has taught u
 * [ ] Starting the SHOP platform
 
 #
-### Crowdsale #2 2022Q2-2022Q3
+### Crowdsale #2 2022Q3-2022Q4
 ![](.gitbook/assets/SLIDES\_CROWDSALE#2\_004\_4x3\_withLogo.png)
 
 * [ ] Allocating from sales to collateral&#x20;
@@ -68,7 +68,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 
 #
-### Open Market 2022Q3-2022Q4
+### Open Market 2022Q4-2022Q1
 
 * [ ] Conversion of BABY to BABY V2
 * [ ] Starting the process of swapping BABY to BABY V2
@@ -77,7 +77,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 
 #
-### Main Launch 2022Q3-2022Q4
+### Main Launch 2023Q1-2022Q2
 
 * [ ] Deploying the minting contracts
 * [ ] Deploying the smart contracts of CHIP (CHP) & CREDIT (CRD) tokens
@@ -86,7 +86,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 
 
-### Expansion Plan I 2022Q3-2023Q1
+### Expansion Plan I 2023Q1-2023Q4
 
 * [ ] Migration to the city base architecture, modular and independent&#x20;
 * [ ] Selling lands, structure, and buildings
