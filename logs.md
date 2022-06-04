@@ -1,6 +1,10 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+---
+
+04.06.22 - We planned to deploy the BABY Token today on the Mainnet, we are getting ready for 15th.June. \
+04.06.22 - The documents are getting updated again, we will extra guidelines on how to buy the BABY Token. 
 
 ---
 
