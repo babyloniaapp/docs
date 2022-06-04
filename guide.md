@@ -1,3 +1,5 @@
+# 🔮 Easy Guides
+
 ## How to buy BABY Token
 BABY token is available on BNB Chain and Polygon network. 
 1. Go to the pool.babylonia.app or click on the POOL icon on the left side of the babylonia.app homepage.
