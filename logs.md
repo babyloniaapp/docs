@@ -13,6 +13,9 @@
 ---
 
 01.06.22 - We hired a GitHub specialist to trim and organize our documents and projects neatly. \
+
+![Babylonia.app Mainpage 04.06.22](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/screenshot/Screenshot-MainPage-2022-06-04-01.png)
+
 01.06.22 - The voice-intro is live on the main page. \
 01.06.22 - Team fixed a problem on the POOL page, where the chain selector networks could not be edited manually. \
 01.06.22 - The Crowdsale #1 voice-over project is out and posted on the Twitter and Instagram pages.
