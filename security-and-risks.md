@@ -1,14 +1,8 @@
----
-description: >-
-  Time for risks involved bla bla bla, you are fully responsible not we bla bla
-  bla!
----
-
 # 🔞 Security & Risks
 
 In the space of crypto, especially in the Decentralized Finance (DeFi) space, users have to understand the risks of projects and smart contracts before venturing into DeFi. We call this DYOR (do your own research).
 
-![](.gitbook/assets/Warning\_NoChildrenAlllowed.jpg)
+![No Children Allowed image](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/Warning_NoChildrenAlllowed_900px.png)
 
 ### Only 18+
 
