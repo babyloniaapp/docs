@@ -15,7 +15,7 @@
   * [🏟 Betting](betting/README.md)
     * [🏉 Betting on sport & esport events](betting/betting-on-sport-and-esport-events.md)
     * [📈 Market Prediction](betting/market-prediction.md)
-  * [🎶 Media](media.md)
+  * [🎙 Media](media.md)
   * [🎴 NFTs](nfts.md)
 * [🪙 Tokenomics](tokenomics.md)
 * [💰 Pool](pool/README.md)
