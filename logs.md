@@ -1,6 +1,12 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+
+---
+
+05.06.22 - Team is busy adding last touches to the ICO contract, we are adding AggregatorV3Interface from Chainlink, that the swap rate of BABY Token stays accurate  & float as the selling price of BABY token is $0.01.
+
+
 ---
 
 04.06.22 - We planned to deploy the BABY Token today on the Mainnet, we are getting ready for 15th.June. \
