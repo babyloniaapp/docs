@@ -112,10 +112,10 @@
 06.05.22 - The 3D globe and models are under heavy rework, we hope to publish first prieview in next few days.
 
 ---
-05.05.22 - We are in process of negotiating with promoters and influecners for the platform, some of their fees are extremly high. \
-05.05.22 - The game page is still under development, we got trouble deploying the user database and signup forms. \
-05.05.22 - Our monthly updates of April has been published in various forums and websites by our trustee distributor.
 
+05.05.22 - We are in the process of negotiating with promoters and influencers for the platform, some of their fees are extremely high. \
+05.05.22 - The game page is still under development, we got trouble deploying the user database and signup forms. \
+05.05.22 - Our monthly updates of April have been published in various forums and websites by our trustee distributor.
 
 ---
 30.04.22 - The Solana, Phantom wallet connection is adding to the wallet connect, soon the updates will be deployed. \
