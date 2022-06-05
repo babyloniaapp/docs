@@ -98,18 +98,22 @@
 
 ![Babylonia.app Mainpage 09.05.22](https://raw.githubusercontent.com/babyloniaapp/docs/4d89b61ae0238eff2f6ea690e794eb420ed5b202/assets/screenshot/Screenshot-MainPage-2022-05-09-02.png)
 
-09.05.22 - We managed to run the animations on the 3D globe, also colors are better now, and less of over explosure. The 3D dev is working on the imrprovements.
+09.05.22 - We managed to run the animations on the 3D globe, also colors are better now, and less of over exposure. The 3D dev is working on the improvements.
 
 ---
-08.05.22 - There 3D globe has totally been updated, and reworked. It looks amazing, we are working on the animations and more optimazations.
+
+08.05.22 - There 3D globe has totally been updated, and reworked. It looks amazing, we are working on the animations and more optimizations.
 
 ---
+
 07.05.22 - We pushed an update on the Pool page yesterday, merging Solana with ERC20 networks, but it was buggy and problematic, so we revert it back, working on the fixed.
 
 
 ---
-06.05.22 - The signin and create account of game.babylonia.app page is almost completed. It is up and working. We are busy with finalizing the final details. \
-06.05.22 - The 3D globe and models are under heavy rework, we hope to publish first prieview in next few days.
+
+06.05.22 - The sign-in and create account of game.babylonia.app page is almost completed. It is up and working. We are busy with finalizing the final details. \
+06.05.22 - The 3D globe and models are under heavy rework, we hope to publish first preview in next few days.
+
 
 ---
 
