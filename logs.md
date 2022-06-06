@@ -1,6 +1,13 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+---
+06.06.22 - Our Monthly updates for month of May is released and published through our medium freelancers to the social media and forums. \
+06.06.22 - The Podcast API code and dependencies are refreshed and updated, we restarted the server to implement the updates. \
+06.06.22 - The long waiting documents on our media platform is published too in our GitHub documents [section](https://docs.babylonia.app/babylonia.app/products-and-services/media). \
+06.06.22 - We are aware that the GitBook does not show our documents from GitHub properly, we are working on it to host all out documents on our server.
+
+
 
 ---
 
@@ -9,8 +16,8 @@
 
 ---
 
-04.06.22 - We planned to deploy the BABY Token today on the Mainnet, we are getting ready for 15th.June. \
-04.06.22 - The documents are getting updated again, we will extra guidelines on how to buy the BABY Token. 
+04.06.22 - We planned to deploy the BABY Token today on the Mainnet, we are getting ready for 15th. June. \
+04.06.22 - The documents are getting updated again, we will provide extra guidelines on how to buy the BABY Token. 
 
 ---
 
@@ -18,7 +25,7 @@
 
 ---
 
-01.06.22 - We hired a GitHub specialist to trim and organize our documents and projects neatly. \
+01.06.22 - We hired a GitHub specialist to trim and organize our documents and projects neatly. 
 
 ![Babylonia.app Mainpage 04.06.22](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/screenshot/Screenshot-MainPage-2022-06-04-01.png)
 
