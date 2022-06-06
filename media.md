@@ -19,3 +19,6 @@ We are we going from here? The next to come is adding video from YouTube and oth
 
 ---
 
+## Revenue
+
+Let's draw the picture here on, we can make money or get benefits out of the media project? First, these services will be available only for Babylonia user and citizens, outsiders and visitors can only view or use the services with limited access. Second, we may offer a subscription services that can be paid in BABY Token cheaper than regular cryptocurrencies, to encourage the use of our native token. Aside from these, we can collaborate with media content creators and assist and facilitate them selling their podcast, music, or videos through our platform and collect fees. At last, the Babylonia city can be a place from all kind of fun and educational activities and attract more user and interest.
