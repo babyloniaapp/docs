@@ -7,10 +7,12 @@ There are 3 main tokens on **Babylonia**. **BABY (BABY), CHIP(CHP)** and **CREDI
 
 Tokens format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom, the Ethereum and Avalanche expansions are also on the way. The BABY token will be bridged between the blockchains, maintaining the total hard cap, will be distributed proportionally to the performance & demand of network. As the BSC transaction fee getting more expensive due to increase in price of BNB, we gradually move toward Polygon & Fantom.
 
-BABY Token (BABY) address: 0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a
 
+**BABY Token (BABY) address: 0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a**
 
-![](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_TOKEN_010_900px.png)
+---
+
+![Overview of BABYLONIA Tokens](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_TOKEN_010_900px.png)
 
 **How the system works? Let's dive in!**
 ##
@@ -51,23 +53,23 @@ In PBTM system, we have more support and backing for **BABY Token**, also collat
 
 ### BABY Token distribution
 
-![Token Distribution of BABY Token](.gitbook/assets/SLIDES\_TOKENDISTRIBUTION\_003\_4x3\_withLogo.png)
+![Token Distribution of BABY Token](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_TOKENDISTRIBUTION_003_900px.png)
 
 Let's talk about the BABY Token distribution model. We have studied tokenomics of many second layer and DeFi projects, we concluded the release period of 2-3 years for all the 888 m tokens. Forty percent of the token will be assigned to the internal project requirements and 60% will be distributed to the public by Crowdsale events and two years of stacking and yield farming. We are not a believer of timed-locked for liquidity or vested wallets, as we have seen times and times over, frauds find a workaround to scam and dump the projects for profits.
 
 
 
+---
 
-
-
-
-![](.gitbook/assets/SLIDES\_CROWDSALE#1\_distri\_002\_4x3\_withLogo.png)
+![Crowdsale #1 Distribution](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%231_distri_002_900px.png)
 
 **Crowdsale #1:** 10% equal to 88,888,888 - SP: $0.01 -->Unsold quantity will be transferred to second pre-sale&#x20;
 
 The Crowdsale #1 revenue generation will be distributed as: Development Team 35%, Collateral 30%, Website transition to a dedicated server 5%, Security audits 10%, and finally Marketing & Sale 20%.
 
-![](.gitbook/assets/SLIDES\_CROWDSALE#2\_distri\_002\_4x3\_withLogo.png)
+---
+
+![Crowdsale #2 Distribution](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%232_distri_002_900px.png)
 
 **Crowdsale #2:** 5% equal to 44,444,444 - SP: $0.02 proportionally -->Unsold pre-sale will be transferred to Open Market Launch.
 
@@ -75,6 +77,10 @@ The revenue generation will be assigned to: SWAP liquidity pairs 60%, Collateral
 
 What is remained and left of **Crowdsale** (unsold tokens) + to yield rewards to the total of 70% of total supply in next two years.&#x20;
 
+---
+
 Expansion rate will proportional to the market demand, less demand will reduce the minting rate, higher demand will accelerate the minting ratio. We are still working on the whereabouts of the algorithm but for the first six months, the expansion will be fixed to (**100% - 30%** + **unsold tokens from crowd sales %**) / 2 years, so if all **20% of tokens** which are assigned to the crowd sales have been sold, the targeted expansion rate will be **50%** in 2 years, or 2.088% monthly.&#x20;
+
+---
 
 Let's talk about the rest **30% of BABY tokens**. 10% is designated to the founders, will be unlocked a year after the main launch. 7% goes to the marketing and sales activities. 5% is for the licensing, insurance and security audits. And finally, 11% is assigned to the development and team buybacks, burning and backing Aside from creating an entertaining platform that everyone have fun and spend a good time, the main goal of babylonia.app is to reward tokens holders, as the most important part of this platform. Without support of citizens of **babylonia.app** we never could develop the platform as effectively. So, embedded into the system, every dollar of income of the platform is being shared with PBTM tokens holders. The accurate formula of taking rewards, buyback and collateral adding feature will be released soon. Stay tuned and keep looking up.
