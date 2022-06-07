@@ -7,7 +7,10 @@ There are 3 main tokens on **Babylonia**. **BABY (BABY), CHIP(CHP)** and **CREDI
 
 Tokens format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom, the Ethereum and Avalanche expansions are also on the way. The BABY token will be bridged between the blockchains, maintaining the total hard cap, will be distributed proportionally to the performance & demand of network. As the BSC transaction fee getting more expensive due to increase in price of BNB, we gradually move toward Polygon & Fantom.
 
-![](.gitbook/assets/SLIDES\_TOKEN\_006\_4x3\_withLogo.png)
+BABY Token (BABY) address: 0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a
+
+
+![](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_TOKEN_010_900px.png)
 
 **How the system works? Let's dive in!**
 ##
