@@ -1,6 +1,11 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+
+---
+
+08.06.22 - The BABY Token has been deployed in the mainnet of BNB Chain, Polygon and Fantom with the same contract address.
+
 ---
 06.06.22 - Our Monthly updates for month of May is released and published through our medium freelancers to the social media and forums. \
 06.06.22 - The Podcast API code and dependencies are refreshed and updated, we restarted the server to implement the updates. \
