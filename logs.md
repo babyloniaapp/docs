@@ -5,7 +5,8 @@
 ---
 <img width="427" alt="image" src="https://user-images.githubusercontent.com/94221562/172767407-7325a7f5-9f96-4406-be61-a54cd6a7935b.png">
 
-09.06.22 - We have redesigned the signin/signup section of the platform and we keep it uniform in all of our pages.
+09.06.22 - We have redesigned the signin/signup section of the platform and we keep it uniform in all of our pages. \
+09.06.22 - Yesterday we tested our ICO contract once again on the Polygon network and it works perfectly. On Friday we will deploy the main contracts on the mainnet and link the contract to our web3 pages.
 
 ---
 
