@@ -3,6 +3,11 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
 ---
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/94221562/172767407-7325a7f5-9f96-4406-be61-a54cd6a7935b.png">
+
+09.06.22 - We have redesigned the signin/signup section of the platform and we keep it uniform in all of our pages.
+
+---
 
 08.06.22 - The BABY Token has been deployed in the mainnet of BNB Chain, Polygon and Fantom with the same contract address.
 
