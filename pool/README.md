@@ -35,3 +35,15 @@ The chain selector is a tool to add ERC20 compatible networks to the MetaMask. T
 ---
 
 ### Bridge
+The bridge is a combination of 2 smart contracts: one deployed on each chain that allows for cross-chain transfers of value. The **Babylonia's bridge** will enable users to transfer their **Baby Tokens** easily between the BSC (BNB Chain) and Polygon, Fantom or other available networks. 
+
+In Babylonia, we love automation and respect the comfort of running a trusted algorithm, but we do not fully trust the code, and it tends to fail the crypto platforms often. Consequently we rather to make big decisions to transfer and release ourselves than reply on the code itself.
+
+The conditions of using the bridge are:
+
+ 1. There is a charge of 2% + 100 $BABY for each transaction
+ 2. The daily quota of bridge is about $10000 daily.
+ 3. The transfers more than $2000 must be approved manually by our admin.
+
+
+Note: the above terms and quota may change over the time.
