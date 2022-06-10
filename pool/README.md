@@ -36,7 +36,7 @@ The chain selector is a tool to add ERC20 compatible networks to the MetaMask. T
 
 ### Bridge
 
-![Screenshot of Babylonia Bridge](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/screenshot/Screenshot-Bridge-01_800px.png)
+![Screenshot of Babylonia Bridge](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/screenshot/Screenshot-Bridge-01_600px.png)
 
 
 The bridge is a combination of 2 smart contracts: one deployed on each chain that allows for cross-chain transfers of value. The **Babylonia's bridge** will enable users to transfer their **Baby Tokens** easily between the BSC (BNB Chain) and Polygon, Fantom or other available networks. 
