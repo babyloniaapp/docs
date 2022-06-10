@@ -1,4 +1,4 @@
-## Risks and warnings involved with the Crowdsale #1
+## Risks and cautions involved with the Crowdsale #1
 Please read the following cautions, risks, and guidelines before you decide to buy **Baby Token**. We tried to put them together as compact as possible, not to waste your time and make it a boring bla bla bla.
 
  1. Babylonia is a young and potential start-up. In the past year we worked hard and built much, and we haven't started yet. Try to know us better before buying our token. Read our story, see our contents on Twitter, study our principles and examine our work on GitHub. 
