@@ -1,8 +1,4 @@
----
-description: All about charity work and donations
----
-
-# 🌍 Charity & Donation
+# 🌍 Charity & Donation : All about charity work and donations
 
 At this moment, 1.5% of total profits of the babylonia.app + 1% of every transaction fees on BSC blockchain before the potential taxes will be dedicated to charity. The ratios are subjected to change. The donations will be sent thorough the designated cryptocurrencies.&#x20;
 
