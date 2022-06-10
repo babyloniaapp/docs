@@ -8,6 +8,6 @@ Please read the following cautions, risks, and guidelines before you decide to b
  5. Our Crowdsale does not have a softcap. 
  6. We tested all of your web3 and token features for a month, however the unforeseen bugs and problems may arise. Please report back the bugs and issues by email or leave messages in social media groups.
  7. Make sure what token and where you are sending the tokens, we can't recover your assets if you have transferred the wrong tokens to the ICO contracts.
- 8. The easiest and best method to buy the Baby Token is through **Crowdsale #1 Method 2**, where you do not need to login or connect to our web3 services.
+ 8. The easiest and best method to buy the Baby Token is through the **Crowdsale #1 Method 2**, where you do not need to login or connect to our web3 services.
  9. Always **try to buy small amount of Baby Token** to ensure the transfer is completed, and you have received the Baby Tokens immediately. Then you may place a larger order.
  10. Double-check the copy & paste functions of your computer or your phone, make sure that the tokens are being sent to the correct contract. 
