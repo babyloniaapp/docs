@@ -24,7 +24,7 @@
   * [🔗 Bridge](pool/bridge.md)
 * [🤝 Contact](contact.md)
 * [🚀 Roadmap](roadmap.md)
-* [🔮 Easy Guides](guide.md)
+* [🔮 Easy Guides](/guidelines/easyguide.md)
 * [🌍 Charity & Donation](charity.md)
 * [🗳 Governing, proposal & voting](governence-voting.md)
 * [🔞 Security & Risks](security-and-risks.md)
