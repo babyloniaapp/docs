@@ -28,7 +28,7 @@ The dashboard is the main profiler. It shows the tokens and coin on the wallet a
 ---
 
 ### CHAIN SELECTOR
-![Screenshot of Profile section of Chain Selector](https://github.com/babyloniaapp/docs/blob/59a9efbe6a4cd2d82f317fc3f5ead4677272f567/.gitbook/assets/Screenshot_pool.babylonia.app_02.png)
+![Screenshot of Profile section of Chain Selector](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/screenshot/Screenshot_pool.babylonia.app_ChainSelector-11.png)
 
 The chain selector is a tool to add ERC20 compatible networks to the MetaMask. The idea has been existed on the net for some time, we figured it is not very well managed, and lacks the well-designed UI, so we created this tool from scratch. The chain selector is a part of a program that we intended to add handy tools to our **POOL** ecosystem. So many more to come!
 
