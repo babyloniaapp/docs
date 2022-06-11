@@ -472,7 +472,7 @@
 16.11.21 - Optimizing left menu-icon function
 
 ---
-15.11.21 - Linking gitbook to babylonia.app website<br/>
-15.11.21 - Synchronizing gitbook with GitHub, accessing to the repositories<br/>
-15.11.21 - Adding flying astronaut with Alpha Stage to the main page<br/>
+15.11.21 - Linking gitbook to babylonia.app website<br />
+15.11.21 - Synchronizing gitbook with GitHub, accessing to the repositories<br />
+15.11.21 - Adding flying astronaut with Alpha Stage to the main page<br />
 15.11.21 - Adding images to the gitbook
