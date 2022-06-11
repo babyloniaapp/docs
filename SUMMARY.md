@@ -21,10 +21,10 @@
 * [💰 Pool](pool/README.md)
   * [⏳ Staking](pool/staking.md)
   * [🔁 SWAP (Buy & Sell)](pool/buy-and-sell.md)
-  * [🔗 Bridge](pool/bridge.md)
+  * [🔗 Bridge](pool/bridge.md)![crystal-ball_32px]
 * [🤝 Contact](contact.md)
 * [🚀 Roadmap](roadmap.md)
-* [🔮 Easy Guides](/guidelines/easyguide.md)
+* [⛳ Easy Guides](/guidelines/easyguide.md)
 * [🌍 Charity & Donation](charity.md)
 * [🗳 Governing, proposal & voting](governence-voting.md)
 * [🔞 Security & Risks](security-and-risks.md)
