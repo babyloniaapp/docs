@@ -1,6 +1,11 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+---
+
+11.06.22 - The BABY Token ICO1 Method2 contract has been deployed on the mainnet, team is working on the web3 implementations. \
+11.06.22 - Another major update has been pushed on the POOL page, fixing errors, updating menus and linking functions. \
+11.06.22 - The documents are getting updated, adding major changes and adding missing sections related to the GitHub contributions and team members.
 
 ---
 <img width="427" alt="image" src="https://user-images.githubusercontent.com/94221562/172767407-7325a7f5-9f96-4406-be61-a54cd6a7935b.png">
