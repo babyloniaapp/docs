@@ -454,10 +454,10 @@
 21.11.21 - Completing Roadmap section on the gitbook
 
 ---
-20.11.21 - Added returning Astronaut-Image trajectory<br/>
-20.11.21 - Added returning Astronaut-Image trajectory<br/>
-20.11.21 - Added ROADMAP slide to the gitbook<br/>
-20.11.21 - Added POOL slide to the gitbook + updating the website\<br/>
+20.11.21 - Added returning Astronaut-Image trajectory<br/> 
+20.11.21 - Added returning Astronaut-Image trajectory<br/> 
+20.11.21 - Added ROADMAP slide to the gitbook<br/> 
+20.11.21 - Added POOL slide to the gitbook + updating the website <br/> 
 
 ---
 19.11.21 - Added LOGO to the slides<br/>
