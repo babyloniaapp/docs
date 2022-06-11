@@ -29,7 +29,7 @@
 * [🗳 Governing, proposal & voting](governence-voting.md)
 * [🔞 Security & Risks](security-and-risks.md)
   * [👍 User Agreement](security-and-risks/useragreement.md)
-* [💡 Learning](learning.md)
+* [📖 Learning](learning.md)
 * [📅 Logs](logs.md)
 * [✌🏼Team](team/team.md)
 * [❓ FAQ](faq.md)
