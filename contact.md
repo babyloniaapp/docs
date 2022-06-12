@@ -1,4 +1,5 @@
 
+
 # 🤝 Contact
 
 ## Partners
@@ -25,7 +26,7 @@ In advance apologies! We are a new team, running on very low-budget, we can not 
 
 ## Invest in the project&#x20;
 
-We are looking for serious investors. This is an ambitious, well-planned project that requires care, time, and money to grow. If you are interested in our gaming platform on the blockchain, but does not have lots of confident, you may want to buy our main token Babylonia Token (BABY) which will be available shortly through the Crowdsale #1 & #2. Baby has a well-designed tokenomics, controlled reasonable expansion and tons of uses, we are very optimistic that its value appreciates massively in short and long-term. If you have more than $10k, can not wait until the Crowdsale #1 of BABY token in Q2 of 2022, and finally do not want to miss the early-bird opportunity, you may need to contact us directly through the medians, with title of Early-Bird investor. We require some extra help badly at this stage of project development, we appreciate your help and will reward your investment adequately.&#x20;
+We are looking for serious investors. This is an ambitious, well-planned project that requires care, time, and money to grow. If you are interested in our gaming platform on the blockchain, but does not have lots of confident, you may want to buy our main token Babylonia Token (BABY) which will be available shortly through the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) & #2. Baby has a well-designed tokenomics, controlled reasonable expansion and tons of uses, we are very optimistic that its value appreciates massively in short and long-term. If you have more than $10k, can not wait until the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) of BABY token in Q2 of 2022, and finally do not want to miss the early-bird opportunity, you may need to contact us directly through the medians, with title of Early-Bird investor. We require some extra help badly at this stage of project development, we appreciate your help and will reward your investment adequately.&#x20;
 
 ## Buy us a coffee ☕ or a beer 🍺&#x20;
 
