@@ -3,6 +3,11 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 ---
 
+12.06.22 - The BABY Token ICO1 Method1 contract has been deployed on the mainnet, team is working on the web3 implementations, the method 2 UI is almost ready.<br/>
+12.06.22 - The team [page](https://docs.babylonia.app/babylonia.app/team) is created, we added all the core team members, collaborators, and developers that worked on the platform.<br/>
+
+---
+
 11.06.22 - The BABY Token ICO1 Method2 contract has been deployed on the mainnet, team is working on the web3 implementations<br/>
 11.06.22 - Another major update has been pushed on the POOL page, fixing errors, updating menus and linking functions<br/>
 11.06.22 - The documents are getting updated, adding major changes and adding missing sections related to the GitHub contributions and team members.
