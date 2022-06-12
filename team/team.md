@@ -5,7 +5,7 @@ I am Architect, me and my friend Bamzi started this after we have been scammed b
 
 Unfortunately, Bamzi left the team on January 2022, fortunately for me, my dear friend, Dr. ALMA joint the team as the CMO, investor, and co-founder of the project.
 
-What you see here is the result of daily hard work of few people who spend their free time, and own money, to pursue their passion, bring real use case to the crypto and give respect and transparency to community. We try to run things better and at the end of the day make an honest earning.
+What you see here is the result of daily hard work of people who spend their time & energy, and own money, to pursue their passion, to bring real use case to the crypto and give respect and transparency to community. We try to run things better and at the end of the day make an honest earning.
 
 Soon after we get established, register the company in a crypto-friendly land, we will go with full public identification. Just give us a few months until we get things right, complete our team and get a permanent location. I thank you in advance for being with us.
 
