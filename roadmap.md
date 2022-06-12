@@ -1,13 +1,14 @@
+
 # 🚀 Roadmap
 
 ![](.gitbook/assets/SLIDES\_ROADMAP\_003\_2000x1000.png)
 ##
-The Babylonia roadmap is a guide that describes the steps we need to take in order to reach our project goals. It's a plan of action that lines up our project's short-term and long-term goals, and we outline how they will be achieved. We start the project with an "Alpha Stage", which is consisted of initial planning, launching of the website, preparing the smart contracts of the token and "Crowdsale #1", and developing the phase I of the gaming platform. After the crowdfunding phases, we begin to testing the integration of tokenomics into the gaming platform, that stage is called "Beta Launch". The roadmap will be updated as the project proceeds, we might add extra steps to achieve the next milestone.
+The Babylonia roadmap is a guide that describes the steps we need to take in order to reach our project goals. It's a plan of action that lines up our project's short-term and long-term goals, and we outline how they will be achieved. We start the project with an "Alpha Stage", which is consisted of initial planning, launching of the website, preparing the smart contracts of the token and "[Crowdsale #1](https://pool.babylonia.app/Crowdsale1)", and developing the phase I of the gaming platform. After the crowdfunding phases, we begin to testing the integration of tokenomics into the gaming platform, that stage is called "Beta Launch". The roadmap will be updated as the project proceeds, we might add extra steps to achieve the next milestone.
 ### Alpha Stage 2021Q4-2022Q1
 
 * [x] Publishing the website
 * [x] Publishing the documents on GitBook
-* [ ] Developing Games: 1\ Lottery --> postponed to after the Crowdsale #1
+* [ ] Developing Games: 1\ Lottery --> postponed to after the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1)
 * [ ] Developing Games: 2\ Slow-Roulette
 * [x] a Telegram channel deployment
 * [x] Presenting the website
@@ -21,10 +22,10 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 
 
 #
-### Crowdsale #1 2022Q2-2022Q3
+### [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) 2022Q2-2022Q3
 ![Babylonia Crowdsale #1 presentation](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%231_05_900px.png)
 
-~~**We kick off the project in Q1 of 2022 with a public crowdfunding**~~ The Crowdsale #1 has been delayed two times, due to lack of potential investors, also unfavorable market condition, it is now set to be on ~~1/May/2022~~ 15/June.2022, 10% of total BABY tokens will be available to buy. Most of Crowdsale #1 fund generation will be spent on development of the project games and platform.
+~~**We kick off the project in Q1 of 2022 with a public crowdfunding**~~ The Crowdsale #1 has been delayed two times, due to lack of potential investors, also unfavorable market condition, it is now set to be on ~~1/May/2022~~ 15/June.2022, 10% of total BABY tokens will be available to buy. Most of [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) fund generation will be spent on development of the project games and platform.
 
 We funded the project ourselves until now, and running low on money has taught us how to run the project very lean. According to the calculation and formula, large amount of Crowdsale money will be saved as collateral for rainy days and buyback plans, to ensure the prolonged life of the project and preserving the BABY token price.
 
@@ -33,13 +34,13 @@ We funded the project ourselves until now, and running low on money has taught u
 * [x] Developing NFT platform --> creating NFT collections + web3 integration
 * [ ] Deploying the liquid pairs and starting pre-minting on BSC testnet
 * [ ] Starting beta-test of the Games 1\ Loterry&#x20;
-* [x] Website visual updates + preparations for Crowdsale #1
+* [x] Website visual updates + preparations for [Crowdsale #1](https://pool.babylonia.app/Crowdsale1)
 * [x] Deployments of the Games website pages on new VPS hosting
 * [ ] Games server deployments
 * [x] Creating media project + web3 integration
 * [x] Kicking off the NFT project
-* [ ] Kicking off the Crowdsale #1 with/without partners
-* [ ] Buying collaterals simultaneously with the Crowdsale #1
+* [ ] Kicking off the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) ~~with~~/without partners
+* [ ] Buying collaterals simultaneously with the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1)
 * [x] Extras: Updates main page 3D model
 * [x] Extras: Unique and unified UI design in whole babylonia.app pages
 
