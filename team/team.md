@@ -29,9 +29,14 @@ Philip T. (Bamzi), Co-Founding,  Oct/2021-Jan/2022
 Yashar Zar., 3D design, Dec/2021-Feb/2022
 Marco Castelli, smart contract, web3, React UI, Jan/2022-Feb/2022
 Ihor Kizimenko, smart contract, web3, React UI, Feb/2022-Present, GitHub
-Esenzhanov Kubanychbek, web2, React UI, Jan/2022-Feb/2022, GitHub
-Tahir Fazal, social media & promotion, Feb/2022
-Emin Tatli, lottery smart contract, web3, React UI, Jan/2022-Feb/2022
-Mahedi Shariar Porosh, documents, social media, Feb/2022-Present
-Muhammad Bilal, React UI, three.js, Feb/2022-April/2022, GitHub
-Harsh Dutt, 3D design, NFT, Feb/2022
+Esenzhanov Kubanychbek, web2, React UI, Jan/2022-Feb/2022, GitHub, Upwork
+Tahir Fazal, social media & promotion, Feb/2022, Upwork
+Emin Tatli, lottery smart contract, web3, React UI, Jan/2022-Feb/2022, Upwork
+Mahedi Shariar Porosh, documents, social media, Feb/2022-Present, [Twitter](https://twitter.com/shariarporosh),  [Upwork](https://www.upwork.com/freelancers/~015d40b3235359e966)
+Muhammad Bilal, React UI, three.js, Feb/2022-April/2022, GitHub, [Upwork](https://www.upwork.com/freelancers/~01eb8445f58b6fe00b)
+Harsh Dutt, 3D design, NFT design, Feb/2022, Upwork
+Ruslan Starkov, NFT design, Mar/2022
+Muhammad Nomair Ahsan, React UI, media project, Mar/2022-April/2022, GitHub, [Upwork](https://www.upwork.com/freelancers/~016aeb429be5ff7640)
+Ariful Islam Rabbi, social media research, April/2022, Upwork
+Bilal Haider, social media research, April/2022, [Upwork](https://www.upwork.com/freelancers/~011eb939a018074478)
+Akash Das, React UI, media project, backend, April/2022, [Upwork](https://www.upwork.com/freelancers/~01beaeeb78b32d57bd), GitHub
