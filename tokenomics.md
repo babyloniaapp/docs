@@ -10,6 +10,21 @@ Tokens format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom,
 
 **BABY Token (BABY) address: 0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a**
 
+BABY BNB: 0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a <br/>
+https://bscscan.com/address/0xa4e26bd6dcba9021dcd3a1159ba52e97cd770b8a <br/>
+BNBICO1M1: 0xE4CbCD4064B86960719CBF1C0703de3a0DD903F7 <br/>
+BNBICO1M2: 0x84b1ef16C1461B7864a611925FbF31736f924a40 <br/>
+
+BABY POLYGON: 0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a <br/>
+https://polygonscan.com/token/0xa4e26bd6dcba9021dcd3a1159ba52e97cd770b8a <br/>
+Polygon1CO1M1: 0xe35101eca87FEbD106D45Be43e40b2d1690433D1 <br/>
+PolygonICO1M2: 0x84b1ef16C1461B7864a611925FbF31736f924a40 <br/>
+
+BABY FANTOM: 0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a <br/>
+https://ftmscan.com/token/0xa4e26bd6dcba9021dcd3a1159ba52e97cd770b8a <br/>
+FantomICO1M1:0xE4CbCD4064B86960719CBF1C0703de3a0DD903F7 <br/>
+FantomICO1M2: 0x84b1ef16C1461B7864a611925FbF31736f924a40 <br/>
+
 ---
 
 ![Overview of BABYLONIA Tokens](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_TOKEN_010_900px.png)
