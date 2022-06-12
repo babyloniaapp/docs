@@ -7,3 +7,31 @@ What you see here is the result of daily hard work of few people who spend their
 
 Soon after we get established, register the company in a crypto-friendly land, we will go with full public identification. Just give us a few months until we get things right, complete our team and get a permanent location. I thank you in advance for being with us.<br/>
 
+<hr/>
+
+## Members of the Babylonia team:
+
+Jeremiah K. (Architect), CEO & Founder
+Roles: Investor, designer, strategies, documents writer, smart contracts, quality control
+Twitter, GitHub
+
+Dr. ALMA, CMO & Co-Founder 
+Roles: Investor, strategies, marketing & promotions, NFT
+Twitter
+
+Kourosh T., CTO
+Roles: Managing technical team, programming backend & frontend, support & maintenance
+Twitter, GitHub
+
+People who has contributed/collaborated/worked to/with/for the project:
+
+Philip T. (Bamzi), Co-Founding,  Oct/2021-Jan/2022
+Yashar Zar., 3D design, Dec/2021-Feb/2022
+Marco Castelli, smart contract, web3, React UI, Jan/2022-Feb/2022
+Ihor Kizimenko, smart contract, web3, React UI, Feb/2022-Present, GitHub
+Esenzhanov Kubanychbek, web2, React UI, Jan/2022-Feb/2022, GitHub
+Tahir Fazal, social media & promotion, Feb/2022
+Emin Tatli, lottery smart contract, web3, React UI, Jan/2022-Feb/2022
+Mahedi Shariar Porosh, documents, social media, Feb/2022-Present
+Muhammad Bilal, React UI, three.js, Feb/2022-April/2022, GitHub
+Harsh Dutt, 3D design, NFT, Feb/2022
