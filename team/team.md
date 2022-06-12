@@ -1,9 +1,12 @@
 
+---
+
+
 Jeremiah K. (Architect), CEO & Founder Roles: Investor, designer, strategies, documents writer, smart contracts, quality control, [Twitter](https://twitter.com/realarchitekt), [GitHub](https://github.com/babyloniaapp)
 
 Dr. ALMA, CMO & Co-Founder Roles: Investor, strategies, marketing & promotions, NFT, Twitter
 
-Kourosh T., CTO Roles: Managing technical team, programming backend & frontend, support & maintenance, Twitter, [GitHub](https://github.com/KooroshTorabi)
+Kourosh T., CTO Roles: Managing technical team, programming backend & frontend, support & maintenance, [Twitter](https://twitter.com/KooroshTorabi), [GitHub](https://github.com/KooroshTorabi), [LinkedIn](https://www.linkedin.com/in/kooroshtorabi/)
 
 People who has contributed/collaborated/worked to/with/for the project:
 
