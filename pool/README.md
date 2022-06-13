@@ -1,11 +1,12 @@
 
+
 # POOL
 ## What is the Pool all about?
 In the **Pool** we offer all range of **DeFi** products and services. At the moment of writing this documents, end of April 22, We have Profile, Chain Selector, Investment & Staking, Swap (buy & sell tokens), and upcoming Bridge services. You can expect many more services in a new future that we are working on.
 
 ---
 ### SWAP (BUY & SELL)
-Here you find everything you need to know on how to buy & sell [_<mark style="background-color:orange;">**babylonia.app**</mark>_](https://babylonia.app) tokens, on how to use them, trade them. Our platform is not a DEX, and we do not have any plans to offer a DEX or in house SWAP services, however our SWAP services will be using (borrowing) some other platform facilities. Simply we only facilitate the exchange and swap but inside, the system using an API from 1Inch, Pancakeswap, Uniswap or similar trustworthy websites.
+Here you find everything you need to know on how to buy & sell [_<mark style="background-color:orange;">**babylonia.app**</mark>_](https://babylonia.app) tokens, on how to use them, trade them. Our platform is not a DEX, and we do not have any plans to offer a DEX or in house SWAP services, however our SWAP services will be using (borrowing) some utilities of other platforms. Simply we only facilitate the exchange and swap but inside, the system using an API from 1Inch, Pancakeswap, Uniswap or similar trustworthy websites.
 
 
 
@@ -42,7 +43,7 @@ The chain selector is a tool to add ERC20 compatible networks to the MetaMask. T
 
 The bridge is a combination of 2 smart contracts: one deployed on each chain that allows for cross-chain transfers of value. The **Babylonia's bridge** will enable users to transfer their **Baby Tokens** easily between the BSC (BNB Chain) and Polygon, Fantom or other available networks. 
 
-In Babylonia, we love automation and respect the comfort of running a trusted algorithm, but we do not fully trust the code, and it tends to fail the crypto platforms often. Consequently we rather to make big decisions to transfer and release ourselves than reply on the code itself.
+In Babylonia, we love automation and respect the comfort of running a trusted algorithm, but we do not fully trust the code, and it tends to fail the crypto platforms often. Consequently, we rather to make big decisions to transfer and release ourselves than reply on the code itself.
 
 The conditions of using the bridge are:
 
