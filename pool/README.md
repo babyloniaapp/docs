@@ -12,6 +12,7 @@ Here you find everything you need to know on how to buy & sell [_<mark style="ba
 ---
 ### DASHBOARD
 ![Screenshot of Profile section of POOL](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/screenshot/Screenshot_pool.babylonia.app_profiler_03.png)
+
 The dashboard is the main profiler. It shows the tokens and coin on the wallet address, at the moment it detects top six popular tokens of each blockchain, on the next phase of developments more services will be added such as:
 
  - Liquidity token detection
