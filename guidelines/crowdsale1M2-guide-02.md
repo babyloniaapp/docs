@@ -23,8 +23,7 @@
 
  7. Transfer some BNB, MATIC or FTM to ICO1M2 address, by pasting the wallet address into the field. The price of BABY Token is fixed at $0.01.
  8. After the transaction confirmation, you will receive the BABY Token immediately in your wallet. 
+
+![adding BABY Token to MetaMask](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/screenshot/Screenshot_pool.babylonia.app_Crowdsale1-06.png)
+
  9. You may add BABY Token to your MetaMask assets automatically by clicking on the “add BABY Token to the MetaMask” or manually.
-
-
-
-
