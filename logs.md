@@ -1,6 +1,9 @@
 ## 📅 LOGS
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
+
+14.06.22 - Team is busy finalzing the Crowdsale #1 of POOL page, so many bugs and problems have been resolved.<br/>
+
 ---
 
 12.06.22 - The BABY Token ICO1 Method1 contract has been deployed on the mainnet, team is working on the web3 implementations, the method 2 UI is almost ready.<br/>
