@@ -1,19 +1,15 @@
 # 🔮 Easy Guides
 
 ## How to buy BABY Token
-BABY token is available on BNB Chain and Polygon network. 
-1. Go to the pool.babylonia.app or click on the POOL icon on the left side of the babylonia.app homepage.
+BABY token is available on BNB Chain, Polygon & Fantom network. The BABY Token can be purchased with the stablecoin of your choice, BNB, MATIC or FTM tokens.
 
 
-![Selecting Crowdsale #1 | pool.babylonia.app](https://raw.githubusercontent.com/babyloniaapp/docs/9e71e3b44dd886177786cb6415bf4e893e4e81cf/.gitbook/assets/Screenshot_pool.babylonia.app_Crowdsale%20%231-01.png)
-
-
-2. Click on the Crowdsale #1 menu on the top.
 
 
 
 ## How to buy NFTs?
 
+Coming soon, NFT contracts are in preparation, will be available shortly after the Crowdsale #1.
 
 
 ## How to use Babylonia media?
