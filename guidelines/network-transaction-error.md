@@ -16,4 +16,5 @@ Some newer build networks like Polygon & Fantom has more gas fee fluctuations. Y
 
  3. Increase the gas fee by clicking on the medium or high level, and then save.
  4. Now you can confirm the transaction.
+ 5. You can track gas fees of BNB Chain (BSC) [here](https://bscscan.com/gastracker), Polygon Network [here](https://polygonscan.com/gastracker) and Fantom Network [here](https://ftmscan.com/gastracker).
 
