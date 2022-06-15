@@ -9,7 +9,7 @@ BABY token is available on BNB Chain, Polygon & Fantom network. The BABY Token c
 
 ## How to buy NFTs?
 
-Coming soon, NFT contracts are in preparation, will be available shortly after the Crowdsale #1.
+Coming soon, NFT contracts are in preparation, will be available shortly after the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1).
 
 
 ## How to use Babylonia media?
