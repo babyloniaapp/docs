@@ -27,3 +27,9 @@
 ![adding BABY Token to MetaMask](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/screenshot/Screenshot_pool.babylonia.app_Crowdsale1-06.png)
 
  9. You may add BABY Token to your MetaMask assets automatically by clicking on the “add BABY Token to the MetaMask” or manually.
+
+
+<hr/>
+
+## Troubleshooting
+[Gas fee problem](guidelines/network-transaction-error.md)
