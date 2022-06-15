@@ -21,3 +21,7 @@
  13. You can revoke the permission of ICO contract of pool.babylonia.app to access your tokens now, by visiting [app.unrekt.net](https://app.unrekt.net/), connect your wallet and revoke unnecessary access and persmissions.
 
 
+<hr/>
+
+## Troubleshooting
+[Gas fee problem](network-transaction-error.md)
