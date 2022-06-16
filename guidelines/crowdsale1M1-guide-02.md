@@ -5,6 +5,9 @@
 
  1. Go to [pool.babylonia.app](pool.babylonia.app)
  2. Select Crowdsale #1 from the top menu.
+ ![Screenshot_pool babylonia app_Crowdsale1Method1-01](https://user-images.githubusercontent.com/94221562/174118322-e886df88-6ce2-499f-98cf-ab7da60a0909.png)
+
+ 
  3. Choose Method 1 Stablecoin Method.
  4. Login to your MetaMask if you haven't already.
  5. Select the network of your choice.
