@@ -2,6 +2,11 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/94221562/174014335-57b24593-2afe-4724-9a7b-cc3369bf4ae2.png">
+
+16.06.22 - we pushed another patch on the POOL section, the buy button of Method 2 is now working. The profiler may not detect the BABY token and the balances are not getting updated automatically, we are working on the fixes. <br/>
+
 16.06.22 - We started our [Crowdsale #1](https://pool.babylonia.app/) with Method 2, Method 1 will be available later today. The page is still slow and buggy, the team is working on it. <br/>
 
 ---
