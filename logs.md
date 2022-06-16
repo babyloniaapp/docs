@@ -2,11 +2,15 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+16.06.22 - We started our [Crowdsale #1](https://pool.babylonia.app/) with Method 2, Method 1 will be available later today. The page is still slow and buggy, the team is working on it. <br/>
+
+---
+
 15.06.22 - The POOL and Crowdsale #1 page are still having problems, we may delay the Crowdsale for few days.<br/>
 
 ---
 
-14.06.22 - Team is busy finalzing the Crowdsale #1 of POOL page, so many bugs and problems have been resolved.<br/>
+14.06.22 - Team is busy finalizing the Crowdsale #1 of POOL page, so many bugs and problems have been resolved.<br/>
 
 ---
 
