@@ -23,9 +23,10 @@
  12. After the transaction confirmation, you will receive the BABY Token immediately in your wallet. 
  13. You may add BABY Token to your MetaMask assets automatically by clicking on the “add BABY Token to the MetaMask” or manually.
 
-![Revoking permissions](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/screenshot/Screenshot_app.unrekt.net_revoke-01.png)
+<img width="800" alt="Revoking permissions" src="https://user-images.githubusercontent.com/94221562/174119415-871c6577-fe0b-4e7b-a6db-ec54e16e7f6f.png">
 
- 13. You can revoke the permission of ICO contract of pool.babylonia.app to access your tokens now, by visiting [app.unrekt.net](https://app.unrekt.net/), connect your wallet and revoke unnecessary access and persmissions.
+
+ 14. You can revoke the permission of ICO contract of pool.babylonia.app to access your tokens now, by visiting [app.unrekt.net](https://app.unrekt.net/), connect your wallet and revoke unnecessary access and persmissions.
 
 
 <hr/>
