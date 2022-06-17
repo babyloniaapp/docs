@@ -2,7 +2,7 @@
 Please read the following cautions, risks, and guidelines before you decide to buy **Baby Token**. We tried to put them together as compact as possible, not to waste your time and make it a boring bla bla bla.
 
  1. Babylonia is a young and potential start-up. In the past year we worked hard and built much, and we haven't started yet. Try to know us better before buying our token. Read our story, see our contents on Twitter, study our principles and examine our work on GitHub. 
- 2. Investing into a start-up is risky, DO NOT spend all your money or your savings on buying the Baby Token. We have capped it to 100,000 $BABY per wallet.
+ 2. Investing into a start-up is risky, DO NOT spend all your money or your savings on buying the **BABY Token**. We have capped it to 100,000 $BABY per wallet.
  3. The Baby Token can't be sold until the next phase of development, which is called "Open Market", where we deploy liquidity on the DEX. That may take 3-6 months.
  4. Do not buy any unknown tokens including the Baby Token with your **main** wallet (account), where all your saving money, tokens, and assets are. Always have a **secondary** wallet for unsafe engagements. This decrease the risk of being exploited or hacked.
  5. Our Crowdsale does not have a softcap. The investment and bought tokens cannot return.
