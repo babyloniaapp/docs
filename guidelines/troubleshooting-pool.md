@@ -23,7 +23,7 @@ Some newer build networks like Polygon & Fantom has more gas fee fluctuations. Y
 
 ## Wallet Connect 
 
-<img width="600" alt="Connect Wallet" src="https://user-images.githubusercontent.com/94221562/174427023-6c099025-d45e-4589-a1be-852211d232c4.png">
+<img width="400" alt="Connect Wallet" src="https://user-images.githubusercontent.com/94221562/174427023-6c099025-d45e-4589-a1be-852211d232c4.png">
 
 
 Sometimes click doesn't though or the **Wallet Connect** is not responsive.
