@@ -2,6 +2,10 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+17.06.22 - Our dashboad profiler got a new look, now detecting the BABY token too, we are in proccess of getting prices and balances from web3.<br/>
+<img width="200" alt="POOL Profiler" src="https://user-images.githubusercontent.com/94221562/174434096-12090da2-e3e2-47ab-b091-85df60ba4c48.png">
+
+
 17.06.22 - We enabled Crowsale #1 - Method 1 yesterday, there is still problems with the web3 part, devs are working on it.<br/>
 
 ---
@@ -11,7 +15,7 @@
 16.06.22 - The VPS server of POOL platform is replaced with a faster and stronger server. It may take few minutes for be upgraded.<br/>
 
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/94221562/174014335-57b24593-2afe-4724-9a7b-cc3369bf4ae2.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/94221562/174014335-57b24593-2afe-4724-9a7b-cc3369bf4ae2.png">
 
 16.06.22 - we pushed another patch on the POOL section, the buy button of Method 2 is now working. The profiler may not detect the BABY token and the balances are not getting updated automatically, we are working on the fixes. <br/>
 
