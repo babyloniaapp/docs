@@ -1,3 +1,5 @@
+# Troubleshooting POOL section
+
 ## Gas Fees
 Gas refers to **the fee required to conduct a transaction on the network successfully**. Gas fees are paid in network's native currency, ether (ETH), BNB (Binance Smart Chain), MATIC (Polygon), etc. Gas prices are denoted in gwei, which itself is a denomination & each gwei is equal to 0.000000001 (10 * 10 **-9). <br/>
 The gas fee of a particular transaction can vary based on the business and activity (congestion) of the network and can rise to a very higher than normal amount. Therefore, the transaction 
@@ -18,3 +20,14 @@ Some newer build networks like Polygon & Fantom has more gas fee fluctuations. Y
  4. Now you can confirm the transaction.
  5. You can track gas fees of BNB Chain (BSC) [here](https://bscscan.com/gastracker), Polygon Network [here](https://polygonscan.com/gastracker) and Fantom Network [here](https://ftmscan.com/gastracker).
 
+
+## Wallet Connect 
+
+
+
+Sometimes click doesn't though or the **Wallet Connect** is not responsive.
+
+ 1. Close the wallet connect.
+ 2. Refresh the page tab on your browser (with F5 or Control + F5).
+ 3. If the problem persists, close your browser or wallet and try again.
+ 4. Try to connect using different method, like with MetaMask instead of Trust Wallet. 
