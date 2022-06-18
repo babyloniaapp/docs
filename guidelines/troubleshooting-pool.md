@@ -32,3 +32,21 @@ Sometimes click doesn't though or the **Wallet Connect** is not responsive.
  2. Refresh the page tab on your browser (with F5 or Control + F5).
  3. If the problem persists, close your browser or wallet and try again.
  4. Try to connect using different method, like with MetaMask instead of Trust Wallet. 
+
+
+
+## MetaMask pending tasks
+
+Sometimes there is a pending task or not attended transaction in MetaMask that needs to be cleared.
+
+<img width="400" alt="MetaMask pending" src="https://user-images.githubusercontent.com/94221562/174431822-703bf10f-1663-4e5f-b049-53ff1d4aaa56.png">
+
+To resolve the issue:
+
+ 1. Click on the MetaMask icon on the browser.
+ 2. Wait until MetaMask opens up, don't force things, sometimes MetaMask acts slower than usual.
+ 3. Login or attend to the transaction.
+
+
+
+
