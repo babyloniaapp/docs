@@ -32,4 +32,4 @@
 <hr/>
 
 ## Troubleshooting
-[Gas fee problem](network-transaction-error.md)
+Refer to the [troubleshooting](troubleshooting-pool.md) section to resolve common errors and problems.
