@@ -2,6 +2,9 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+17.06.22 - We enabled Crowsale #1 - Method 1 yesterday, there is still problems with the web3 part, devs are working on it.<br/>
+
+---
 
 16.06.22 - Method 2 of Crowsale is fully operational, balances are now showing, Method 1 is not yet ready, this is a web3 issue that devs trying to resolve.<br/>
 
