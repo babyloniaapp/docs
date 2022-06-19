@@ -2,6 +2,16 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+
+
+19.06.22 - Today we started another round of promotions through Twitter, the market is doing poorly and selling a new token is just like running uphill.<br/>
+19.06.22 - Sadly we fired one of our web3 devs, he let us down in recent days when we needed it most and the website requires lots of attention and maintenance.<br/>
+19.06.22 - Devs are trying some problems with the Crowdsale page becoming slow and laggy.<br/>
+
+
+---
+
+
 17.06.22 - Our dashboad profiler got a new look, now detecting the BABY token too, we are in proccess of getting prices and balances from web3.<br/>
 <img width="200" alt="POOL Profiler" src="https://user-images.githubusercontent.com/94221562/174434096-12090da2-e3e2-47ab-b091-85df60ba4c48.png">
 
