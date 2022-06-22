@@ -6,6 +6,8 @@
 
 22.06.22 - The search for a web3 developer continues, we are looking for a professional that delivers consistent quality and get along with our slim budget.<br/>
 
+22.06.22 - We pushed another round of updates on our DASHBOARD section, today the project will be completed, and we shifted completely from getting prices of web2 API to chainlink aggregators.<br/>
+
 
 ---
 
