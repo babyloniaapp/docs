@@ -2,6 +2,13 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+22.06.22 - Our active developer team reduced to four people only, as the market continues to be tough, we got difficulty funding the project.<br/>
+
+22.06.22 - The search for a web3 developer continues, we are looking for a professional that delivers consistent quality and get along with our slim budget.<br/>
+
+
+---
+
 21.06.22 - The promotion Tweet did not get enough attention, we need to research more as there are many scams and fraud so-called promoters and influencers out there.<br/>
 21.06.22 - Today we are pushing another update on the POOL page, general optimizations and getting price information from Chainlink aggregators rather than typical API web2 services.<br/>
 21.06.22 - We are interviewing new devs on the Upwork, to get someone for the web3 and DApp development job.<br/>
