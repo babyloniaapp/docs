@@ -2,16 +2,18 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
-23.06.22 - Finally last night we managed to fix the dashboard and Crowdsale #1 Method 2 problems, now everything works fine.<br/>
+24.06.22 - Today we pushed another major upload on the POOL section, fixing bugs and problems with UI.<br/>
+24.06.22 - We hired a new web3 dev yesterday, he wi;; be working on the POOL section.<br/>
 
+---
+
+23.06.22 - Finally last night we managed to fix the dashboard and Crowdsale #1 Method 2 problems, now everything works fine.<br/>
 23.06.22 - We narrowed down the dev candidate list for the web3 jobs, will be finalized today.<br/>
 
 ---
 
 22.06.22 - Our active developer team reduced to four people only, as the market continues to be tough, we got difficulty funding the project.<br/>
-
 22.06.22 - The search for a web3 developer continues, we are looking for a professional that delivers consistent quality and get along with our slim budget.<br/>
-
 22.06.22 - We pushed another round of updates on our DASHBOARD section, today the project will be completed, and we shifted completely from getting prices of web2 API to chainlink aggregators.<br/>
 
 
