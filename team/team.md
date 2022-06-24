@@ -44,10 +44,11 @@ People who has contributed/collaborated/worked to/with/for the project:
 - Aditya Singh, smart contract, audits, web3, May/2022-Present, [Upwork](https://www.upwork.com/freelancers/~01a404993d7099e5d2), [GitHub](https://github.com/Aadityakr003)
 - Ju Tang, voice-over project, May/2022, [Upwork](https://www.upwork.com/freelancers/~013bfedb2ad6d429eb)
 - Afraz Malik, React UI, documents, May/2022-June/2022, [Upwork](https://www.upwork.com/freelancers/~01feceb3a9a20cfad5), [GitHub](https://github.com/afraz-malik)
+- Waleed Qureshi, smart contract, web3, React UI, June/2022-Present, [GitHub](https://github.com/Waleed-Shafiq)
 
 
 
 
 Notes:
- 1. This list is gathered on 20.June.2022
+ 1. This list is gathered on 24.June.2022
  2. The hyperlinks may get broken over the time (if member change the username or profiles),  and we will not maintain them for inactive members.
