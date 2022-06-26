@@ -3,12 +3,12 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
 26.06.22 - We are aware that our POOL page does not work properly with Trust Wallet DApp browser, we are working on it.<br/>
-26.06.22 - We still working on the Crowdsale #1 Method 1 to get it working, will be operational soon.<br/>
+26.06.22 - We are still working on the Crowdsale #1 Method 1 to get it working, will be operational soon.<br/>
 
 ---
 
 24.06.22 - Today we pushed another major upload on the POOL section, fixing bugs and problems with UI.<br/>
-24.06.22 - We hired a new web3 dev yesterday, he wi;; be working on the POOL section.<br/>
+24.06.22 - We hired a new web3 dev yesterday, he will be working on the POOL section.<br/>
 
 ---
 
