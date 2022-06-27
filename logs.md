@@ -2,6 +2,11 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+27.06.22 - Today the Crowdsale #1 Method 1 will be available, we are working on the final testing. <br/>
+27.06.22 - The web3 dev that we hired did not live up to the big resume we relied on to hire. Unfortunately, this is what we see more often, that the people accept the job but don't pay attention as the money and project might seem small.<br/>
+
+---
+
 26.06.22 - We are aware that our POOL page does not work properly with Trust Wallet DApp browser, we are working on it.<br/>
 26.06.22 - We are still working on the Crowdsale #1 Method 1 to get it working, will be operational soon.<br/>
 
