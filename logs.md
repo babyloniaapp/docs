@@ -4,6 +4,7 @@
 
 30.06.22 - We hired a new web3 smart contract dev to further develop the platform.<br/>
 30.06.22 - The NFT creation and smart contract development project has been started, our ETA is about one month.<br/>
+30.06.22 - The problem of sending transaction with a wrong gas fee is resolved.<br/>
 
 ---
 28.06.22 - The ICO1 Method 1 is fully operational now, we deployed the changes yesterday.<br/>
