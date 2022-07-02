@@ -2,7 +2,8 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
-02.07.22 - The transactions are now having a calculated gas fees, preventing suggesting very low gas fees on the Polygon and Fantom networks.<br/>
+
+02.07.22 - The transactions are now have a calculated gas fees, preventing suggesting very low gas fees on the Polygon and Fantom networks.<br/>
 
 ---
 
