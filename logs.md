@@ -2,11 +2,16 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+02.07.22 - The transactions are now having a calculated gas fees, preventing suggesting very low gas fees on the Polygon and Fantom networks.<br/>
+
+---
+
 30.06.22 - We hired a new web3 smart contract dev to further develop the platform.<br/>
 30.06.22 - The NFT creation and smart contract development project has been started, our ETA is about one month.<br/>
 30.06.22 - The problem of sending transaction with a wrong gas fee is resolved.<br/>
 
 ---
+
 28.06.22 - The ICO1 Method 1 is fully operational now, we deployed the changes yesterday.<br/>
 28.06.22 - We dismissed most of freelancer developers, as the market continues to slide down, we got problems too building and pushing updates. The team is back to three core members.<br/>
 
