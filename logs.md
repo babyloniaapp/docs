@@ -2,6 +2,11 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+04.07.22 - We are preparing our NFT contracts, but things running slowler now as we are on tighter budget.<br/>
+04.07.22 - Devs are busy with making our document pages ready to be hosted on our server soon.<br/>
+
+---
+
 03.07.22 - The problem with max function of the Crowdsale #1 Method 1 is resolved.<br/>
 03.07.22 - The Crowdsale #1 Method 1 on Polygon works swimmingly once again, we deployed fixed patches.<br/>
 
