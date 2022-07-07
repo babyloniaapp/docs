@@ -3,6 +3,11 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
 
+07.07.22 - We will be testing the NFT contract during the weekend on the Polygon network, devs are busy with the last tocuhes.<br/>
+07.07.22 - Tomorrow we will be deploying the new documents server on the website, during the next week the transition from GitBook to our server will be completed.<br/>
+
+---
+
 05.07.22 - The informative and fun contents like Short Stories are being made again, we try ways to create more attrative and usefull stuff for our audience.<br/>
 
 ---
