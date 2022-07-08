@@ -85,7 +85,7 @@
 
 16.06.22 - Method 2 of Crowdsale is fully operational, balances are now showing, Method 1 is not yet ready, this is a web3 issue that devs trying to resolve.<br/>
 
-16.06.22 - The VPS server of POOL platform is replaced with a faster and stronger server. It may take few minutes for be upgraded.<br/>
+16.06.22 - The VPS server of POOL platform is replaced with a faster and stronger server. It may take few minutes to be upgraded.<br/>
 
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/94221562/174014335-57b24593-2afe-4724-9a7b-cc3369bf4ae2.png">
