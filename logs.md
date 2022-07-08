@@ -76,7 +76,7 @@
 
 ---
 
-17.06.22 - Our dashboad profiler got a new look, now detecting the BABY token too, we are in process of getting prices and balances from web3.<br/>
+17.06.22 - Our dashboard profiler got a new look, now detecting the BABY token too, we are in process of getting prices and balances from web3.<br/>
 <img width="200" alt="POOL Profiler" src="https://user-images.githubusercontent.com/94221562/174434096-12090da2-e3e2-47ab-b091-85df60ba4c48.png">
 
 17.06.22 - We enabled Crowdsale #1 - Method 1 yesterday, there is still problems with the web3 part, devs are working on it.<br/>
