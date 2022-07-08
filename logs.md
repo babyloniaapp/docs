@@ -74,19 +74,16 @@
 19.06.22 - Sadly we fired one of our web3 devs, he let us down in recent days when we needed it most and the website requires lots of attention and maintenance.<br/>
 19.06.22 - Devs are trying some problems with the Crowdsale page becoming slow and laggy.<br/>
 
-
 ---
 
-
-17.06.22 - Our dashboad profiler got a new look, now detecting the BABY token too, we are in proccess of getting prices and balances from web3.<br/>
+17.06.22 - Our dashboad profiler got a new look, now detecting the BABY token too, we are in process of getting prices and balances from web3.<br/>
 <img width="200" alt="POOL Profiler" src="https://user-images.githubusercontent.com/94221562/174434096-12090da2-e3e2-47ab-b091-85df60ba4c48.png">
 
-
-17.06.22 - We enabled Crowsale #1 - Method 1 yesterday, there is still problems with the web3 part, devs are working on it.<br/>
+17.06.22 - We enabled Crowdsale #1 - Method 1 yesterday, there is still problems with the web3 part, devs are working on it.<br/>
 
 ---
 
-16.06.22 - Method 2 of Crowsale is fully operational, balances are now showing, Method 1 is not yet ready, this is a web3 issue that devs trying to resolve.<br/>
+16.06.22 - Method 2 of Crowdsale is fully operational, balances are now showing, Method 1 is not yet ready, this is a web3 issue that devs trying to resolve.<br/>
 
 16.06.22 - The VPS server of POOL platform is replaced with a faster and stronger server. It may take few minutes for be upgraded.<br/>
 
