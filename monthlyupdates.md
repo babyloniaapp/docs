@@ -1,0 +1,1 @@
+Every month, we publish our monthly update and news of Babylonia platform on various forums and social media outlets. Monthly updates are a summarized version of content you can find in the logs section.
