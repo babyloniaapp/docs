@@ -21,7 +21,7 @@
 * [💰 Pool](pool/README.md)
   * [⏳ Staking](pool/staking.md)
   * [🔁 SWAP (Buy & Sell)](pool/buy-and-sell.md)
-  * [🔗 Bridge](pool/bridge.md)![crystal-ball_32px]
+  * [🔗 Bridge](pool/bridge.md)
 * [🤝 Contact](contact.md)
 * [🚀 Roadmap](roadmap.md)
 * [👨‍🎓 Easy Guides](/guidelines/easyguide.md)
