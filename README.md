@@ -66,3 +66,5 @@ The short answer is no. We try to be innovating and bring new staff all the time
 
 
 Yes but partially. The appearance and business model and functions can be copied, but it would consider as intellectual property theft. However, we believe the soul of our running system will not be clonable. We are intended in the running a fair and transparent gaming and gambling platform while paying complete attention to the players, visitors and gamers. We focus on a fair distribution of profits while keeping all parties satisfied and entertained. In short, good deeds and strong roots and clear conscience. The body can be cloned, but not what is inside your heart.
+
+Most of our GitHub repositories are private, we will make them public once everything is established, and we accommodate stable revenues.
