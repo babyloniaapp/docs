@@ -4,8 +4,8 @@
 ## How to buy BABY Token
 BABY token is available on BNB Chain, Polygon & Fantom network. The BABY Token can be purchased with the stablecoin of your choice, BNB, MATIC or FTM tokens.
 
-[Buy BABY Token with Stablecoin](crowdsale1M1-guide-02.md) <br/>
-[Buy BABY Token with Direct transfer](crowdsale1M2-guide-02.md) <br/>
+👉[Buy BABY Token with Stablecoin](crowdsale1M1-guide-02.md) <br/>
+👉[Buy BABY Token with Direct transfer](crowdsale1M2-guide-02.md) <br/>
 
 
 
