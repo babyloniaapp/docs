@@ -11,7 +11,7 @@ The [babylonia.app](https://babylonia.app) is a fun entertainment platform. It i
 
 ### Where was Babylonia?
 
-![Babylon 1906](.gitbook/assets/babylon-1906.jpg)
+<img width="800" alt="Babylon 1906 painting" src="https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/babylon-1906.jpg">
 
 Babylonia was a glorious state found about 4000 years ago. It was located at the southeast of old Persia. At its heart, the city of Babylon became a city of beautiful and lavish buildings after a few centuries. The king of Babylon, Hammurabi, turned it into a rich, powerful and influential city. He created one of the world’s earliest and most complete written legal codes. Known as the Code of Hammurabi, it helped Babylon surpass other cities in the region. Babylon was the largest city in the world, the first city to reach a population above 200,000.
 
