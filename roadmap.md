@@ -25,7 +25,7 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 
 <hr/>
 
-### [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) 2022Q2-2022Q3
+### Crowdsale #1 2022Q2-2022Q3
 
 ![Babylonia Crowdsale #1 presentation](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%231_05_900px.png)
 
