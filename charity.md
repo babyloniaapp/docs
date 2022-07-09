@@ -8,13 +8,10 @@ The charity & donation section will be available, up and running as soon as we a
 
 ### List of potential receivers
 
-{% embed url="https://www.unicef.org/innovation/stories/unicef-cryptofund" %}
+[**UNICEF**](https://www.unicef.org/innovation/stories/unicef-cryptofund)
 
-{% embed url="https://cryptofund.unicef.io/receive" %}
+[**SIGNAL MESSENGER**](https://signal.org/donate/#cryptocurrency)
 
-{% embed url="https://signal.org/donate/#cryptocurrency" %}
+[**SAVE THE CHILDREN**](https://www.savethechildren.org)
 
-{% embed url="https://www.savethechildren.org/" %}
-
-{% embed url="https://www.thegivingblock.com/donate-bitcoin" %}
-
+[**THE GIVING BLOCK**](https://www.thegivingblock.com/donate-bitcoin)
