@@ -20,8 +20,8 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 * [x] Looking for partners & collaborators
 * [x] Expansion on web3 applications, pool, tickers, blockchain connector
 
+<hr/>
 
-#
 ### [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) 2022Q2-2022Q3
 ![Babylonia Crowdsale #1 presentation](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%231_05_900px.png)
 
@@ -44,8 +44,8 @@ We funded the project ourselves until now, and running low on money has taught u
 * [x] Extras: Updates main page 3D model
 * [x] Extras: Unique and unified UI design in whole babylonia.app pages
 
+<hr/>
 
-#
 ### Beta Launch 2022Q3-2022Q4
 
 * [ ] Last phase performance analysis and updating the roadmap
@@ -56,7 +56,8 @@ We funded the project ourselves until now, and running low on money has taught u
 * [ ] Starting the IPO Project
 * [ ] Starting the SHOP platform
 
-#
+<hr/>
+
 ### Crowdsale #2 2022Q3-2022Q4
 ![Babylonia Crowdsale #2 Presentation](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%232_05_900px.png)
 
@@ -68,7 +69,8 @@ We funded the project ourselves until now, and running low on money has taught u
 * [ ] Security audits of smart contracts of CHIP (CHP) & CREDIT (CRD) tokens
 
 
-#
+<hr/>
+
 ### Open Market 2022Q4-2022Q1
 
 * [ ] Conversion of BABY to BABY V2
@@ -77,7 +79,8 @@ We funded the project ourselves until now, and running low on money has taught u
 * [ ] Setting the open market price at $0.04
 
 
-#
+<hr/>
+
 ### Main Launch 2023Q1-2022Q2
 
 * [ ] Deploying the minting contracts
@@ -85,7 +88,7 @@ We funded the project ourselves until now, and running low on money has taught u
 * [ ] CHIP (CHP) token airdrops implementation
 * [ ] Starting the Games, 1\ Lottery & 2\ Roulette with CHIP (CHP) & CREDIT (CRD)
 
-
+<hr/>
 
 ### Expansion Plan I 2023Q1-2023Q4
 
