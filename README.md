@@ -62,7 +62,7 @@ The short answer is no. We try to be innovating and bring new staff all the time
 
 ### Can babylonia.app be cloned?
 
-<img width="800" alt="ClonING chamber" src="https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/humancloning-01.jpg">
+<img width="800" alt="Cloning chamber" src="https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/humancloning-01.jpg">
 
 
 Yes but partially. The appearance and business model and functions can be copied, but it would consider as intellectual property theft. However, we believe the soul of our running system will not be clonable. We are intended in the running a fair and transparent gaming and gambling platform while paying complete attention to the players, visitors and gamers. We focus on a fair distribution of profits while keeping all parties satisfied and entertained. In short, good deeds and strong roots and clear conscience. The body can be cloned, but not what is inside your heart.
