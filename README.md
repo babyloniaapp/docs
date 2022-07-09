@@ -49,7 +49,10 @@ Babylonia is a private entity, the government is autonomous and runs on démarch
 
 ### Is babylonia.app just another clone?
 
-![Cloned Goats](.gitbook/assets/Clones_goats.jpg)
+
+<img width="800" alt="Cloned goats" src="https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/Clones_goats.jpg">
+
+
 
 
 
