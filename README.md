@@ -1,6 +1,6 @@
 # ⚡ Genesis: How everything started
 
-<img width="800" alt="Babylonia Whole Picture" src="https://github.com/babyloniaapp/docs/blob/3aa3ee46832c23fa581d4095b8b100c16e671a74/assets/images/SLIDES_MainBabylonia_280322_1920x1920.png">
+<img width="800" alt="Babylonia Whole Picture" src="https://raw.githubusercontent.com/babyloniaapp/docs/3aa3ee46832c23fa581d4095b8b100c16e671a74/assets/images/SLIDES_MainBabylonia_280322_1920x1920.png">
 
 
 ### What is babylonia.app
