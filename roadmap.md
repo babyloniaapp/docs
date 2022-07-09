@@ -2,8 +2,11 @@
 # 🚀 Roadmap
 
 ![](.gitbook/assets/SLIDES\_ROADMAP\_003\_2000x1000.png)
-##
+
 The Babylonia roadmap is a guide that describes the steps we need to take in order to reach our project goals. It's a plan of action that lines up our project's short-term and long-term goals, and we outline how they will be achieved. We start the project with an "Alpha Stage", which is consisted of initial planning, launching of the website, preparing the smart contracts of the token and "[Crowdsale #1](https://pool.babylonia.app/Crowdsale1)", and developing the phase I of the gaming platform. After the crowdfunding phases, we begin to testing the integration of tokenomics into the gaming platform, that stage is called "Beta Launch". The roadmap will be updated as the project proceeds, we might add extra steps to achieve the next milestone.
+
+<hr/>
+
 ### Alpha Stage 2021Q4-2022Q1
 
 * [x] Publishing the website
@@ -23,6 +26,7 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 <hr/>
 
 ### [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) 2022Q2-2022Q3
+
 ![Babylonia Crowdsale #1 presentation](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%231_05_900px.png)
 
 ~~**We kick off the project in Q1 of 2022 with a public crowdfunding**~~ The Crowdsale #1 has been delayed two times, due to lack of potential investors, also unfavorable market condition, it is now set to be on ~~1/May/2022~~ 15/June.2022, 10% of total BABY tokens will be available to buy. Most of [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) fund generation will be spent on development of the project games and platform.
@@ -59,6 +63,7 @@ We funded the project ourselves until now, and running low on money has taught u
 <hr/>
 
 ### Crowdsale #2 2022Q3-2022Q4
+
 ![Babylonia Crowdsale #2 Presentation](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%232_05_900px.png)
 
 * [ ] Allocating from sales to collateral&#x20;
