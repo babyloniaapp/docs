@@ -69,7 +69,8 @@ In PBTM system, we have more support and backing for **BABY Token**, also collat
 
 ### BABY Token distribution
 
-![Token Distribution of BABY Token](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_TOKENDISTRIBUTION_003_900px.png)
+<img width="800" alt="Token Distribution of BABY Token" src="https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_TOKENDISTRIBUTION_003_900px.png">
+
 
 Let's talk about the BABY Token distribution model. We have studied tokenomics of many second layer and DeFi projects, we concluded the release period of 2-3 years for all the 888 m tokens. Forty percent of the token will be assigned to the internal project requirements and 60% will be distributed to the public by Crowdsale events and two years of stacking and yield farming. We are not a believer of timed-locked for liquidity or vested wallets, as we have seen times and times over, frauds find a workaround to scam and dump the projects for profits.
 
