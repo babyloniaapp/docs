@@ -37,13 +37,13 @@ We funded the project ourselves until now, and running low on money has taught u
 * [x] Developing Media platforms, web3 integration + web2 --> web3 media + podcast player
 * [x] Developing NFT platform --> creating NFT collections + web3 integration
 * [ ] Deploying the liquid pairs and starting pre-minting on BSC testnet --> postponed to 2022Q4
-* [ ] Starting beta-test of the Games 1\ Loterry&#x20; --> postponed to 2022Q4
+* [ ] Starting beta-test of the Games 1\ Lottery --> postponed to 2022Q4
 * [x] Website visual updates + preparations for [Crowdsale #1](https://pool.babylonia.app/Crowdsale1)
 * [x] Deployments of the Games website pages on new VPS hosting
 * [ ] Games server deployments --> postponed to 2022Q4
 * [x] Creating media project + web3 integration --> postponed to 2022Q4
 * [x] Kicking off the NFT project --> the project has been started --> in progress --> will launch in July-August 2022
-* [ ] Kicking off the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) ~~with~~/without partners
+* [x] Kicking off the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) ~~with~~/without partners
 * [X] Buying collaterals simultaneously with the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) --> failed to accomplish
 * [x] Extras: Updates main page 3D model
 * [x] Extras: Unique and unified UI design in whole babylonia.app pages
@@ -66,7 +66,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 ![Babylonia Crowdsale #2 Presentation](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%232_05_900px.png)
 
-* [ ] Allocating from sales to collateral&#x20;
+* [ ] Allocating from sales to **collateral**
 * [ ] Starting the marketing campaign phase II
 * [ ] Hiring team members: 1\ web-developer backend, 2\ web-developer frontend, 3\ blockchain developer security, 4\ full-time social media promoter
 * [ ] Starting the Games 2\ Roulette with BUSD, BNB on BSC
@@ -80,7 +80,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 * [ ] Conversion of BABY to BABY V2
 * [ ] Starting the process of swapping BABY to BABY V2
-* [ ] Deploying the liquidity pairs on the Pancakeswap / BSC chain starting with BABY - BNB & BABY - BUSD
+* [ ] Deploying the liquidity pairs on the Pancakeswap / BSC chain, starting with BABY – BNB & BABY - BUSD
 * [ ] Setting the open market price at $0.04
 
 
@@ -97,8 +97,8 @@ We funded the project ourselves until now, and running low on money has taught u
 
 ### Expansion Plan I 2023Q1-2023Q4
 
-* [ ] Migration to the city base architecture, modular and independent&#x20;
+* [ ] Migration to the city base architecture, modular and independent
 * [ ] Selling lands, structure, and buildings
 * [ ] Starting of Casinos and entertainment centers
-* [ ] Introduction of private ownership&#x20;
+* [ ] Introduction of private ownership
 * [ ] Implementation of 3rd party games and application
