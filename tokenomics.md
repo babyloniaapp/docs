@@ -86,7 +86,8 @@ The Crowdsale #1 revenue generation will be distributed as: Development Team 35%
 
 ---
 
-![Crowdsale #2 Distribution](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%232_distri_002_900px.png)
+<img width="800" alt="Crowdsale #2 Distribution" src="https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%232_distri_002_900px.png">
+
 
 **Crowdsale #2:** 5% equal to 44,444,444 - SP: $0.02 proportionally -->Unsold pre-sale will be transferred to Open Market Launch.
 
