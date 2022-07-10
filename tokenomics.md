@@ -27,7 +27,8 @@ FantomICO1M2: 0x84b1ef16C1461B7864a611925FbF31736f924a40 <br/>
 
 ---
 
-![Overview of BABYLONIA Tokens](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_TOKEN_010_900px.png)
+<img width="800" alt="Overview of BABYLONIA Tokens" src="https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_TOKEN_010_900px.png">
+
 
 **How the system works? Let's dive in!**
 ##
@@ -76,7 +77,8 @@ Let's talk about the BABY Token distribution model. We have studied tokenomics o
 
 ---
 
-![Crowdsale #1 Distribution](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%231_distri_002_900px.png)
+<img width="800" alt="Crowdsale #1 Distribution" src="https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%231_distri_002_900px.png">
+
 
 **Crowdsale #1:** 10% equal to 88,888,888 - SP: $0.01 -->Unsold quantity will be transferred to second pre-sale&#x20;
 
