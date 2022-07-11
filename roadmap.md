@@ -64,7 +64,9 @@ We funded the project ourselves until now, and running low on money has taught u
 
 ### Crowdsale #2 2022Q3-2022Q4
 
-![Babylonia Crowdsale #2 Presentation](https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%232_05_900px.png)
+<img width="900" alt="Babylonia Crowdsale #2 presentation" src="https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%232_07_1200px.png">
+
+
 
 * [ ] Allocating from sales to **collateral**
 * [ ] Starting the marketing campaign phase II
@@ -102,3 +104,8 @@ We funded the project ourselves until now, and running low on money has taught u
 * [ ] Starting of Casinos and entertainment centers
 * [ ] Introduction of private ownership
 * [ ] Implementation of 3rd party games and application
+
+
+
+
+updated 07/July/2022
