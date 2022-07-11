@@ -7,7 +7,8 @@ Instagram: [@AppBabylonia](https://www.instagram.com/appbabylonia/) </br>
 Telegram: [General Chat](https://t.me/babyloniageneralchat)</br>
 Discord: [Babylonia Server](https://discord.gg/Pe5ZUTnHPS)</br>
 Reddit: [Babylonia Application](https://www.reddit.com/r/BabyloniaApplication/)</br>
-
+GitHub: [babyloniaapp](https://github.com/babyloniaapp)</br>
+Medium: [@appbabylonia](https://medium.com/@appbabylonia)
 
 ## Publication
 Medium: [@appbabylonia](https://medium.com/@appbabylonia)
