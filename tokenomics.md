@@ -5,11 +5,15 @@
 
 There are 3 main tokens on **Babylonia**. **BABY (BABY), CHIP(CHP)** and **CREDIT (CRD).  BABY** is the main token of the platform, hard-capped to 888,888,888, mintable and partially backed by collaterals. CHIP & CREDIT are functional tokens, can be used only in babylonia.app, they are not hard-capped, cannot be minted by public.&#x20;
 
-Tokens format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom, the Ethereum and Avalanche expansions are also on the way. The BABY token will be bridged between the blockchains, maintaining the total hard cap, will be distributed proportionally to the performance & demand of network. As the BSC transaction fee getting more expensive due to increase in price of BNB, we gradually move toward Polygon & Fantom.
+Tokens format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom, the Ethereum, and Avalanche expansions are also on the way. The BABY token will be bridged between the blockchains, maintaining the total hard cap, will be distributed proportionally to the performance & demand of network. As the BSC transaction fee getting more expensive due to increase in price of BNB, we gradually move toward Polygon & Fantom.
 
 
-**BABY Token (BABY) address: 0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a**
 
+## Listings
+CoinGecko: [Babylonia](https://www.coingecko.com/en/coins/babylonia)</br>
+
+## Addresses
+**BABY Token (BABY) address: 0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a** </br>
 BABY BNB: 0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a <br/>
 https://bscscan.com/address/0xa4e26bd6dcba9021dcd3a1159ba52e97cd770b8a <br/>
 BNBICO1M1: 0xE4CbCD4064B86960719CBF1C0703de3a0DD903F7 <br/>
