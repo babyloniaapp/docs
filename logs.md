@@ -2,17 +2,20 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
-12.07.22 - Today the $BABY token got listet on the [CoinGecko](https://www.coingecko.com/en/coins/babylonia).<br/>
+
+12.07.22 - Today the $BABY token got listed on the [CoinGecko](https://www.coingecko.com/en/coins/babylonia).<br/>
 12.07.22 - We began working on UI design and web3 connectivity of NFT page.<br/>
 
 ---
 
-09.07.22 - The documents are getting updated, some of them are not valid anymore and we created them before the platform goes live.<br/>
+09.07.22 - The documents are getting updated, some of them are not valid anymore, and we created them before the platform goes live.<br/>
 
 ---
 
 07.07.22 - We will be testing the NFT contract during the weekend on the Polygon network, devs are busy with the last touches.<br/>
 07.07.22 - Tomorrow we will be deploying the new document server on the website, during the next week the transition from GitBook to our server will be completed.<br/>
+
+
 
 ---
 
