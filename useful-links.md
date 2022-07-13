@@ -12,6 +12,9 @@ Medium: [@appbabylonia](https://medium.com/@appbabylonia)</br>
 
 ## Listing
 CoinGecko: [Babylonia](https://www.coingecko.com/en/coins/babylonia)</br>
+CoinMarketCap: [Babylonia](https://coinmarketcap.com/currencies/babylonia)</br>
+
+
 
 ## Publication
 Medium: [@appbabylonia](https://medium.com/@appbabylonia)
