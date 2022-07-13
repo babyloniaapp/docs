@@ -4,6 +4,9 @@
 
 
 13.07.22 - Today team pushed an update on the NFT page, the web3 wallet connect, and top menus are identical with the pool page.<br/>
+12.07.22 - Today the $BABY token got listed on the [CoinMarketCap](https://coinmarketcap.com/currencies/babylonia/).<br/>
+
+
 
 ---
 
