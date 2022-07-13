@@ -2,7 +2,8 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
-13.07.22 - Today team pushed an update on the NFT page, the web3 wallet connect and top menues are idenential with the pool page.<br/>
+
+13.07.22 - Today team pushed an update on the NFT page, the web3 wallet connect, and top menus are identical with the pool page.<br/>
 
 ---
 
