@@ -2,6 +2,9 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+14.07.22 - Team refactored and reorganized the POOL page codes and files yesterday.<br/>
+
+---
 
 13.07.22 - Today team pushed an update on the NFT page, the web3 wallet connect, and top menus are identical with the pool page.<br/>
 
