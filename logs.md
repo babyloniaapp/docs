@@ -2,6 +2,11 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+
+15.07.22 - The ending time of Crowdsale #1 of BABY token changed to 15.08.2022.<br/>
+
+---
+
 14.07.22 - Team refactored and reorganized the POOL page codes and files yesterday.<br/>
 
 ---
