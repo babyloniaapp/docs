@@ -2,6 +2,10 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+17.07.22 - Team is working on the NFT UI, the first preview will be ready on Monday.<br/>
+
+
+---
 
 15.07.22 - The ending time of Crowdsale #1 of BABY token changed to 15.08.2022.<br/>
 
