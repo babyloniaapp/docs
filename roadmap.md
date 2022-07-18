@@ -27,7 +27,7 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 
 ### Crowdsale #1 2022Q2-2022Q3
 
-<img width="900" alt="Babylonia Crowdsale #1 presentation" src="https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%231_07_1200px.png">
+<img width="900" alt="Babylonia Crowdsale #1 presentation" src="https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%231_08_900px.png">
 
 ~~**We kick off the project in Q1 of 2022 with a public crowdfunding**~~ The Crowdsale #1 has been delayed two times, due to lack of potential investors, also unfavorable market condition, it is now set to be on ~~1/May/2022~~ 15/June.2022, 10% of total BABY tokens will be available to buy. Most of [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) fund generation will be spent on development of the project games and platform.
 
