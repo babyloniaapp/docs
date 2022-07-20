@@ -1,5 +1,21 @@
+
 # 📊Monthly Updates
 Every month, we publish our monthly update and news of Babylonia platform on various forums and social media outlets. Monthly updates are a summarized version of content you can find in the logs section.
+
+
+## January.2022
+
+<img width="400" alt="Babylonia Monthly Updates March.2022 P1" src="https://user-images.githubusercontent.com/94221562/179917972-17cb4f77-a260-459b-afe7-991c218b8ae0.png"> <img width="400" alt="Babylonia Monthly Updates March.2022 P2" src="https://user-images.githubusercontent.com/94221562/179917967-4b1073fb-932f-4eb7-8f9b-782f82ad6647.png"> 
+
+<hr/>
+
+
+## February.2022
+
+<img width="400" alt="Babylonia Monthly Updates March.2022 P1" src="https://user-images.githubusercontent.com/94221562/179918010-d637951d-ff2b-4795-ab9f-abc272e1a890.png"> <img width="400" alt="Babylonia Monthly Updates March.2022 P2" src="https://user-images.githubusercontent.com/94221562/179918005-3fffacbe-7d5b-4c0a-82b6-9e9f9d2c528b.png"> 
+
+<hr/>
+
 
 ## March.2022
 
@@ -29,6 +45,3 @@ Every month, we publish our monthly update and news of Babylonia platform on var
 <img width="400" alt="Babylonia Monthly Updates June.2022 P1" src="https://user-images.githubusercontent.com/94221562/179912813-633afa29-791c-492a-ae21-fc309904eb63.png"> <img width="400" alt="Babylonia Monthly Updates June.2022 P2" src="https://user-images.githubusercontent.com/94221562/179915446-94b07bd5-5110-4b07-a7cf-67d03374587b.png"> 
 <img width="400" alt="Babylonia Monthly Updates May.2022 P3" src="https://user-images.githubusercontent.com/94221562/179912825-945ac8cd-cd26-4464-9a71-91ccbd4c4819.png"> <img width="400" alt="Babylonia Monthly Updates April.2022 P4" src="https://user-images.githubusercontent.com/94221562/179912829-ae8b5a32-6a35-4879-a07c-92ff084fbaf1.png">
 <img width="400" alt="Babylonia Monthly Updates May.2022 P5" src="https://user-images.githubusercontent.com/94221562/179912807-0660ee35-1af8-46d7-a25c-d47d3af8f31a.png"> <img width="400" alt="Babylonia Monthly Updates April.2022 P6" src="https://user-images.githubusercontent.com/94221562/179912801-f98e1e8d-52b2-44f2-9426-1d0aeb2c4a02.png">
-
-
-
