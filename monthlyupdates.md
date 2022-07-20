@@ -30,6 +30,5 @@ Every month, we publish our monthly update and news of Babylonia platform on var
 <img width="400" alt="Babylonia Monthly Updates May.2022 P3" src="https://user-images.githubusercontent.com/94221562/179912825-945ac8cd-cd26-4464-9a71-91ccbd4c4819.png"> <img width="400" alt="Babylonia Monthly Updates April.2022 P4" src="https://user-images.githubusercontent.com/94221562/179912829-ae8b5a32-6a35-4879-a07c-92ff084fbaf1.png">
 <img width="400" alt="Babylonia Monthly Updates May.2022 P5" src="https://user-images.githubusercontent.com/94221562/179912807-0660ee35-1af8-46d7-a25c-d47d3af8f31a.png"> <img width="400" alt="Babylonia Monthly Updates April.2022 P6" src="https://user-images.githubusercontent.com/94221562/179912801-f98e1e8d-52b2-44f2-9426-1d0aeb2c4a02.png">
 
-![Slides_babylonia_monthlyupdates_June22_900x1200_02]()
 
 
