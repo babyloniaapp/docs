@@ -2,6 +2,12 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+20.07.22 – Unfortunately web3 devs of second team could not complete the job, we had to hire a temp dev to carry on the project.<br/>
+20.07.22 – Team is busy with preparation of NFT offering, marketing plans and advertising campaigns.
+
+
+---
+
 17.07.22 - Team is working on the NFT UI, the first preview will be ready on Monday.<br/>
 
 
