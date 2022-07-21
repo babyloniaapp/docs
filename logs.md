@@ -2,8 +2,14 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+
+<img width="200" alt="NFT UI preview 01" src="https://user-images.githubusercontent.com/94221562/180179462-1c232355-f9bb-4adf-a46b-f3b715dc9b20.png">
+21.07.22 – The NFT UI is half-baked but preview is ready and live.<br/>
+
+---
+
 20.07.22 – Unfortunately web3 devs of second team could not complete the job, we had to hire a temp dev to carry on the project.<br/>
-20.07.22 – Team is busy with preparation of NFT offering, marketing plans and advertising campaigns.
+20.07.22 – Team is busy with preparation of NFT offering, marketing plans and advertising campaigns.<br/>
 
 
 ---
@@ -18,6 +24,7 @@
 ---
 
 14.07.22 - Team refactored and reorganized the POOL page codes and files yesterday.<br/>
+
 
 ---
 
