@@ -3,7 +3,7 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
 
-<img width="200" alt="NFT UI preview 01" src="https://user-images.githubusercontent.com/94221562/180179462-1c232355-f9bb-4adf-a46b-f3b715dc9b20.png">
+<img width="300" alt="NFT UI preview 01" src="https://user-images.githubusercontent.com/94221562/180179462-1c232355-f9bb-4adf-a46b-f3b715dc9b20.png">
 21.07.22 – The NFT UI is half-baked but preview is ready and live.<br/>
 
 ---
