@@ -2,6 +2,9 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+23.07.22 – We pushed another update on the NFT UI today. Team is testing contract functionality on the testnet.<br/>
+
+---
 
 <img width="300" alt="NFT UI preview 01" src="https://user-images.githubusercontent.com/94221562/180179462-1c232355-f9bb-4adf-a46b-f3b715dc9b20.png">
 21.07.22 – The NFT UI is half-baked but preview is ready and live.<br/>
