@@ -45,6 +45,8 @@ People who has contributed/collaborated/worked to/with/for the project:
 - Ju Tang, voice-over project, May/2022, [Upwork](https://www.upwork.com/freelancers/~013bfedb2ad6d429eb)
 - Afraz Malik, React UI, documents, May/2022-June/2022, [Upwork](https://www.upwork.com/freelancers/~01feceb3a9a20cfad5), [GitHub](https://github.com/afraz-malik)
 - Waleed Qureshi, smart contract, web3, React UI, June/2022, [GitHub](https://github.com/Waleed-Shafiq)
+- Shoaib Hassan, smart contract, web3, React UI, July/2022, [GitHub](https://github.com/Prince891028)
+
 
 
 
