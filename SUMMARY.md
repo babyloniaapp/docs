@@ -32,6 +32,7 @@
 * [📚 Learning](learning.md)
 * [📅 Logs](logs.md)
 * [📊 Monthly Updates](monthlyupdates.md)
+* [✌🏼 Short Stories](stories/shortstories.md)
 * [✌🏼 Team](team/team.md)
 * [❓ FAQ](faq.md)
 * [😎 Useful Links](useful-links.md)
