@@ -1,4 +1,3 @@
-
 # ✌🏼 Team
 
 I am Architect, me and my friend Bamzi started this after we have been scammed by a so called #DeFi #YieldFarming platform. We started this journey over a year ago. We had so many plans in mind, and also hurt by deceive and dark intentions of people with talent, so-called developers and programmers to con people, the community that are mostly less informed and most vulnerable. We said, “why are we not making a platform? It doesn't seem hard!!”, And I said “we make it right, we bring games, we provide real use cases, we offer transparency and honesty. Also, we make lots of money!”. So, we started gathering information and teaming up with professionals.
@@ -12,11 +11,11 @@ Soon after we get established, register the company in a crypto-friendly land, w
 <hr/>
 
 
-Jeremiah K. (Architect), CEO & Founder Roles: Investor, designer, strategies, documents writer, smart contracts, quality control, [Twitter](https://twitter.com/realarchitekt), [GitHub](https://github.com/babyloniaapp)
+**Jeremiah K.** (Architect), CEO & Founder Roles: Investor, designer, strategies, documents writer, smart contracts, quality control, [Twitter](https://twitter.com/realarchitekt), [GitHub](https://github.com/babyloniaapp)
 
-Dr. ALMA, CMO & Co-Founder Roles: Investor, strategies, marketing & promotions, NFT, [Twitter](https://twitter.com/DralmaEth)
+**Dr. ALMA**, CMO & Co-Founder Roles: Investor, strategies, marketing & promotions, NFT, [Twitter](https://twitter.com/DralmaEth)
 
-Kourosh T., CTO Roles: Managing technical team, programming backend & frontend, support & maintenance, [Twitter](https://twitter.com/KooroshTorabi), [GitHub](https://github.com/KooroshTorabi), [LinkedIn](https://www.linkedin.com/in/kooroshtorabi/)
+**Kourosh T.**, CTO Roles: Managing technical team, programming backend & frontend, support & maintenance, [Twitter](https://twitter.com/KooroshTorabi), [GitHub](https://github.com/KooroshTorabi), [LinkedIn](https://www.linkedin.com/in/kooroshtorabi/)
 
 People who has contributed/collaborated/worked to/with/for the project:
 
@@ -41,16 +40,15 @@ People who has contributed/collaborated/worked to/with/for the project:
 -   Raza Haider, 3D design, May/2022, [Upwork](https://www.upwork.com/freelancers/~019304ceee9fd8ee72), [GitHub](https://github.com/RazaZaidi2802)
 -   Santosh Singh, smart contract, Solana, audits, web3, May/2022-June/2022, [Upwork](https://www.upwork.com/freelancers/~0106ec17497965aa6e), [GitHub](https://github.com/santosh214)
 - Matthew Stewart, voice-over project, May/2022-Present, [Upwork](https://www.upwork.com/freelancers/~01cd0b37db7e52873f)
-- Aditya Singh, smart contract, audits, web3, May/2022-Present, [Upwork](https://www.upwork.com/freelancers/~01a404993d7099e5d2), [GitHub](https://github.com/Aadityakr003)
+- **Aditya Singh**, smart contract, audits, web3, May/2022-Present, [Upwork](https://www.upwork.com/freelancers/~01a404993d7099e5d2), [GitHub](https://github.com/Aadityakr003)
 - Ju Tang, voice-over project, May/2022, [Upwork](https://www.upwork.com/freelancers/~013bfedb2ad6d429eb)
 - Afraz Malik, React UI, documents, May/2022-June/2022, [Upwork](https://www.upwork.com/freelancers/~01feceb3a9a20cfad5), [GitHub](https://github.com/afraz-malik)
 - Waleed Qureshi, smart contract, web3, React UI, June/2022, [GitHub](https://github.com/Waleed-Shafiq)
 - Shoaib Hassan, smart contract, web3, React UI, July/2022, [GitHub](https://github.com/Prince891028)
 
 
-
-
+<hr/>
 
 Notes:
- 1. This list is gathered on 24.June.2022
- 2. The hyperlinks may get broken over the time (if member change the username or profiles),  and we will not maintain them for inactive members.
+1. This list is gathered on 24.July.2022
+2. The hyperlinks may get broken over the time (if member change the username or profiles), and we will not maintain them for inactive members.
