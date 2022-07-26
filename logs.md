@@ -2,6 +2,11 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+26.07.22 – The NFT UI is getting completed, we will push final update today.<br/>
+26.07.22 – We are going to deploy the NFT contract on the mainnet in the next fews days, the contract is ready and has been tested.<br/>
+
+---
+
 23.07.22 – We pushed another update on the NFT UI today. The team is testing contract functionality on the testnet.<br/>
 
 ---
