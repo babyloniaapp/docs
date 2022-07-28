@@ -15,4 +15,7 @@ we use **NFTs** for ~~two~~ three **purposes**:&#x20;
 3. As a collectable item, we offer limited our very own creation collections of NFTs, that can be traded in our Babylonia NFT market or through, future partners. Because of very limited number of NFTs, also spending lots of time and money in the process of creating of these arts, we expect them to offer great value in the future. 
 
 
+### PASS CARD BRONZE
+
+Polygon Contract: 0x428B03F37D3ECfc2e120ca8C8a80dA1DC77B4Fe1
 
