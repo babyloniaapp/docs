@@ -3,6 +3,9 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
 
+<img width="300" alt="NFT UI toggles" src="https://user-images.githubusercontent.com/94221562/181606333-1f659ed4-293b-4fe6-991c-381010078db0.png">
+28.07.22 – The NFT UI has new toggles.<br/>
+
 28.07.22 – The NFT contract of PASS CARD Bronze has been deployed on Polygon, and it is available on the [OpenSea](https://opensea.io/collection/babylonia).<br/>
 
 
