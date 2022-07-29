@@ -50,7 +50,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 <hr/>
 
-### Beta Launch 2022Q3-2022Q4
+### Beta Launch 2022Q4-2023Q1
 
 * [ ] Last phase performance analysis and updating the roadmap
 * [ ] Align the goals and assign the budget to the tasks as plan
@@ -62,7 +62,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 <hr/>
 
-### Crowdsale #2 2022Q3-2022Q4
+### Crowdsale #2 2022Q4-2023Q1
 
 <img width="900" alt="Babylonia Crowdsale #2 presentation" src="https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%232_07_1200px.png">
 
@@ -78,7 +78,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 <hr/>
 
-### Open Market 2022Q4-2022Q1
+### Open Market 2022Q4-2023Q1
 
 * [ ] Conversion of BABY to BABY V2
 * [ ] Starting the process of swapping BABY to BABY V2
@@ -88,7 +88,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 <hr/>
 
-### Main Launch 2023Q1-2022Q2
+### Main Launch 2023Q1-2023Q2
 
 * [ ] Deploying the minting contracts
 * [ ] Deploying the smart contracts of CHIP (CHP) & CREDIT (CRD) tokens
@@ -97,7 +97,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 <hr/>
 
-### Expansion Plan I 2023Q1-2023Q4
+### Expansion Plan I 2023Q2-2023Q4
 
 * [ ] Migration to the city base architecture, modular and independent
 * [ ] Selling lands, structure, and buildings
