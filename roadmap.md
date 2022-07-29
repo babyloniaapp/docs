@@ -11,8 +11,8 @@ The Babylonia roadmap is a guide that describes the steps we need to take in ord
 
 * [x] Publishing the website
 * [x] Publishing the documents on GitBook
-* [ ] Developing Games: 1\ Lottery --> postponed to after the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1)
-* [ ] Developing Games: 2\ Slow-Roulette --> postponed to 2022Q3-2022Q4
+* [ ] ~~Developing Games: 1\ Lottery~~ --> postponed to after the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1)
+* [ ] ~~Developing Games: 2\ Slow-Roulette~~ --> postponed to 2022Q3-2022Q4
 * [x] a Telegram channel deployment
 * [x] Presenting the website
 * [x] Marketing & promoting the website
@@ -108,4 +108,4 @@ We funded the project ourselves until now, and running low on money has taught u
 
 
 <hr/>
-updated 18/July/2022
+updated 29/July/2022
