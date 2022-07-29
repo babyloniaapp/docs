@@ -36,15 +36,15 @@ We funded the project ourselves until now, and running low on money has taught u
 * [x] Last month performance analysis and updating the roadmap
 * [x] Developing Media platforms, web3 integration + web2 --> web3 media + podcast player
 * [x] Developing NFT platform --> creating NFT collections + web3 integration
-* [ ] Deploying the liquid pairs and starting pre-minting on BSC testnet --> postponed to 2022Q4
-* [ ] Starting beta-test of the Games 1\ Lottery --> postponed to 2022Q4
+* [ ] ~~Deploying the liquid pairs and starting pre-minting on BSC testnet~~ --> postponed to 2022Q4
+* [ ] ~~Starting beta-test of the Games 1\ Lottery~~ --> postponed to 2022Q4
 * [x] Website visual updates + preparations for [Crowdsale #1](https://pool.babylonia.app/Crowdsale1)
 * [x] Deployments of the Games website pages on new VPS hosting
-* [ ] Games server deployments --> postponed to 2022Q4
+* [ ] ~~Games server deployments~~ --> postponed to 2022Q4
 * [x] Creating media project + web3 integration --> postponed to 2022Q4
-* [x] Kicking off the NFT project --> the project has been started --> in progress --> will launch in July-August 2022
+* [x] Kicking off the NFT project --> the project has been started --> in progress --> will launch in ~~July-~~ first week of August 2022
 * [x] Kicking off the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) ~~with~~/without partners
-* [X] Buying collaterals simultaneously with the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) --> failed to accomplish
+* [ ] ~~Buying collaterals simultaneously with the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1)~~ --> failed to accomplish
 * [x] Extras: Updates main page 3D model
 * [x] Extras: Unique and unified UI design in whole babylonia.app pages
 
