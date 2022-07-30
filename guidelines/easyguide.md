@@ -13,10 +13,21 @@ BABY token is available on BNB Chain, Polygon & Fantom network. The BABY Token c
 
 ## How to buy NFTs?
 
-Coming soon, NFT contracts are in preparation, will be available shortly after the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1).
+ 1. Go to nft.babylonia.app
+
+<img width="600" alt="NFT UI toggles" src="https://user-images.githubusercontent.com/94221562/181878968-00fdd7c0-407f-4115-8e4b-ebf24852dceb.png">
+
+ 2. The "PASS CARD BRONZE" is about to mint. Click on the “Mint Now” button.
+
+<img width="600" alt="NFT UI toggles" src="https://user-images.githubusercontent.com/94221562/181880196-00676e28-e2b8-4794-a493-30badc263dce.png">
+
+ 3. Click on the Connect Wallet if you have not already got connected.
+
+<img width="600" alt="NFT UI toggles" src="https://user-images.githubusercontent.com/94221562/181880473-3ac40e9d-d4be-40aa-86cf-b5de3a46ecb0.png">
+
+ 4. Choose the native token (MATIC, BNB or FTM) or BABY Token to use for minting. Minting with BABY Token give you extra discount on the minting fees. 
 
 
-![image](https://user-images.githubusercontent.com/94221562/181878968-00fdd7c0-407f-4115-8e4b-ebf24852dceb.png)
 
 
 ## How to use Babylonia media?
