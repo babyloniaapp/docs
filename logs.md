@@ -2,6 +2,10 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+30.07.22 – We fixed some minor problems with the UI layout of NFT page.<br/>
+30.07.22 – Team is testing the NFT minting UI to get ready for public opening.<br/>
+
+---
 
 <img width="300" alt="NFT UI toggles" src="https://user-images.githubusercontent.com/94221562/181606333-1f659ed4-293b-4fe6-991c-381010078db0.png">
 28.07.22 – The NFT UI has new toggles.<br/>
