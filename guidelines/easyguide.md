@@ -16,6 +16,9 @@ BABY token is available on BNB Chain, Polygon & Fantom network. The BABY Token c
 Coming soon, NFT contracts are in preparation, will be available shortly after the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1).
 
 
+![image](https://user-images.githubusercontent.com/94221562/181878968-00fdd7c0-407f-4115-8e4b-ebf24852dceb.png)
+
+
 ## How to use Babylonia media?
 
 1. Go to the media.babylonia.app or click on the MEDIA icon on the left side of the babylonia.app homepage.
