@@ -2,6 +2,10 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+31.07.22 - Discord invitation link has been updated: https://discord.gg/XJzdsJZayH
+
+---
+
 30.07.22 – We fixed some minor problems with the UI layout of NFT page.<br/>
 30.07.22 – Team is testing the NFT minting UI to get ready for public opening.<br/>
 
