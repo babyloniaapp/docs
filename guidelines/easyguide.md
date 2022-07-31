@@ -27,6 +27,10 @@ BABY token is available on BNB Chain, Polygon & Fantom network. The BABY Token c
 
  4. Choose the native token (MATIC, BNB or FTM) or BABY Token to use for minting. Minting with BABY Token give you extra discount on the minting fees. 
 
+<img width="300" alt="NFT UI toggles" src="https://user-images.githubusercontent.com/94221562/182015022-3399f2fc-e30a-4ffb-a67a-dee35ec08393.png">
+
+
+
 
 
 
