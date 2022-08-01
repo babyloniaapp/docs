@@ -45,10 +45,12 @@ People who has contributed/collaborated/worked to/with/for the project:
 - Afraz Malik, React UI, documents, May/2022-June/2022, [Upwork](https://www.upwork.com/freelancers/~01feceb3a9a20cfad5), [GitHub](https://github.com/afraz-malik)
 - Waleed Qureshi, smart contract, web3, React UI, June/2022, [GitHub](https://github.com/Waleed-Shafiq)
 - Shoaib Hassan, smart contract, web3, React UI, July/2022, [GitHub](https://github.com/Prince891028)
+- Muhammad Waqas, smart contract, web3, React UI, July/2022-Present,[Upwork](https://www.upwork.com/freelancers/~01feceb3a9a20cfad5),[GitHub](https://github.com/MuhammadWaqas4)
 
 
 <hr/>
 
 Notes:
-1. This list is gathered on 24.July.2022
+1. This list is gathered on 31. July.2022
 2. The hyperlinks may get broken over the time (if member change the username or profiles), and we will not maintain them for inactive members.
+3. You may verify all the information above, but visiting previous history of the members or freelancers on the GitHub or Upwork.
