@@ -2,6 +2,11 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+02.08.22 – The NFT launch is delayed for few days, the UI is not ready and team is working on implementing the Whitelisting.<br/>
+
+
+---
+
 31.07.22 - Discord invitation link has been updated: https://discord.gg/XJzdsJZayH
 31.07.22 - We hired a new web3 react UI developer to help us with the NFT development.
 
