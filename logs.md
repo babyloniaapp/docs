@@ -2,6 +2,11 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+
+03.08.22 – We are still working to fix NFT UI problems, should be ready by the weekend.<br/>
+
+---
+
 02.08.22 – The NFT launch is delayed for few days, the UI is not ready and team is working on implementing the Whitelisting.<br/>
 
 
