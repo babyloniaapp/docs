@@ -27,13 +27,17 @@ BABY token is available on BNB Chain, Polygon & Fantom network. The BABY Token c
 
  4. Choose the native token (MATIC, BNB or FTM) or BABY Token to use for minting. Minting with BABY Token give you extra discount on the minting fees. 
 
-<img width="300" alt="NFT UI toggles" src="https://user-images.githubusercontent.com/94221562/182015022-3399f2fc-e30a-4ffb-a67a-dee35ec08393.png">
 
- 5. If you choose to mint with the BABY Token, you need to allow the NFT contract to access your BABY Token. Click on the "**Approve**" button.
+<img height="150" alt="NFT UI toggles" src="https://user-images.githubusercontent.com/94221562/183073225-f16effb8-40b5-45cd-89e1-1becb1efdfd7.png"> <img height="150" alt="NFT UI toggles" src="https://user-images.githubusercontent.com/94221562/183072985-bf74415f-f22a-4219-9072-81474aac6a3a.png">
+
+ 5. Minting with BABY Token offers you a reduced price (3-7 %) vs. the native token. If you select to mint with the BABY Token, you need to allow the NFT contract to access your BABY Token. Click on the "**Approve**" button.
  
  6. Refresh your browser (F5 or Ctrl + F5) When the "**Approve**" is NOT available. Connect your MetaMask again.
+ 7. You may require to adjust the transaction gas fees for Polygon & Fantom network, as the MetaMask gas estimations are usually underpriced.
+ 8. If you choose to mint with the native token (MATIC, BNB or FTM) the NFT contract does not require extra spender permission, and you can mint the NFT(s) directly.
 
 
+<hr/>
 
 
 ## How to use Babylonia media?
