@@ -46,6 +46,7 @@ People who has contributed/collaborated/worked to/with/for the project:
 - Waleed Qureshi, smart contract, web3, React UI, June/2022, [GitHub](https://github.com/Waleed-Shafiq)
 - Shoaib Hassan, smart contract, web3, React UI, July/2022, [GitHub](https://github.com/Prince891028)
 - Muhammad Waqas, smart contract, web3, React UI, July/2022-Present,[Upwork](https://www.upwork.com/freelancers/~01feceb3a9a20cfad5),[GitHub](https://github.com/MuhammadWaqas4)
+- Vivian Kato, voice-over project, August/2022, [Upwork](https://www.upwork.com/freelancers/~01235a14ee714c98c4)
 
 
 <hr/>
