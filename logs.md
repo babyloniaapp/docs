@@ -2,6 +2,11 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+06.08.22 – The NFT UI got another last minute update yesterday, has a better compatibility with smaller screens.<br/>
+06.08.22 – We are aware that the captcha service and therefore email sending form is down, we are trying to fix it soon as devs got free time.<br/>
+
+---
+
 04.08.22 – The NFT UI is complete, the team is working on optimizations for the lower resolution monitors.<br/>
 04.08.22 – At the moment the NFT can be minted on desktop with the MetaMask, but soon the mobile version will be available.<br/>
 04.08.22 – The NFT Bronze private-sale + whitelisting is not happening on the Polygon, but we modified and reworked the smart contract and UI for the BNB chain.<br/>
