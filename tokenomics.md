@@ -10,7 +10,9 @@ Tokens format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom,
 
 
 ## Listings
+
 CoinGecko: [Babylonia](https://www.coingecko.com/en/coins/babylonia)</br>
+CoinMarketCap: [Babylonia](https://coinmarketcap.com/currencies/babylonia)</br>
 
 ## Addresses
 **BABY Token (BABY) address: 0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a** </br>
