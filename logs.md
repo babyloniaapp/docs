@@ -2,8 +2,7 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
-
-08.08.22 – The NFT UI menu has a new feature, redirecting My NFT to the OpenSea.io, but the patch is having problems and team is working to fix it ASAP.<br/>
+08.08.22 – The NFT UI menu has a new feature, redirecting My NFT to the OpenSea.io, but the patch is having problems and the team is working to fix it ASAP.<br/>
 08.08.22 – Our contact/Email form in NFT page is working again.<br/>
 08.08.22 – We kicked off our NFT PASS CARD BRONZE project yesterday, after two days NFTs will be offered on OpenSea too.<br/>
 08.08.22 – We paid two Instagram promoters and one on Twitter to do some advertising for us, which does not seem to be very successful.<br/>
