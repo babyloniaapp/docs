@@ -2,6 +2,12 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+08.08.22 – We kicked off our NFT PASS CARD BRONZE project yesterday, after two days NFTs will be offered on OpenSea too.<br/>
+08.08.22 – We paid two Instagram promoters and one on Twitter to do some advertising for us, which does not seem to be very successful.<br/>
+
+---
+
+
 06.08.22 – The NFT UI got another last minute update yesterday, has a better compatibility with smaller screens.<br/>
 06.08.22 – We are aware that the captcha service and therefore email sending form is down, we are trying to fix it soon as devs got free time.<br/>
 
