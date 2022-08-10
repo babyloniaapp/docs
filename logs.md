@@ -124,7 +124,7 @@
 
 ---
 
-04.07.22 - We are preparing our NFT contracts, but things running slowler now as we are on tighter budget.<br/>
+04.07.22 - We are preparing our NFT contracts, but things running slower now as we are on tighter budget.<br/>
 04.07.22 - Devs are busy with making our document pages ready to be hosted on our server soon.<br/>
 
 ---
