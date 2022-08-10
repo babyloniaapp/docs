@@ -2,6 +2,12 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+10.08.22 – We pushed an update on NFT UI in mobile, but work is still progressing, we try to make better.<br/>
+10.08.22 – Unfortunately, the promoting campaign was not successful, but we learned that most influencers and promoters are not real and fake, they try to boost their posts with fake likes, retweets and fake comments.<br/>
+
+
+---
+
 09.08.22 – The team is working on the NFT UI optimization in mobile screen.<br/>
 09.08.22 – The promotions on Twitter & Instagram is not going good as the designated promoters misrepresented themselves, most likely having much smaller audience.<br/>
 
