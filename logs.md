@@ -2,6 +2,14 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+<img width="500" alt="NFT UI toggles" src="https://user-images.githubusercontent.com/94221562/184472076-ee47664c-b29e-4a57-8097-4af9fb6554d6.png">
+13.08.22 – We got small visual update the front page, linking it to the NFT minting page and the voice over.<br/>
+13.08.22 - The team is assembeled to start loterry smart contracts this week. <br/>
+13.08.22 - Things are running slower in Babylonia, as we blew our August budget on the promotions and marketing and unfortunately I did not bring us any revenues. <br/>
+
+
+---
+
 10.08.22 – We pushed an update on NFT UI in mobile, but work is still progressing, we try to make better.<br/>
 10.08.22 – Unfortunately, the promoting campaign was not successful, but we learned that most influencers and promoters are not real and fake, they try to boost their posts with fake likes, retweets and fake comments.<br/>
 
