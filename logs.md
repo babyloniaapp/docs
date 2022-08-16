@@ -2,6 +2,10 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+16.08.22 – The team has started the lottery project, unfortunately one of smart contract devs became unresponsive again, this occurred more often with non-Upwork or Fiverr freelancers, that they tend not to adhere to the project schedule. <br/>
+
+
+---
 
 <img width="500" alt="NFT UI toggles" src="https://user-images.githubusercontent.com/94221562/184472076-ee47664c-b29e-4a57-8097-4af9fb6554d6.png">
 13.08.22 – We got a small visual update the front page, linking it to the NFT minting page and the voice-over.<br/>
