@@ -2,6 +2,11 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+<img width="500" alt="Crowdsale timer" src="https://user-images.githubusercontent.com/94221562/185555743-2f85efa9-e8e2-4d62-94e3-46605bfb5058.png">
+19.08.22 – We are aware the Crowdsale #1 timer does not correctly, we needed to update the time on the UI and the contract, our main dev is on vacation and we need to wait for couple of days.<br/>
+
+---
+
 16.08.22 – The team has started the lottery project, unfortunately one of smart contract devs became unresponsive again, this occurred more often with non-Upwork or Fiverr freelancers, that they tend not to adhere to the project schedule. <br/>
 
 
