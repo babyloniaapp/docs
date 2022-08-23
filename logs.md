@@ -2,6 +2,10 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+23.08.22 – We posted an add on Upwork as another dev stoped showing up, this happens more often in freelace type of work and low budget project like us. <br/>
+23.08.22 - Lottery contract development is going on, we are going to test first revision this weekend on the testnet. <br/>
+
+---
 
 20.08.22 – The lottery UI has been designed and handed over to the devs. <br/>
 20.08.22 – The contract of lottery is getting ready, we are working on the random number generator contract. <br/>
