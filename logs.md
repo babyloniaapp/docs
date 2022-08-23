@@ -2,7 +2,9 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
-23.08.22 – We posted an add on Upwork as another dev stoped showing up, this happens more often in freelace type of work and low budget project like us. <br/>
+
+
+23.08.22 – We posted an advertisement  on Upwork as another dev stopped showing up, this happens more often in freelance type of work and low budget project like us. <br/>
 23.08.22 - Lottery contract development is going on, we are going to test first revision this weekend on the testnet. <br/>
 
 ---
