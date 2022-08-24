@@ -2,6 +2,16 @@
 
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
+<hr/>
+
+
+
+<img width="500" alt="BSCSCAN BABY Token #1" src="https://user-images.githubusercontent.com/94221562/186331265-b834d541-7a98-46ca-a795-b0475110c0f6.png">
+<img width="500" alt="BSCSCAN BABY Token #1" src="https://user-images.githubusercontent.com/94221562/186331409-0fb88ff8-b46c-41e0-8a82-53df2f281742.png">
+
+24.08.22 – Finally we got BSCSCAN page of BABY Token updated. <br/>
+
+---
 
 
 23.08.22 – We posted an advertisement  on Upwork as another dev stopped showing up, this happens more often in freelance type of work and low budget project like us. <br/>
