@@ -55,7 +55,7 @@ We funded the project ourselves until now, and running low on money has taught u
 * [ ] Last phase performance analysis and updating the roadmap
 * [ ] Align the goals and assign the budget to the tasks as plan
 * [ ] Using purchased collaterals in yield-earning swaps for extra income
-* [ ] Starting the Games 1\ Lottery with BUSD, BNB on BSC
+* [ ] ~~Starting~~ Developing the Lottery smart contract ~~Games~~ 1\ Lottery with BUSD, BNB on ~~BSC~~BNB Chain
 * [ ] Starting beta-test of the Games 2\ Slow-Roulette
 * [ ] Starting the IPO Project
 * [ ] Starting the SHOP platform
