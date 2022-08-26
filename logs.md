@@ -4,7 +4,9 @@
 
 <hr/>
 
+26.08.22 – We still looking for a new developer to join lottery project, doing interviews on the Upwork. <br/>
 
+---
 
 <img width="500" alt="BSCSCAN BABY Token #1" src="https://user-images.githubusercontent.com/94221562/186331265-b834d541-7a98-46ca-a795-b0475110c0f6.png">
 <img width="500" alt="BSCSCAN BABY Token #1" src="https://user-images.githubusercontent.com/94221562/186331409-0fb88ff8-b46c-41e0-8a82-53df2f281742.png">
