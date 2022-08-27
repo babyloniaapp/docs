@@ -4,6 +4,12 @@
 
 <hr/>
 
+
+27.08.22 – The ending time of ICO contracts shiften to 15.September.22. <br/>
+27.08.22 – The ICO countdown has been removed from POOL Crowdsale page. <br/>
+
+---
+
 26.08.22 – We still looking for a new developer to join lottery project, doing interviews on the Upwork. <br/>
 
 ---
