@@ -17,6 +17,9 @@ Soon after we get established, register the company in a crypto-friendly land, w
 
 **Kourosh T.**, CTO Roles: Managing technical team, programming backend & frontend, support & maintenance, [Twitter](https://twitter.com/KooroshTorabi), [GitHub](https://github.com/KooroshTorabi), [LinkedIn](https://www.linkedin.com/in/kooroshtorabi/)
 
+- 🖼️**Aditya Singh**, Project Manager Roles: smart contract, NFT specialist , audits, web3, May/2022-Present, [Upwork](https://www.upwork.com/freelancers/~01a404993d7099e5d2), [GitHub](https://github.com/Aadityakr003)
+
+
 People who has contributed/collaborated/worked to/with/for the project:
 
 -   Philip T. (Bamzi), Co-Founding, Oct/2021-Jan/2022
@@ -40,7 +43,6 @@ People who has contributed/collaborated/worked to/with/for the project:
 -   📐Raza Haider, 3D design, May/2022, [Upwork](https://www.upwork.com/freelancers/~019304ceee9fd8ee72), [GitHub](https://github.com/RazaZaidi2802)
 -   💻Santosh Singh, smart contract, Solana, audits, web3, May/2022-June/2022, [Upwork](https://www.upwork.com/freelancers/~0106ec17497965aa6e), [GitHub](https://github.com/santosh214)
 -  🎙️Matthew Stewart, voice-over project, May/2022-Present, [Upwork](https://www.upwork.com/freelancers/~01cd0b37db7e52873f)
-- 🖼️**Aditya Singh**, smart contract, NFT specialist , audits, web3, May/2022-Present, [Upwork](https://www.upwork.com/freelancers/~01a404993d7099e5d2), [GitHub](https://github.com/Aadityakr003)
 -  🎙️Ju Tang, voice-over project, May/2022, [Upwork](https://www.upwork.com/freelancers/~013bfedb2ad6d429eb)
 -  💻Afraz Malik, React UI, documents, May/2022-June/2022, [Upwork](https://www.upwork.com/freelancers/~01feceb3a9a20cfad5), [GitHub](https://github.com/afraz-malik)
 -  💻Waleed Qureshi, smart contract, web3, React UI, June/2022, [GitHub](https://github.com/Waleed-Shafiq)
