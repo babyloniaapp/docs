@@ -17,8 +17,9 @@ Soon after we get established, register the company in a crypto-friendly land, w
 
 **Kourosh T.**, CTO Roles: Managing technical team, programming backend & frontend, support & maintenance, [Twitter](https://twitter.com/KooroshTorabi), [GitHub](https://github.com/KooroshTorabi), [LinkedIn](https://www.linkedin.com/in/kooroshtorabi/)
 
-- 🖼️**Aditya Singh**, Project Manager Roles: smart contract, NFT specialist , audits, web3, May/2022-Present, [Upwork](https://www.upwork.com/freelancers/~01a404993d7099e5d2), [GitHub](https://github.com/Aadityakr003)
+**Aditya Singh**, Project Manager Roles: smart contract, NFT specialist , audits, web3, May/2022-Present, [Upwork](https://www.upwork.com/freelancers/~01a404993d7099e5d2), [GitHub](https://github.com/Aadityakr003)
 
+<hr/>
 
 People who has contributed/collaborated/worked to/with/for the project:
 
