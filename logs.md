@@ -5,8 +5,8 @@
 <hr/>
 
 
-<img width="500" alt="FTMSCAN BABY Token #1" src="https://user-images.githubusercontent.com/94221562/187076366-51181047-7488-4e41-9333-7866a7451301.png">
-28.08.22 – The social profile of BABY Token got updated on FTMSCAN.com. <br/>
+<img width="500" alt="POLYSCAN BABY Token #1" src="https://user-images.githubusercontent.com/94221562/187076366-51181047-7488-4e41-9333-7866a7451301.png">
+28.08.22 – The social profile of BABY Token got updated on POLYSCAN.com. <br/>
 
 ---
 
