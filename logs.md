@@ -5,6 +5,11 @@
 <hr/>
 
 
+<img width="500" alt="FTMSCAN BABY Token #1" src="https://user-images.githubusercontent.com/94221562/187076366-51181047-7488-4e41-9333-7866a7451301.png">
+28.08.22 – The social profile of BABY Token got updated on FTMSCAN.com. <br/>
+
+---
+
 27.08.22 – The ending time of ICO contracts shiften to 15.September.22. <br/>
 27.08.22 – The ICO countdown has been removed from POOL Crowdsale page. <br/>
 
