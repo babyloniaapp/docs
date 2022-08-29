@@ -8,6 +8,7 @@
 <img width="400" alt="Pancakeswap BABY-BUSD LP #1" src="https://user-images.githubusercontent.com/94221562/187136204-39023d1a-a96d-43d3-9367-37dae825c452.png">
 29.08.22 – We started adding experimental liquidity on the DEX to monitor the events and reception. <br/>
 
+---
 
 <img width="500" alt="POLYSCAN BABY Token #1" src="https://user-images.githubusercontent.com/94221562/187076366-51181047-7488-4e41-9333-7866a7451301.png">
 28.08.22 – The social profile of BABY Token got updated on POLYSCAN.com. <br/>
