@@ -5,6 +5,11 @@
 <hr/>
 
 
+30.08.22 – The Presale #1 on BNB Chain & Polygon have been stopped since we deployed liquidity on Pancakeswap & Sushiswap. <br/>
+
+---
+
+
 <img width="400" alt="Pancakeswap BABY-BUSD LP #1" src="https://user-images.githubusercontent.com/94221562/187136204-39023d1a-a96d-43d3-9367-37dae825c452.png">
 29.08.22 – We started adding experimental liquidity on the DEX to monitor the events and reception. <br/>
 
