@@ -4,6 +4,12 @@
 
 <hr/>
 
+---
+
+<img width="500" alt="FTMSCAN BABY Token #1" src="https://user-images.githubusercontent.com/94221562/187509277-78b0d18d-cbf7-4fd0-a44f-a70d9e75c9b2.png">
+31.08.22 – The social profile of BABY Token got updated on FTMSCAN.com. <br/>
+
+---
 
 30.08.22 – The Presale #1 on BNB Chain & Polygon have been stopped since we deployed liquidity on Pancakeswap & Sushiswap. <br/>
 
