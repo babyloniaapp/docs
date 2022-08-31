@@ -5,6 +5,7 @@
 <hr/>
 
 ---
+31.07.22 - We hired a new solidity smart contract developer to help us with the lottery development.<br/>
 
 <img width="500" alt="FTMSCAN BABY Token #1" src="https://user-images.githubusercontent.com/94221562/187509277-78b0d18d-cbf7-4fd0-a44f-a70d9e75c9b2.png">
 31.08.22 – The social profile of BABY Token got updated on FTMSCAN.com. <br/>
