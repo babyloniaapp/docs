@@ -5,11 +5,12 @@
 <hr/>
 
 
----
+
 02.09.22 - Today the team is going to test the lottery contract on the testnet.<br/>
 02.09.22 - We got a budget and project funding problems, therefore things are running slower.<br/>
 
 ---
+
 31.08.22 - We hired a new solidity smart contract developer to help us with the lottery development.<br/>
 
 <img width="500" alt="FTMSCAN BABY Token #1" src="https://user-images.githubusercontent.com/94221562/187509277-78b0d18d-cbf7-4fd0-a44f-a70d9e75c9b2.png">
@@ -32,7 +33,7 @@
 
 ---
 
-27.08.22 – The ending time of ICO contracts shiften to 15.September.22. <br/>
+27.08.22 – The ending time of ICO contracts shifted to 15. September.22. <br/>
 27.08.22 – The ICO countdown has been removed from POOL Crowdsale page. <br/>
 
 ---
