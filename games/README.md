@@ -1,7 +1,8 @@
-# 🎰 Games: Tranditional & Blockchain Base
+# 🎰 Games: Blockchain Based
 The babylonia.app is a gaming platform where people can play for fun, or gamble and bet. The payment and rewarding transactions are carried out by the selected cryptocurrencies. Two types of games will be offered: 
-- Traditional web2 based games, using mostly APIs from 3rd party game studios and game aggregators.
-- Blockchain based games that uses blockchain random generation numbers to create odds and game of chances.
+
+- Blockchain based games that uses mainly blockchain random generation numbers to create odds and game of chances.
+- Traditional web2 + smartcontract based games, using mostly APIs from 3rd party game studios and game aggregators.
 
 <hr/>
 
