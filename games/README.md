@@ -13,12 +13,11 @@ The GAMES I (phase 1) is under development at the moment, hopefully 3 games of S
 <hr/>
 
 
-## GAMES Phase II
+## GAMES II
 
 
-<hr/>
 
-## List of the games
+### List of the games
 
 ![Screenshot of the game.babylonia](https://raw.githubusercontent.com/babyloniaapp/docs/main/.gitbook/assets/Screenshot_GAME_preview_01.png)
 
