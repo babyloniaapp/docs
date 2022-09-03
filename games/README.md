@@ -6,9 +6,9 @@ The babylonia.app is a gaming platform where people can play for fun, or gamble 
 
 <hr/>
 
-## GAMES Phase I
+## GAMES I
 
-The phase I (GAMES I) is under development at the moment, hopefully 3 games of Slow Roulette, Classic Slot and Lottery will be ready for the main launch in late Q2-Q3 2022. These games will be running on the blockchain and using smart contracts for governing. 
+The GAMES I (phase 1) is under development at the moment, hopefully 3 games of Slow Roulette, Classic Lottery & Mega Jackpot will be ready for the main launch in late Q2-Q3 2022. These games will be running on the blockchain and using smart contracts for governing.
 
 <hr/>
 
