@@ -1,6 +1,5 @@
 # Tic Tac Toe
 
-~~Slow-Bingo is planned for GAME II phase of project, in 2022Q3 and afterwards.~~
 After the founder's meeting with crypto professionals on 3. Sep.2022, we have decided to simplify the platform, clean up the clutter and postpone or cancel some projects, Tic Tac Toe is currently canceled.
 
 It is an old and simple 2-player game, that anyone can learn quickly how to play and win. The classic game is played on a grid that's 3 squares by 3 squares. The dice will determine who to start. First to start is X, and the opponent is O. Players take turns putting their marks in empty squares. The first player to get 3 marks in a row (up, down, across, or diagonally) is the winner. When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie. On a 5x5 grid, the game gets more exciting and requires extra attention. The first player who gets 4 marks in a row is the winner. The game can be played vs another gamer or a computer bot. Each time the player wins a game vs a bot, the game gets harder to win. Also, betting vs. bot is limited. For the tournaments, the designated grid is to be 7x7. The game will be played in a time-restricted manner. The winner proceeds to the next round. Most up above bla bla bla has been taken from the Wikipedia, don't blame for plagiarism.
