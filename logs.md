@@ -4,7 +4,9 @@
 
 <hr/>
 
+04.09.22 - After analyzing our roadmap, goals and accomplished milestones, also consulting with few crypto professionals, we have decided to focus more on the smart contract games than traditional web2 gambling & casino games. Therefore, we will be updating our documents to be aligned with the project new goals..<br/>
 
+---
 
 02.09.22 - Today the team is going to test the lottery contract on the testnet.<br/>
 02.09.22 - We got a budget and project funding problems, therefore things are running slower.<br/>
