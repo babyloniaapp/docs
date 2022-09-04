@@ -18,6 +18,12 @@ The GAMES I (phase 1) is under development at the moment, three games of Slow Ro
 
 ### Slow Roulette
 
+
+### BabyFOMO
+
+
+### Vanity
+
 <hr/>
 
 
