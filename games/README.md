@@ -1,19 +1,19 @@
-# 🎰 Games: Blockchain Based
+# 🎲 Games: Blockchain Based
 The babylonia.app is a gaming platform where people can play for fun, or gamble and bet. The payment and rewarding transactions are carried out by the selected cryptocurrencies. Two types of games will be offered: 
 
-- Blockchain based games that uses mainly blockchain random generation numbers to create odds and game of chances.
-- Traditional web2 + smartcontract based games, using mostly APIs from 3rd party game studios and game aggregators.
+- Games I: Blockchain based games that uses mainly blockchain random generation numbers to create odds and game of chances.
+- Games II: Traditional web2 + smartcontract based games, using mostly APIs from 3rd party game studios and game aggregators.
 
 <hr/>
 
 ## GAMES I
 
-The GAMES I (phase 1) is under development at the moment, hopefully 3 games of Slow Roulette, Classic Lottery & Mega Jackpot will be ready for the main launch in late Q2-Q3 2022. These games will be running on the blockchain and using smart contracts for governing.
+The GAMES I (phase 1) is under development at the moment, three games of Slow Roulette, Classic Lottery & Mega Jackpot will be ready for the main launch in late Q3-Q4 2022. These games will be running on the blockchain and using smart contracts for governing.
 
 <hr/>
 
 
-## GAMES II
+## 🎰GAMES II
 
 
 
