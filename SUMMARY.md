@@ -4,14 +4,11 @@
 * Products and Services
   * [🎰 Games: Tranditional & Blockchain Base](games/README.md)
     * [Blockchain Roulette](games/blockchain-roulette.md)
-    * [Slot](games/slot/README.md)
     * [Dice Games](games/slot/dice-games.md)
     * [Lottery](games/lottery.md)
-    * [Bingo](games/bingo.md)
     * [BabyFOMO](games/babyfomo.md)
     * [Vanity](games/vanity.md)
-    * [Tic Tac Toe](games/tic-tac-toe.md)
-    * [Dots and Boxes](games/dots-and-boxes.md)
+
   * [🏟 Betting](betting/README.md)
     * [🏉 Betting on sport & esport events](betting/betting-on-sport-and-esport-events.md)
     * [📈 Market Prediction](betting/market-prediction.md)
