@@ -4,7 +4,11 @@
 
 <hr/>
 
-04.09.22 - After analyzing our roadmap, goals and accomplished milestones, also consulting with few crypto professionals, we have decided to focus more on the smart contract games than traditional web2 gambling & casino games. Therefore, we will be updating our documents to be aligned with the project new goals..<br/>
+05.09.22 – Last hired dev does not live to the expectations, therefore we're still looking for a new developer to join lottery project, doing interviews on the Upwork. <br/>
+
+---
+
+04.09.22 - After analyzing our roadmap, goals and accomplished milestones, also consulting with few crypto professionals, we have decided to focus more on the smart contract games than traditional web2 gambling & casino games. Therefore, we will be updating our documents to be aligned with the project new goals.<br/>
 
 ---
 
