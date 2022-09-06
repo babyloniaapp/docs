@@ -41,21 +41,6 @@ FantomICO1M2: 0x84b1ef16C1461B7864a611925FbF31736f924a40 <br/>
 
 **How the system works? Let's dive in!**
 ##
-### Chip (CHP)&#x20;
-
-Purpose: Utility token to be used playing or using babylonia.app services&#x20;
-
-Total supply: not capped Fixed ratio vs. BUSD or USDC or USDT of : 1000 CHP = 1 USD Can be purchased directly or be airdropped with staking PBTM Daily airdrops to the PBTM holders: airdropped CHP can not be sold without playing at least a game and winning Credits (CRD).
-
-Airdrops formula: fixed amount + proportional to the BABY Token amount, airdrops do not add up, there will not be an airdrop if the player did not use yesterday airdrop. Air drop mechanism: either by creating intermediary + auto-expiring token or algorithmic logic-check. Everything is under development.
-##
-### Credit (CRD)&#x20;
-
-Purpose: Utility token to be used cashing out or converting to other tokens The wining prize is paid in Credit (CRD) & Credit can be converted to Chip (CHP) to ensure continues game playing
-
-Total supply: not capped fixed ratio vs. BUSD or USDC or USDT of : 1000 CHP = 1 USD Can not be minted, can not be purchased, can be swapped with CHP,  BABY token or USD.  There is a limit on the amount that can be cashed out, time-limit + cashing-out-limit Large swaps and cash-outs must be verified by admins. There will be an anti-cheating mechanism monitoring each player transactions at the end of each session to verify input and output of the tokens.
-We not believe and trust the automation without proper scrutiny and examination. The main problem on the DeFi today is an absurd number of exploits, hacks, and frauds due to overestimation and trust to the code. In **Babylonia**, we believe that there is not a golden solution to everything, and the path to automation must be traveled slowly and carefully. Shortly, we do things mostly manually. So expect to hear more accountability and responsibilities and less “oops there was a bug in the code!”
-##
 
 ### BABY Token 
 The **BABY token** is the native token of the **Babylonia.app** platform.  It is an ERC-20 format token, and it is available on multiple chains such as BNB Chain (BSC), Ethereum, Avalanche (AVAX), Polygon and Fantom.  The BABY token protocol is designed to be fully decentralized, using a trading model known as an automated liquidity protocol. The liquidity pool will be introduced in the **OPEN MARKET** phase of roadmap development.
@@ -112,3 +97,16 @@ Expansion rate will proportional to the market demand, less demand will reduce t
 ---
 
 Let's talk about the rest **30% of BABY tokens**. 10% is designated to the founders, will be unlocked a year after the main launch. 7% goes to the marketing and sales activities. 5% is for the licensing, insurance and security audits. And finally, 11% is assigned to the development and team buybacks, burning and backing Aside from creating an entertaining platform that everyone have fun and spend a good time, the main goal of babylonia.app is to reward tokens holders, as the most important part of this platform. Without support of citizens of **babylonia.app** we never could develop the platform as effectively. So, embedded into the system, every dollar of income of the platform is being shared with PBTM tokens holders. The accurate formula of taking rewards, buyback and collateral adding feature will be released soon. Stay tuned and keep looking up.
+
+### Chip (CHP) --> Postponed
+~~Purpose: Utility token to be used playing or using babylonia.app services
+Total supply: not capped Fixed ratio vs. BUSD or USDC or USDT of : 1000 CHP = 1 USD Can be purchased directly or be airdropped with staking PBTM Daily airdrops to the PBTM holders: airdropped CHP can not be sold without playing at least a game and winning Credits (CRD).
+Airdrops formula: fixed amount + proportional to the BABY Token amount, airdrops do not add up, there will not be an airdrop if the player did not use yesterday airdrop. Air drop mechanism: either by creating intermediary + auto-expiring token or algorithmic logic-check. Everything is under development.~~
+##
+### Credit (CRD) --> Postponed
+~~Purpose: Utility token to be used cashing out or converting to other tokens The wining prize is paid in Credit (CRD) & Credit can be converted to Chip (CHP) to ensure continues game playing
+Total supply: not capped fixed ratio vs. BUSD or USDC or USDT of : 1000 CHP = 1 USD Can not be minted, can not be purchased, can be swapped with CHP,  BABY token or USD.  There is a limit on the amount that can be cashed out, time-limit + cashing-out-limit Large swaps and cash-outs must be verified by admins. There will be an anti-cheating mechanism monitoring each player transactions at the end of each session to verify input and output of the tokens.
+We not believe and trust the automation without proper scrutiny and examination. The main problem on the DeFi today is an absurd number of exploits, hacks, and frauds due to overestimation and trust to the code. In **Babylonia**, we believe that there is not a golden solution to everything, and the path to automation must be traveled slowly and carefully. Shortly, we do things mostly manually. So expect to hear more accountability and responsibilities and less “oops there was a bug in the code!”~~
+##
+
+
