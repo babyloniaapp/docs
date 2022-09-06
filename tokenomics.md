@@ -1,11 +1,14 @@
 
+
+
 # 🪙 Tokenomics
 
 ## **Tokens** <a href="#swamp-reward-distribution" id="swamp-reward-distribution"></a>
 
-There are 3 main tokens on **Babylonia**. **BABY (BABY), CHIP(CHP)** and **CREDIT (CRD).  BABY** is the main token of the platform, hard-capped to 888,888,888, mintable and partially backed by collaterals. CHIP & CREDIT are functional tokens, can be used only in babylonia.app, they are not hard-capped, cannot be minted by public.&#x20;
+~~There are 3 main tokens on **Babylonia**~~. **BABY (BABY)**, ~~CHIP(CHP) and CREDIT (CRD)~~.  **BABY** is the main token of the platform, hard-capped to 888,888,888, mintable and partially backed by collaterals. CHIP & CREDIT are functional tokens, can be used only in babylonia.app, they are not hard-capped, cannot be minted by public. <br/>
+Update 06. Sep 2022: Due to the recent decision by founders, we decided to postpone the traditional web2 games & gambling and continue developing only in-house web3 smart contract based games. Therefore, CHIP & CREDIT tokens won't be available.
 
-Tokens format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom, the Ethereum, and Avalanche expansions are also on the way. The BABY token will be bridged between the blockchains, maintaining the total hard cap, will be distributed proportionally to the performance & demand of network. As the BSC transaction fee getting more expensive due to increase in price of BNB, we gradually move toward Polygon & Fantom.
+Token format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom, the Ethereum, and Avalanche expansions are also on the way. The BABY token will be bridged between the blockchains, maintaining the total hard cap, will be distributed proportionally to the performance & demand of network. As the BSC transaction fee getting more expensive due to increase in price of BNB, we gradually move toward Polygon & Fantom.
 
 
 
@@ -33,7 +36,7 @@ FantomICO1M2: 0x84b1ef16C1461B7864a611925FbF31736f924a40 <br/>
 
 ---
 
-<img width="800" alt="Overview of BABYLONIA Tokens" src="https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_TOKEN_010_900px.png">
+<img width="800" alt="Overview of BABY Token" src="https://user-images.githubusercontent.com/94221562/188708442-173d711b-d5ac-4de0-a0e7-ecb53603d4bc.png">
 
 
 **How the system works? Let's dive in!**
