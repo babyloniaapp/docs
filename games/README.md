@@ -31,13 +31,15 @@ Babylon Jackpot is modified version of Classic Lottery running only once a week.
 
 We have submitted the idea to patenting, it is a pending patent algorithm, roulette triple zero & 1-36 numbered slot, unique betting system, finalizes every 2 minutes
 
-
 ### Lucky Dice
 
 Triple dice system, chainlink VRF, easy wagers, finalizes in a minute
 
 
 ### BabyFOMO
+
+It is an elimination game, based on ticketing system, running with smart contracts, the last purchased tickets before time runs out will be the winner. Every ticket purchases delays the countdown by 10 minutes.
+
 
 
 ### Vanity
