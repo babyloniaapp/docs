@@ -5,7 +5,7 @@
 <hr/>
 
 10.09.22 - The development of lottery contract is going on, team finalized a draft today.<br/>
-10.09.22 - We exploring options for vesting & locking contracts for BABY Token.<br/>
+10.09.22 - We are exploring options for vesting & locking contracts for BABY Token.<br/>
 
 
 ---
@@ -13,7 +13,7 @@
 <img width="600" alt="RadioShack DEX BABY 01" src="https://user-images.githubusercontent.com/94221562/188791554-b228ae33-f444-4f55-b94b-05ff27e5896f.png">
 06.09.22 – Yesterday [RadioShack](https://app.radioshack.org/swap) deployed $10000 liquidity for BABY Token on their DEX.  <br/>
 
-06.09.22 - We hired a new smart contract developer for the lottery porject. <br/>
+06.09.22 - We hired a new smart contract developer for the lottery project. <br/>
 
 ---
 
