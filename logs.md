@@ -4,6 +4,13 @@
 
 <hr/>
 
+
+13.09.22 - We removed our small LP from Pancakeswap due to conflict & arbitrage with RadioShack.<br/>
+
+
+---
+
+
 <img width="100" alt="New menus 02" src="https://user-images.githubusercontent.com/94221562/189600130-e6dc1396-bc1c-4940-a695-a47c08c99cb7.png">
 12.09.22 - As per new Roadmap we got the website updated, the Game replaced with Win & moving toward only smart contract based games.<br/>
 
