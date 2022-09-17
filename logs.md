@@ -6,7 +6,7 @@
 
 
 17.09.22 - Team is working on the lottery UI and connecting it to the contract.<br/>
-17.09.22 - We started working on vesting contract to lock and distribute BABY token.<br/>
+17.09.22 - We started working on vesting contracts to lock and distribute BABY token.<br/>
 
 
 ---
