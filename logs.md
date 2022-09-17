@@ -5,6 +5,12 @@
 <hr/>
 
 
+17.09.22 - Team is working on the lottery UI and connecting it to the contract.<br/>
+17.09.22 - We started working on vesting contract to lock and distribute BABY token.<br/>
+
+
+---
+
 13.09.22 - We removed our small LP from Pancakeswap due to conflict & arbitrage with RadioShack.<br/>
 
 
