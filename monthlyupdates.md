@@ -34,7 +34,7 @@ Every month, we publish our monthly update and news of Babylonia platform on var
 ## May.2022
 
 <img width="400" alt="Babylonia Monthly Updates May.2022 P1" src="https://user-images.githubusercontent.com/94221562/179912899-3eaceda4-8371-4e5e-9aeb-cdef075ce314.png"> <img width="400" alt="Babylonia Monthly Updates May.2022 P2" src="https://user-images.githubusercontent.com/94221562/179912896-6a8f8d7d-7083-4663-8c3f-9b7fb3134827.png"> 
-<img width="400" alt="Babylonia Monthly Updates May.2022 P3" src="https://user-images.githubusercontent.com/94221562/179912888-1f0daf58-a427-45fe-ac4f-954a08e8d9b7.png"> <img width="400" alt="Babylonia Monthly Updates April.2022 P4" src="https://user-images.githubusercontent.com/94221562/179912905-cecb9c51-db08-49aa-8eb6-71442bb260a7.png">
+<img width="400" alt="Babylonia Monthly Updates May.2022 P3" src="https://user-images.githubusercontent.com/94221562/179912888-1f0daf58-a427-45fe-ac4f-954a08e8d9b7.png"> <img width="400" alt="Babylonia Monthly Updates May.2022 P4" src="https://user-images.githubusercontent.com/94221562/179912905-cecb9c51-db08-49aa-8eb6-71442bb260a7.png">
 
 
 
@@ -52,4 +52,9 @@ Every month, we publish our monthly update and news of Babylonia platform on var
 <img width="400" alt="Babylonia Monthly Updates July.2022 P1" src="https://user-images.githubusercontent.com/94221562/184065935-6e195180-111e-4eb4-8049-5a0b3cd02b6b.png"><img width="400" alt="Babylonia Monthly Updates July.2022 P2" src="https://user-images.githubusercontent.com/94221562/184065931-445d548f-f611-4d20-9e4e-d3aa1d9b76ec.png"><img width="400" alt="Babylonia Monthly Updates July.2022 P3" src="https://user-images.githubusercontent.com/94221562/184065926-832c648a-6f7f-44ff-9d01-ae8a4b808873.png">
 
 
+<hr/>
 
+## August.2022
+
+<img width="400" alt="Babylonia Monthly Updates August.2022 P1" src="https://user-images.githubusercontent.com/94221562/190894372-16496e97-5485-4da6-8713-6a06d60c1b07.png"> <img width="400" alt="Babylonia Monthly Updates August.2022 P2" src="https://user-images.githubusercontent.com/94221562/190894373-d4e03607-aacf-4eda-a765-dae170c86432.png"> 
+<img width="400" alt="Babylonia Monthly Updates August.2022 P3" src="https://user-images.githubusercontent.com/94221562/190894375-8cf68c82-104d-487a-b5ba-b89d9be84555.png"> <img width="400" alt="Babylonia Monthly Updates August.2022 P4" src="https://user-images.githubusercontent.com/94221562/190894376-3ab4ed77-23ac-4b18-8285-13b57697f86e.png">
