@@ -51,6 +51,7 @@ People who has contributed/collaborated/worked to/with/for the project:
 -  💻Muhammad Waqas, smart contract, web3, React UI, July/2022-Present,[Upwork](https://www.upwork.com/freelancers/~01feceb3a9a20cfad5),[GitHub](https://github.com/MuhammadWaqas4)
 -  🎙️Vivian Kato, voice-over project, August/2022, [Upwork](https://www.upwork.com/freelancers/~01235a14ee714c98c4)
 -  🎙️Richard Teng, voice-over project, August/2022, [Fiverr](https://business.fiverr.com/freelancers/ycrichardteng?source=inbox)
+-  💻Muzammil Ramzan, smart contract, web3, React UI, August/2022-Present,[Upwork](https://www.upwork.com/freelancers/~016d16a89af866124b),[GitHub](https://github.com/MuhammadWaqas4)
 
 
 <hr/>
