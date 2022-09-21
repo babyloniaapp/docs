@@ -4,6 +4,12 @@
 
 <hr/>
 
+21.09.22 - The lottery UI is getting finalized, we assigned more team member to the project.<br/>
+21.09.22 - Work on vesting contracts is going on, we team will be ready to test it by end of the September.<br/>
+21.09.22 - We pushed an update on the mainpage of website, but the icons position is wrong, we will push another update in next few days.<br/>
+
+
+---
 
 17.09.22 - Team is working on the lottery UI and connecting it to the contract.<br/>
 17.09.22 - We started working on vesting contracts to lock and distribute BABY token.<br/>
