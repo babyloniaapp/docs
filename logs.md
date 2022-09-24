@@ -4,6 +4,11 @@
 
 <hr/>
 
+24.09.22 - The roadmap & essential documents are getting updated, will be adding new direction toward smartconract-based games & discarding traditional casino games.<br/>
+
+
+---
+
 21.09.22 - The lottery UI is getting finalized, we assigned more team member to the project.<br/>
 21.09.22 - Work on vesting contracts is going on, we team will be ready to test it by end of the September.<br/>
 21.09.22 - We pushed an update on the mainpage of website, but the icons position is wrong, we will push another update in next few days.<br/>
