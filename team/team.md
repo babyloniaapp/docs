@@ -11,7 +11,7 @@ Soon after we get established, register the company in a crypto-friendly land, w
 <hr/>
 
 
-**Jeremiah K.** (Architect), CEO & Founder Roles: Investor, designer, strategies, documents writer, smart contracts, quality control, [Twitter](https://twitter.com/realarchitekt), [GitHub](https://github.com/babyloniaapp)
+**Jeremiah K.** (Architect), CEO & Founder Roles: Investor, designer, strategies, techinical writer, smart contracts, quality control, [Twitter](https://twitter.com/realarchitekt), [GitHub](https://github.com/babyloniaapp)
 
 **Dr. ALMA**, CMO & Co-Founder Roles: Investor, strategies, marketing & promotions, NFT, [Twitter](https://twitter.com/DralmaEth)
 
