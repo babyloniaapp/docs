@@ -6,6 +6,7 @@
 <hr/>
 
 <img width="600" alt="RadioShack DEX BABY 02" src="https://user-images.githubusercontent.com/94221562/192243639-21e263d9-c69a-4afd-9ae7-d8f3ffca900e.png">
+
 26.09.22 – We fixed the visual problem of [RadioShack](https://app.radioshack.org/swap) DEX postion on the front page.  <br/>
 
 ---
@@ -46,6 +47,7 @@
 ---
 
 <img width="600" alt="RadioShack DEX BABY 01" src="https://user-images.githubusercontent.com/94221562/188791554-b228ae33-f444-4f55-b94b-05ff27e5896f.png">
+
 06.09.22 – Yesterday [RadioShack](https://app.radioshack.org/swap) deployed $10000 liquidity for BABY Token on their DEX.  <br/>
 
 06.09.22 - We hired a new smart contract developer for the lottery project. <br/>
