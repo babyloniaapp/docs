@@ -1,4 +1,6 @@
 
+
+
 # 🚀 Roadmap
 
 <img width="1080" alt="The Babylonia Roadmap" src="https://user-images.githubusercontent.com/94221562/192100183-55cfc0b1-915c-4755-bf5f-c797c01edf53.png">
@@ -41,14 +43,15 @@ We funded the project ourselves until now, and running low on money has taught u
 * [ ] ~~Starting beta-test of the Games 1\ Lottery~~ --> postponed to 2022Q4
 * [x] Website visual updates + preparations for [Crowdsale #1](https://pool.babylonia.app/Crowdsale1)
 * [x] Deployments of the Games website pages on new VPS hosting
-* [ ] ~~Games server deployments~~ --> postponed to 2022Q4
+* [ ] ~~Games server deployments~~ --> postponed to ~~2022Q4~~ 2023
 * [x] Creating media project + web3 integration --> postponed to 2022Q4
 * [x] Kicking off the NFT project --> the project has been started --> in progress --> will launch in ~~July-~~ first week of August 2022
 * [x] Kicking off the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) ~~with~~/without partners
 * [ ] ~~Buying collaterals simultaneously with the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1)~~ --> failed to accomplish
 * [x] Extras: Updates main page 3D model
 * [x] Extras: Unique and unified UI design in whole babylonia.app pages
-
+* [ ] ~~Starting~~ Developing the Lottery smart contract ~~Games~~ 1\ Lottery with BUSD, BNB on ~~BSC~~BNB Chain
+* [ ]  Developing Game I --> Babylon Jackpot
 <hr/>
 
 ### Beta Launch 2022Q4-2023Q1
@@ -56,10 +59,9 @@ We funded the project ourselves until now, and running low on money has taught u
 * [ ] Last phase performance analysis and updating the roadmap
 * [ ] Align the goals and assign the budget to the tasks as plan
 * [ ] Using purchased collaterals in yield-earning swaps for extra income
-* [ ] ~~Starting~~ Developing the Lottery smart contract ~~Games~~ 1\ Lottery with BUSD, BNB on ~~BSC~~BNB Chain
-* [ ] Starting beta-test of the Games 2\ Slow-Roulette
-* [ ] Starting the IPO Project
-* [ ] Starting the SHOP platform
+* [ ] Starting beta-test of the Games I --> Lottery
+~~* [ ] Starting the IPO Project~~ --> Postponed to 2023
+~~* [ ] Starting the SHOP platform~~ --> Postponed to 2023
 
 <hr/>
 
@@ -109,4 +111,4 @@ We funded the project ourselves until now, and running low on money has taught u
 
 
 <hr/>
-updated 23/September/2022
+updated 26/September/2022
