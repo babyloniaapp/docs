@@ -5,6 +5,12 @@
 
 <hr/>
 
+28.09.22 - The roadmap has been updated, the Babylonia introduction image also has been updated and will be used for the social media profilies.<br/>
+28.09.22 - Things running very slowly here in Babylonia, lack of funding forced us to turn down so of promotions and developments tasks, now the main focus is to finish Lottery and contract vesting projects.<br/>
+
+
+---
+
 <img width="600" alt="RadioShack DEX BABY 02" src="https://user-images.githubusercontent.com/94221562/192243639-21e263d9-c69a-4afd-9ae7-d8f3ffca900e.png">
 
 26.09.22 – We fixed the visual problem of [RadioShack](https://app.radioshack.org/swap) DEX postion on the front page.  <br/>
