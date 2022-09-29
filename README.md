@@ -70,4 +70,4 @@ Yes but partially. The appearance and business model and functions can be copied
 Most of our GitHub repositories are private, we will make them public once everything is established, and we accommodate stable revenues.
 
 <hr/>
-Updated 25.September.22
+Updated 29.September.22
