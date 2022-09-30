@@ -5,6 +5,10 @@
 
 <hr/>
 
+30.09.22 – Today we teamed up with [Ample SWAP](https://ampleswap.com/farms) DEX for staking farming experiment.<br/>
+
+
+---
 
 28.09.22 - The roadmap has been updated, the Babylonia introduction image also has been updated and will be used for the social media profiles.<br/>
 28.09.22 - Things running very slowly here in Babylonia, lack of funding forced us to turn down so of promotions and developments tasks, now the main focus is to finish Lottery and contract vesting projects.<br/>
