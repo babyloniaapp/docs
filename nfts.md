@@ -1,6 +1,4 @@
-![](.gitbook/assets/SLIDES\_NFT\_003\_1x1\_withLogo.png)
-<img width="600" alt="RadioShack DEX BABY 02" src="https://user-images.githubusercontent.com/94221562/192243639-21e263d9-c69a-4afd-9ae7-d8f3ffca900e.png">
-
+<img width="800" alt="Babylonia NFT - overview 03 " src="https://user-images.githubusercontent.com/94221562/193505695-8f9f8989-a5b2-434d-af95-8a62449f240a.png">
 
 # 🎴 NFTs
 
