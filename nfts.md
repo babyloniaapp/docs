@@ -1,4 +1,6 @@
 ![](.gitbook/assets/SLIDES\_NFT\_003\_1x1\_withLogo.png)
+<img width="600" alt="RadioShack DEX BABY 02" src="https://user-images.githubusercontent.com/94221562/192243639-21e263d9-c69a-4afd-9ae7-d8f3ffca900e.png">
+
 
 # 🎴 NFTs
 
