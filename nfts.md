@@ -7,7 +7,9 @@ Speaking of services, we offer 1/ our own Babylonia NFTs collections, 2/ NFT mar
 
 
 ## NFTs Collection
-![](.gitbook/assets/Screenshot\_NFT\_PASSCARD\_01.png)
+
+<img width="800" alt="Screenshot NFT - passcard " src="https://user-images.githubusercontent.com/94221562/193505858-124fb5db-0242-4c8a-b12c-6909e33e4eec.png">
+
 
 we use **NFTs** for ~~two~~ three **purposes**:&#x20;
 1. As a utility token, to offer benefits and extra features to the player, features like offering extra chance to win the game, or buying tickets to the games at a discounted rate. Also people can later on add profile photos or avatars, choose usernames, all will be saved as a minted NFT on the blockchain, player buy these kinds of NFTs, and they are transferrable. Our **PASS CARD** NFT collection is one of them. &#x20;
