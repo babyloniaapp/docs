@@ -5,6 +5,11 @@
 
 <hr/>
 
+05.10.22 – The development of lottery UI is going on, as our CTO is still on vacation, things running slower than expected, we will hire secondary UI dev this weekend to speed up the process.<br/>
+
+---
+
+
 30.09.22 – Today we teamed up with [Ample SWAP](https://ampleswap.com/farms) DEX for staking farming experiment.<br/>
 
 
