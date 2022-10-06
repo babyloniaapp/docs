@@ -32,3 +32,5 @@ We are looking for serious investors. This is an ambitious, well-planned project
 ## Buy us a coffee ☕ or a beer 🍺&#x20;
 
 We appreciate you get this far, making some clicks, getting to this section. Yes! We need support and help to develop this platform. Our goal is to make a transparent, honest, fun platform that everyone enjoy it, have fun and may make some money. So, how about buy us a beer or coffee? If you made a large donation by mistake, contact us, and we will return your money 😅! Never mind, that may break our heart temporarily 😢.
+
+Donation wallet ERC20 BEP20 : 0xdbe29149E5E8752F438D37eDa188Dfec1E723AA2
