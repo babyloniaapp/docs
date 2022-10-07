@@ -57,6 +57,6 @@ People who has contributed/collaborated/worked to/with/for the project:
 <hr/>
 
 Notes:
-1. This list is gathered on 25. September.2022
+1. This list is gathered on 07. October.2022
 2. The hyperlinks may get broken over the time (if member change the username or profiles), and we will not maintain them for inactive members.
 3. You may verify all the information above, but visiting previous history of the members or freelancers on the GitHub or Upwork.
