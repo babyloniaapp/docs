@@ -5,6 +5,11 @@
 
 <hr/>
 
+09.10.22 – The UI development of lottery is still going on, team is trying to finalize the design by end of coming week.<br/>
+09.10.22 – We tested vesting contracts yesterday on the Polygon mainnet, we are working to add some more features to the contract.<br/>
+
+---
+
 05.10.22 – The development of lottery UI is going on, as our CTO is still on vacation, things running slower than expected, we will hire secondary UI dev this weekend to speed up the process.<br/>
 
 ---
