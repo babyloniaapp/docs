@@ -17,6 +17,7 @@ Token format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom, 
 CoinGecko: [Babylonia](https://www.coingecko.com/en/coins/babylonia)</br>
 CoinMarketCap: [Babylonia](https://coinmarketcap.com/currencies/babylonia)</br>
 DEX: [RadioShack](https://app.radioshack.org/swap)<br/>
+DEX: [AmpleSWAP](https://ampleswap.com)<br/>
 
 
 ## Addresses
