@@ -1,6 +1,3 @@
-
-
-
 # 🪙 Tokenomics
 
 ## **Tokens** <a href="#swamp-reward-distribution" id="swamp-reward-distribution"></a>
