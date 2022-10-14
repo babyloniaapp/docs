@@ -5,6 +5,12 @@
 
 <hr/>
 
+14.0.22 – We faced some delays from our freelance UI team, project was supposed to be delivered today but it is not yet ready.<br/>
+
+
+---
+
+
 09.10.22 – The UI development of lottery is still going on, team is trying to finalize the design by end of coming week.<br/>
 09.10.22 – We tested vesting contracts yesterday on the Polygon mainnet, we are working to add some more features to the contract.<br/>
 
