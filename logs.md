@@ -5,6 +5,11 @@
 
 <hr/>
 
+15.0.22 – The subscription account of Chain Link VRF V2 is set today, we are ready to start testing our lottery contract on the Polygon mainnet.<br/>
+
+
+---
+
 14.0.22 – We faced some delays from our freelance UI team, project was supposed to be delivered today but it is not yet ready.<br/>
 
 
