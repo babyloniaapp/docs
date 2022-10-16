@@ -13,7 +13,7 @@ So, **contact us**, we are happy to hear about your offered products and service
 
 ## Join us!&#x20;
 
-We are not hiring, but we're looking for participation and cooperation.&#x20;
+We are not hiring, but we're looking for participation and cooperation.
 
 If you are a:
 
