@@ -5,6 +5,13 @@
 
 <hr/>
 
+18.0.22 – UI developer is still not available & sick, we are looking for temporary options.<br/>
+18.0.22 – The team is planned for final lottery test on the Polygon mainnet.<br/>
+
+
+---
+
+
 15.0.22 – The subscription account of Chain Link VRF V2 is set today, we are ready to start testing our lottery contract on the Polygon mainnet.<br/>
 
 
