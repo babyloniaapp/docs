@@ -5,19 +5,26 @@
 
 <hr/>
 
-18.0.22 – UI developer is still not available & sick, we are looking for temporary options.<br/>
-18.0.22 – The team is planned for final lottery test on the Polygon mainnet.<br/>
+19.10.22 – Team tested the lottery contract, yesterday on the Polygon mainnet successfully, we continue with the UI integrations.<br/>
+19.10.22 – Our CTO is finally back from 2 month leave of absence, we can speed up developments from now on.<br/>
+
+
+
+---
+
+18.10.22 – UI developer is still not available & sick, we are looking for temporary options.<br/>
+18.10.22 – The team is planned for final lottery test on the Polygon mainnet.<br/>
 
 
 ---
 
 
-15.0.22 – The subscription account of Chain Link VRF V2 is set today, we are ready to start testing our lottery contract on the Polygon mainnet.<br/>
+15.10.22 – The subscription account of Chain Link VRF V2 is set today, we are ready to start testing our lottery contract on the Polygon mainnet.<br/>
 
 
 ---
 
-14.0.22 – We faced some delays from our freelance UI team, project was supposed to be delivered today but it is not yet ready.<br/>
+14.10.22 – We faced some delays from our freelance UI team, project was supposed to be delivered today but it is not yet ready.<br/>
 
 
 ---
