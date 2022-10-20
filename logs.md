@@ -5,7 +5,7 @@
 
 <hr/>
 
-19.10.22 – Team tested the lottery contract, yesterday on the Polygon mainnet successfully, we continue with the UI integrations.<br/>
+19.10.22 – Team tested the lottery contract, yesterday on the Polygon Mainnet successfully, we continue with the UI integrations.<br/>
 19.10.22 – Our CTO is finally back from 2 month leave of absence, we can speed up developments from now on.<br/>
 
 
