@@ -5,6 +5,13 @@
 
 <hr/>
 
+
+21.10.22 – Unfortunately, the lottery UI team failed to deliver the project and meet the minimum requirements, and some assigned tasks are still pending. We decided to stop cooperating with this team & hire someone else. This could delay the lottery project even further.<br/>
+
+
+---
+
+
 19.10.22 – Team tested the lottery contract, yesterday on the Polygon Mainnet successfully, we continue with the UI integrations.<br/>
 19.10.22 – Our CTO is finally back from 2 month leave of absence, we can speed up developments from now on.<br/>
 
