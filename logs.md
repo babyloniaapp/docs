@@ -5,6 +5,12 @@
 
 <hr/>
 
+25.10.22 – We hired a new UI developer for the UI project, will be reporting back soon by end of the week.<br/>
+25.10.22 – Babylonia received a secondary staking/farming offer from a DEX, we are thinking about it, we are not so optimistic as the deal with Ampleswap did not go as we expected.<br/>
+
+
+---
+
 
 21.10.22 – Unfortunately, the lottery UI team failed to deliver the project and meet the minimum requirements, and some assigned tasks are still pending. We decided to stop cooperating with this team & hire someone else. This could delay the lottery project even further.<br/>
 
