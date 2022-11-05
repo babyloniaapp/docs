@@ -5,6 +5,11 @@
 
 <hr/>
 
+05.11.22 – Today the Lottery UI is getting linked with the contract, we almost a week away from the first preview.<br/>
+05.11.22 – Soon we publish the vesting contracts for the BABY token.<br/>
+
+---
+
 01.11.22 – Team is working with new UI dev to remake the lottery UI, work is in progress.<br/>
 
 ---
