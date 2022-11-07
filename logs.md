@@ -5,6 +5,14 @@
 
 <hr/>
 
+07.11.22 – Today we teamed up with [Vizslaswap SWAP](https://www.vizslaswap.com/) DEX for staking farming.<br/>
+
+
+
+---
+
+
+
 05.11.22 – Today the Lottery UI is getting linked with the contract, we almost a week away from the first preview.<br/>
 05.11.22 – Soon we publish the vesting contracts for the BABY token.<br/>
 
