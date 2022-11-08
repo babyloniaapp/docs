@@ -21,3 +21,5 @@ we use **NFTs** for ~~two~~ three **purposes**:&#x20;
 
 Polygon Contract: 0x428B03F37D3ECfc2e120ca8C8a80dA1DC77B4Fe1
 
+BNB coming soon!
+
