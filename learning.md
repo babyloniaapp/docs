@@ -23,12 +23,13 @@ With a distributed ledger that is shared among members of a network, time-wastin
 (Source: [IBM](https://www.ibm.com/topics/what-is-blockchain))
 
 ---
-
+---
 
 ### Blockchain use cases
 
 
 #### Money Transfer
+---
 #### Smart Contracts
 #### Gambling
 The gambling industry can use blockchain to provide several benefits to players. One of the biggest benefits of operating a casino on the blockchain is the transparency it provides to potential gamblers. Since every transaction is recorded on the blockchain, bettors can see that the games are fair and the casino pays out. Furthermore, by using blockchain, there's no need to provide personal information, including a bank account, which may be a hurdle for some would-be gamblers. It also provides a workaround for regulatory restrictions since players can gamble anonymously and the decentralized network isn't susceptible to government shutdown.
@@ -42,10 +43,15 @@ The Internet of Things (IoT) is making our lives easier, but it's also opening t
 
 
 ---
+
+
 #### Personal Identity Security
 #### Healthcare
 #### Logistics
+
 ---
+
+
 #### Non-Fungible Tokens (NFTs)
 A non-fungible token (NFT) is a unique piece of data that is stored on a blockchain. More specifically, NFTs are digital files such as photographs, videos, or audio files that can be bought and sold with cryptocurrency. In many cases, NFTs are large files and, thus, a link to the actual photo, video, or audio file is what is stored on the blockchain rather than the actual piece of artwork.
 
