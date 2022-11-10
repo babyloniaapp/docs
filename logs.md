@@ -5,6 +5,11 @@
 
 <hr/>
 
+10.11.22 – Our CTO is about to leave the platform temporarily due to personal reasons, we are going to restructure internally, although it is very difficult to refill the position considering market circumstances.<br/> 
+
+
+---
+
 07.11.22 – Today we teamed up with [Vizslaswap SWAP](https://www.vizslaswap.com/) DEX for staking farming.<br/>
 
 
