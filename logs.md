@@ -5,6 +5,11 @@
 
 <hr/>
 
+11.11.22 – The [RadioShack](https://app.radioshack.org/swap) deployed $10000 liquidity for BABY Token on Fantom & Polygon network.<br/>
+
+
+---
+
 10.11.22 – Our CTO is about to leave the platform temporarily due to personal reasons, we are going to restructure internally, although it is very difficult to refill the position considering market circumstances.<br/> 
 
 
