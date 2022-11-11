@@ -15,6 +15,7 @@ CoinGecko: [Babylonia](https://www.coingecko.com/en/coins/babylonia)</br>
 CoinMarketCap: [Babylonia](https://coinmarketcap.com/currencies/babylonia)</br>
 DEX: [RadioShack](https://app.radioshack.org/swap)<br/>
 DEX: [AmpleSWAP](https://ampleswap.com)<br/>
+DEX: [Vizslaswap](https://www.vizslaswap.com/swap)<br/>
 
 
 ## Addresses
