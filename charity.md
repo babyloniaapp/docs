@@ -15,3 +15,5 @@ The charity & donation section will be available, up and running as soon as we a
 [**SAVE THE CHILDREN**](https://www.savethechildren.org)
 
 [**THE GIVING BLOCK**](https://www.thegivingblock.com/donate-bitcoin)
+
+Updated: 13-Nov-2022
