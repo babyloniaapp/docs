@@ -5,6 +5,12 @@
 
 <hr/>
 
+13.11.22 – We try to increase our BABY-BNB liquidity daily on the PCS platform, the LP address: 0x6c98A19937068624275CC505e28F91Fc36E2AcD1 on BSC.<br/>
+
+
+---
+
+
 11.11.22 – The [RadioShack](https://app.radioshack.org/swap) deployed $10000 liquidity for BABY Token on Fantom & Polygon network.<br/>
 
 
