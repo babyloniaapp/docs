@@ -64,4 +64,8 @@ Every month, we publish our monthly update and news of Babylonia platform on var
 
 ## September.2022
 
-preparing.......
+
+<hr/>
+
+
+## October.2022
