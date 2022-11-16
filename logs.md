@@ -5,6 +5,15 @@
 
 <hr/>
 
+
+<img width="400" alt="DEX BABY 02" src="https://user-images.githubusercontent.com/94221562/202007057-acc8d68a-ce5a-49e2-a316-cacbf67a5eb3.png">
+16.11.22 – Yesterday we updated the DEX platforms that $BABY token can be bought, traded and staked.<br/>
+
+
+
+---
+
+
 13.11.22 – We try to increase our BABY-BNB liquidity daily on the PCS platform, the LP address: 0x6c98A19937068624275CC505e28F91Fc36E2AcD1 on BSC.<br/>
 
 
