@@ -51,7 +51,7 @@ We funded the project ourselves until now, and running low on money has taught u
 * [x] Extras: Updates main page 3D model
 * [x] Extras: Unique and unified UI design in whole babylonia.app pages
 * [ ] ~~Starting~~ Developing the Lottery smart contract ~~Games~~ 1\ Lottery with BUSD, BNB on ~~BSC~~BNB Chain
-* [ ]  Developing Game I --> Babylon Jackpot
+* [ ]  Developing Game I --> Babylon Jackpot --> postponed to 20223Q1
 <hr/>
 
 ### Beta Launch 2022Q4-2023Q1
