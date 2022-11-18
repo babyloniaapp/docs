@@ -6,6 +6,7 @@
 <hr/>
 
 <img width="400" alt="NOMIC price indicator" src="https://user-images.githubusercontent.com/94221562/202238962-5014e842-0cc6-448e-9252-c5a42af524e1.jpg">
+
 17.11.22 – The $BABY token price tracker from NOMICS has been added to the main page.<br/>
 
 
@@ -13,6 +14,7 @@
 ---
 
 <img width="400" alt="DEX BABY 02" src="https://user-images.githubusercontent.com/94221562/202007057-acc8d68a-ce5a-49e2-a316-cacbf67a5eb3.png">
+
 16.11.22 – Yesterday we updated the DEX platforms that $BABY token can be bought, traded and staked.<br/>
 
 
