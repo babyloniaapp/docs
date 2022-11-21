@@ -64,6 +64,9 @@ Every month, we publish our monthly update and news of Babylonia platform on var
 
 ## September.2022
 
+<img width="400" alt="Babylonia Monthly Updates September.2022 P1" src="https://user-images.githubusercontent.com/94221562/203083303-94b47277-da02-4323-99e5-7046a5f53078.png"> <img width="400" alt="Babylonia Monthly Updates September.2022 P2" src="https://user-images.githubusercontent.com/94221562/203083199-2247cf15-1c38-4981-90f8-1a7b90c7d00b.png">
+<img width="400" alt="Babylonia Monthly Updates September.2022 P3" src="https://user-images.githubusercontent.com/94221562/203082678-4beba581-10c8-49bb-8378-d6f292816e97.png">
+
 
 <hr/>
 
