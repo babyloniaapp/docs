@@ -5,6 +5,14 @@
 
 <hr/>
 
+
+<img width="400" alt="wallet connect on the main page #1" src="https://user-images.githubusercontent.com/94221562/203077170-f8311a15-3bca-4496-989c-2ef9d0949d41.png">
+
+21.11.22 – We are in the proccess of adding the wallet connect & $BABY balance indicator on the main page, it is still buggy & does not show the value, team is working on it.<br/>
+
+---
+
+
 <img width="400" alt="NOMIC price indicator" src="https://user-images.githubusercontent.com/94221562/202238962-5014e842-0cc6-448e-9252-c5a42af524e1.jpg">
 
 17.11.22 – The $BABY token price tracker from NOMICS has been added to the main page.<br/>
