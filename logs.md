@@ -6,6 +6,15 @@
 <hr/>
 
 
+
+<img width="400" alt="wallet connect on the main page #2" src="https://user-images.githubusercontent.com/94221562/204082302-cfd3e1e1-8448-4963-841b-2086ff7a950d.png">
+
+26.11.22 – The wallet connect is now working, there is an issue with the MetaMask and BNB chain, does not bring the correct chain information, we are working on it.<br/>
+
+---
+
+
+
 <img width="400" alt="wallet connect on the main page #1" src="https://user-images.githubusercontent.com/94221562/203077170-f8311a15-3bca-4496-989c-2ef9d0949d41.png">
 
 21.11.22 – We are in the process of adding the wallet connect & $BABY balance indicator on the main page, it is still buggy & does not show the value, team is working on it.<br/>
