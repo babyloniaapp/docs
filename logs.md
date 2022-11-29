@@ -5,6 +5,11 @@
 
 <hr/>
 
+29.11.22 – Team is still working with new UI dev to finish the lottery UI, work is in progress.<br/>
+
+
+---
+
 <img width="400" alt="Vizslaswap 404" src="https://user-images.githubusercontent.com/94221562/204252785-c069c4da-15a6-4db4-9ce9-a87184085b76.png">
 
 28.11.22 – The user are facing 404 error on adding LP token to the Vizslswap, they are working on it to fix.<br/>
