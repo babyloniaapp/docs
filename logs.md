@@ -5,7 +5,7 @@
 
 <hr/>
 
-03.12.22 – Since September we bought back $300 worth of $BABY token and added double that amount liquiduity in our PCS pool [BSCscan Deployer #2 transactions](https://bscscan.com/token/0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a?a=0xbab7b310231e1fcf12babfa0038f69aa10544f87). All the funds are directly from founders since we not have any active revenue generating applications yet, also we did not sell a single $BABY token. <br/>
+03.12.22 – Since September, we bought back $300 worth of $BABY token and added double that amount of liquidity in our PCS pool [BSCscan Deployer #2 transactions](https://bscscan.com/token/0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a?a=0xbab7b310231e1fcf12babfa0038f69aa10544f87). All the funds are directly from founders since we not have any active revenue generating applications yet, also we did not sell a single $BABY token. <br/>
 
 ---
 
@@ -16,7 +16,7 @@
 
 <img width="400" alt="Vizslaswap 404" src="https://user-images.githubusercontent.com/94221562/204252785-c069c4da-15a6-4db4-9ce9-a87184085b76.png">
 
-28.11.22 – The user are facing 404 error on adding LP token to the Vizslswap, they are working on it to fix.<br/>
+28.11.22 – The users are facing 404 error on adding LP token to the Vizslswap, they are working on it to fix.<br/>
 
 ---
 
@@ -48,7 +48,6 @@
 <img width="400" alt="DEX BABY 02" src="https://user-images.githubusercontent.com/94221562/202007057-acc8d68a-ce5a-49e2-a316-cacbf67a5eb3.png">
 
 16.11.22 – Yesterday we updated the DEX platforms that $BABY token can be bought, traded and staked.<br/>
-
 
 
 ---
