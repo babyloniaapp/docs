@@ -5,6 +5,13 @@
 
 <hr/>
 
+<img width="400" alt="BABY buy back 06122022" src="https://user-images.githubusercontent.com/94221562/205895231-9474b788-78c3-4c34-afdc-8c3af7ab4258.png">
+
+06.12.22 – We bought back 4000 $BABY token again today and added $400 of liquidity to the Pancakeswap.<br/>
+
+
+---
+
 03.12.22 – Since September, we bought back $300 worth of $BABY token and added double that amount of liquidity in our PCS pool [BSCscan Deployer #2 transactions](https://bscscan.com/token/0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a?a=0xbab7b310231e1fcf12babfa0038f69aa10544f87). All the funds are directly from founders since we not have any active revenue generating applications yet, also we did not sell a single $BABY token. <br/>
 
 ---
