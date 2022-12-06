@@ -5,6 +5,14 @@
 
 <hr/>
 
+<img width="400" alt="SSL error #01" src="https://user-images.githubusercontent.com/94221562/205974645-c16edd3f-6617-4978-841e-7340879bdc74.png">
+
+07.12.22 – We are aware that SSL certificate of four of our subdomains has expired, devs working on it to replace them ASAP.<br/>
+
+---
+
+
+
 <img width="400" alt="BABY buy back 06122022" src="https://user-images.githubusercontent.com/94221562/205895231-9474b788-78c3-4c34-afdc-8c3af7ab4258.png">
 
 06.12.22 – We bought back 4000 $BABY token again today and added $400 of liquidity to the Pancakeswap.<br/>
