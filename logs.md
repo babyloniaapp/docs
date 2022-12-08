@@ -5,6 +5,12 @@
 
 <hr/>
 
+<img width="400" alt="BABY buy back 06122022" src="https://user-images.githubusercontent.com/94221562/206390893-2d0747f0-79b3-4771-b10b-2056aebc51ce.png">
+
+08.12.22 – We bought back 2000 $BABY token again today, unfotunately some people ampleswap DEX mint & sell our token daily, and we can't stop doing that, we are waiting for the contract to finish at the end of December.<br/>
+
+---
+
 <img width="600" alt="BABY buy back 07122022" src="https://user-images.githubusercontent.com/94221562/206256870-1afc6aaa-09aa-465a-8ab2-0e5f39f09414.png">
 
 07.12.22 – We bought back 2432 $BABY token again today and added $50 of liquidity to the Pancakeswap. Our liquidity on PCS is $2200 now! <br/>
