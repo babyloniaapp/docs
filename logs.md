@@ -6,12 +6,13 @@
 <hr/>
 
 15.12.22 – The SSL certificated of the subdomains have been replaced.<br/>
-15.12.22 – Team is busy with lottery UI completion , it appears that the project is more complicated than we expected, ETA is by end of the time.<br/>
+15.12.22 – Team is busy with lottery UI completion, it appears that the project is more complicated than we expected, ETA is by end of the time.<br/>
 
 
 ---
 
 09.12.22 – We bought back 2600 $BABY token again today, we are waiting day & night until our staking deal with two DEX ends sooner and will not participate in any kind of one-way listings ever.<br/>
+
 
 ---
 
