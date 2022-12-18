@@ -5,6 +5,11 @@
 
 <hr/>
 
+18.12.22 – We started testing the lottery UI on the Polygon mainnet since yesterday, it is still buggy and requires optimizations.<br/>
+
+
+---
+
 15.12.22 – The SSL certificated of the subdomains have been replaced.<br/>
 15.12.22 – Team is busy with lottery UI completion, it appears that the project is more complicated than we expected, ETA is by end of the time.<br/>
 
