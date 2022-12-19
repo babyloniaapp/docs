@@ -5,6 +5,11 @@
 
 <hr/>
 
+19.12.22 – We bought back 5899 $BABY token again yesterday and added $60 of liquidity to the Pancakeswap. <br/>
+
+
+---
+
 18.12.22 – We started testing the lottery UI on the Polygon mainnet since yesterday, it is still buggy and requires optimizations.<br/>
 
 
