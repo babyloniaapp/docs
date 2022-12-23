@@ -5,6 +5,11 @@
 
 <hr/>
 
+23.12.22 – We bought back 4000 $BABY token again yesterday and added $45 of liquidity to the Pancakeswap ([reference](https://bscscan.com/tx/0x04280d3892abf4dae29ba437e8eebd76778af7efd0910c2479e674da8c257fa8)). <br/>
+
+
+---
+
 20.12.22 – We bought back 5000 $BABY token again yesterday and added $55 of liquidity to the Pancakeswap ([reference](https://bscscan.com/tx/0x34f20a942bcc0a503d15f3a5cf2fca3419f6d07e05c76dc78c7056b954723eb0)). <br/>
 
 
