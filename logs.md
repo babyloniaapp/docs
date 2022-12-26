@@ -5,6 +5,10 @@
 
 <hr/>
 
+26.12.22 – The team is still working on lottery UI and doing optimizations.<br/>
+
+
+---
 
 24.12.22 – We bought back 3500 $BABY token today and added $45 of liquidity to the Pancakeswap ([reference](https://bscscan.com/tx/0xdf8da051cc79f7fcde09273bd8eda8c95e25e170c39cd82ea7f27c4d56737009)). <br/>
 
