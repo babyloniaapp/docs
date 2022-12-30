@@ -5,6 +5,10 @@
 
 <hr/>
 
+30.12.22 – Finally yesterday our farming contract with Ampleswap has ended, that was a terrible experience for Babylonia, people over there did not provide any liquidity just farmed and minted BABY token which cost us about $2000 of buybacks in past 3 months.<br/>
+
+---
+
 <img width="400" alt="BABY buy back 272022" src="https://user-images.githubusercontent.com/94221562/209716752-44718a7a-52b1-440d-9b6b-2deba4bb3ebd.png">
 
 27.12.22 – We bought back 4600 $BABY token today and added $150 of liquidity to the Pancakeswap. <br/>
