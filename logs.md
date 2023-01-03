@@ -5,6 +5,11 @@
 
 <hr/>
 
+03.01.23 – Wish all a happy 2023, babylonia team is back to work, we continue working on our lottery project. <br/>
+
+
+---
+
 
 31.12.22 – We bought back 2000 $BABY token today and added $20 of liquidity to the Pancakeswap. <br/>
 
