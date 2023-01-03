@@ -5,7 +5,7 @@
 
 <hr/>
 
-03.01.23 – Wish all a happy 2023, babylonia team is back to work, we continue working on our lottery project. <br/>
+03.01.23 – Wish all a happy 2023, Babylonia team is back to work, we continue working on our lottery project. <br/>
 
 
 ---
