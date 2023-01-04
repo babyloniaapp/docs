@@ -5,6 +5,11 @@
 
 <hr/>
 
+04.01.23 – We bought back 4600 $BABY token today and added $45 of liquidity to the Pancakeswap. <br/>
+
+
+---
+
 03.01.23 – Wish all a happy 2023, Babylonia team is back to work, we continue working on our lottery project. <br/>
 
 
