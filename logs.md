@@ -5,6 +5,9 @@
 
 <hr/>
 
+11.01.23 - The website is down, we got a DNS issue again, for the second time in last 2 month, the matter is reported to the team and will be resolved shortly. <br/>
+
+
 07.01.23 – We bought back 2300 $BABY token today and added $40 of liquidity to the Pancakeswap. <br/>
 
 ---
