@@ -5,6 +5,11 @@
 
 <hr/>
 
+14.01.23 – We bought back 3000 $BABY token today and added $40 of liquidity to the Pancakeswap. <br/>
+
+
+---
+
 12.01.23 – We bought back 3180 $BABY token today and added $40 of liquidity to the Pancakeswap. <br/>
 
 
