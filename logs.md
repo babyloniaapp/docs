@@ -5,8 +5,9 @@
 
 <hr/>
 
-![image](https://user-images.githubusercontent.com/94221562/215318838-f767ffe3-b5e4-4d85-868a-91b48526c6c6.png)
-29.01.23 – We bought back 3600 $BABY token today and added $50 of liquidity to the Pancakeswap, now total liquidity is $3400. <br/>
+
+<img width="500" alt="BABY buy back 20012023" src="https://user-images.githubusercontent.com/94221562/215318987-ceaa9a91-0be1-42e6-8ab0-1a3d69f268fe.png"> 
+29.01.23 – We recent liquidity deployoment to the Pancakeswap, now total liquidity is $4500. <br/>
 
 ---
 
