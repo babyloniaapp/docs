@@ -5,6 +5,8 @@
 
 <hr/>
 
+30.01.23 – The website is back online, all of the packages have been updated and synced with the code on GitHub.
+---
 
 <img width="500" alt="BABY buy back 20012023" src="https://user-images.githubusercontent.com/94221562/215318987-ceaa9a91-0be1-42e6-8ab0-1a3d69f268fe.png"> 
 29.01.23 – We recent liquidity deployoment to the Pancakeswap, now total liquidity is $4500. <br/>
