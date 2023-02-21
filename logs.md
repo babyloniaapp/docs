@@ -5,7 +5,10 @@
 
 <hr/>
 
+20.02.23 – Due to unfortunate cicumastances regarding the token listing and staking pool of $BABY token in one of DEXes, we had to pull out from the contract and issue a hard-fork, the new $BABY token will be issues soon and all the holders will be airdropped. <br/>
+
 ---
+
 
 <img width="400" alt="BABY buy back 17022023" src="https://user-images.githubusercontent.com/94221562/219593862-93f23c98-3ff5-46e0-b8c6-15928d38b605.png">
 17.02.23 – As buy back process continues, today also we bought back 2600 $BABY token today and added $60 of liquidity to the Pancakeswap. <br/>
