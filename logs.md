@@ -5,7 +5,7 @@
 
 <hr/>
 
-20.02.23 – Due to unfortunate cicumastances regarding the token listing and staking pool of $BABY token in one of DEXes, we had to pull out from the contract and issue a hard-fork, the new $BABY token will be issues soon and all the holders will be airdropped. <br/>
+20.02.23 – Due to unfortunate circumstances regarding the token listing and staking pool of $BABY token in one of DEXes, we had to pull out from the contract and issue a hard-fork. The new $BABY token will be issues soon and all the holders will be airdropped. <br/>
 
 ---
 
