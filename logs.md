@@ -5,6 +5,11 @@
 
 <hr/>
 
+0xe6dFa7118961851d62297Eb7bBe453364D880Ba5
+
+---
+
+
 20.02.23 – Due to unfortunate circumstances regarding the token listing and staking pool of $BABY token in one of DEXes, we had to pull out from the contract and issue a hard-fork. The new $BABY token will be issues soon and all the holders will be airdropped. <br/>
 
 ---
