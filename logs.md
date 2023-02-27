@@ -5,7 +5,7 @@
 
 <hr/>
 
-0xe6dFa7118961851d62297Eb7bBe453364D880Ba5
+27.02.23 – The $BABY token V2 has been created, the new contact address is: 0xe6dFa7118961851d62297Eb7bBe453364D880Ba5 . <br/>
 
 ---
 
