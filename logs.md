@@ -5,6 +5,9 @@
 
 <hr/>
 
+02.03.23 – We are working on the token and liquidity lock mechanism, will be sorted out soon, the $BABY tokens will be airdropped during the weekend. <br/>
+
+
 ---
 
 27.02.23 – The $BABY token V2 has been created, the new contact address is: 0xe6dFa7118961851d62297Eb7bBe453364D880Ba5 . <br/>
