@@ -5,8 +5,8 @@
 <hr/>
 
 <img width="400" alt="new BABY contract" src="https://user-images.githubusercontent.com/94221562/222663639-acf6a0a7-d82d-412a-b5c3-aa768d4e557a.png">
-<img width="400" alt="new BABY contract" src="https://user-images.githubusercontent.com/94221562/222663544-df8e7983-ebe3-475d-b8ce-198fdb7f69b3.png">
-17.02.23 – As buy back process continues, today also we bought back 2600 $BABY token today and added $60 of liquidity to the Pancakeswap. <br/>
+<img width="400" alt="old BABY contract" src="https://user-images.githubusercontent.com/94221562/222663544-df8e7983-ebe3-475d-b8ce-198fdb7f69b3.png">
+03.03.23 – The new $BABY token has been registered on the bscscan.com . <br/>
 
 
 
