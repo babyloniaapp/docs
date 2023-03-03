@@ -4,9 +4,8 @@
 
 <hr/>
 
-![image](https://user-images.githubusercontent.com/94221562/222663544-df8e7983-ebe3-475d-b8ce-198fdb7f69b3.png)
-![image](https://user-images.githubusercontent.com/94221562/222663639-acf6a0a7-d82d-412a-b5c3-aa768d4e557a.png)
-<img width="400" alt="BABY buy back 17022023" src="https://user-images.githubusercontent.com/94221562/219593862-93f23c98-3ff5-46e0-b8c6-15928d38b605.png">
+<img width="400" alt="new BABY contract" src="https://user-images.githubusercontent.com/94221562/222663639-acf6a0a7-d82d-412a-b5c3-aa768d4e557a.png">
+<img width="400" alt="new BABY contract" src="https://user-images.githubusercontent.com/94221562/222663544-df8e7983-ebe3-475d-b8ce-198fdb7f69b3.png">
 17.02.23 – As buy back process continues, today also we bought back 2600 $BABY token today and added $60 of liquidity to the Pancakeswap. <br/>
 
 
