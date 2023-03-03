@@ -8,7 +8,7 @@
 <img width="400" alt="old BABY contract" src="https://user-images.githubusercontent.com/94221562/222663544-df8e7983-ebe3-475d-b8ce-198fdb7f69b3.png">
 03.03.23 – The new $BABY token has been registered on the bscscan.com . <br/>
 
-
+---
 
 
 02.03.23 – We are working on the token and liquidity lock mechanism, will be sorted out soon, the $BABY tokens will be airdropped during the weekend. <br/>
