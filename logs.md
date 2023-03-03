@@ -3,6 +3,11 @@
 > We will publish our daily, weekly and monthly updates. It is very important for investors, users and players to know what exactly we're doing, how or on what we spend time and money.
 
 
+![image](https://user-images.githubusercontent.com/94221562/222663544-df8e7983-ebe3-475d-b8ce-198fdb7f69b3.png)
+![image](https://user-images.githubusercontent.com/94221562/222663639-acf6a0a7-d82d-412a-b5c3-aa768d4e557a.png)
+
+
+
 <hr/>
 
 02.03.23 – We are working on the token and liquidity lock mechanism, will be sorted out soon, the $BABY tokens will be airdropped during the weekend. <br/>
