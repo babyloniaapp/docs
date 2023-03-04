@@ -40,18 +40,18 @@ We funded the project ourselves until now, and running low on money has taught u
 * [x] Developing Media platforms, web3 integration + web2 --> web3 media + podcast player
 * [x] Developing NFT platform --> creating NFT collections + web3 integration
 * [ ] ~~Deploying the liquid pairs and starting pre-minting on BSC testnet~~ --> postponed to 2022Q4
-* [ ] ~~Starting beta-test of the Games 1\ Lottery~~ --> postponed to 2022Q4
+* [ ] ~~Starting beta-test of the Games 1\ Lottery~~ --> postponed to 2023Q1
 * [x] Website visual updates + preparations for [Crowdsale #1](https://pool.babylonia.app/Crowdsale1)
 * [x] Deployments of the Games website pages on new VPS hosting
 * [ ] ~~Games server deployments~~ --> postponed to ~~2022Q4~~ 2023
-* [x] Creating media project + web3 integration --> postponed to 2022Q4
+* [x] Creating media project + web3 integration --> postponed to 2023Q4
 * [x] Kicking off the NFT project --> the project has been started --> in progress --> will launch in ~~July-~~ first week of August 2022
 * [x] Kicking off the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1) ~~with~~/without partners
 * [ ] ~~Buying collaterals simultaneously with the [Crowdsale #1](https://pool.babylonia.app/Crowdsale1)~~ --> failed to accomplish
 * [x] Extras: Updates main page 3D model
 * [x] Extras: Unique and unified UI design in whole babylonia.app pages
 * [ ] ~~Starting~~ Developing the Lottery smart contract ~~Games~~ 1\ Lottery with BUSD, BNB on ~~BSC~~BNB Chain
-* [ ]  Developing Game I --> Babylon Jackpot --> postponed to 20223Q1
+* [ ]  Developing Game I --> Babylon Jackpot --> postponed to 20223Q2
 <hr/>
 
 ### Beta Launch 2022Q4-2023Q1
