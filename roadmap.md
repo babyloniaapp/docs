@@ -52,9 +52,10 @@ We funded the project ourselves until now, and running low on money has taught u
 * [x] Extras: Unique and unified UI design in whole babylonia.app pages
 * [ ] ~~Starting~~ Developing the Lottery smart contract ~~Games~~ 1\ Lottery with BUSD, BNB on ~~BSC~~BNB Chain
 * [ ]  Developing Game I --> Babylon Jackpot --> postponed to 20223Q2
+
 <hr/>
 
-### Beta Launch 2022Q4-2023Q1
+### Beta Launch ~~2022Q4-2023Q1~~ 2023Q1-2023Q2
 
 * [ ] Last phase performance analysis and updating the roadmap
 * [ ] Align the goals and assign the budget to the tasks as plan
@@ -65,7 +66,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 <hr/>
 
-### Crowdsale #2 2022Q4-2023Q1
+### Crowdsale #2 2023Q4-2024Q1
 
 <img width="900" alt="Babylonia Crowdsale #2 presentation" src="https://raw.githubusercontent.com/babyloniaapp/docs/main/assets/images/SLIDES_CROWDSALE%232_07_1200px.png">
 
@@ -81,7 +82,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 <hr/>
 
-### Open Market 2022Q4-2023Q1
+### Open Market 2023Q4-2024Q1
 
 * [ ] Conversion of BABY to BABY V2
 * [ ] Starting the process of swapping BABY to BABY V2
@@ -91,7 +92,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 <hr/>
 
-### Main Launch 2023Q1-2023Q2
+### Main Launch 2024Q1-2024Q2
 
 * [ ] Deploying the minting contracts
 * [ ] Deploying the smart contracts of CHIP (CHP) & CREDIT (CRD) tokens
@@ -100,7 +101,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 <hr/>
 
-### Expansion Plan I 2023Q2-2023Q4
+### Expansion Plan I 2024Q2-2024Q4
 
 * [ ] Migration to the city base architecture, modular and independent
 * [ ] Selling lands, structure, and buildings
@@ -111,4 +112,4 @@ We funded the project ourselves until now, and running low on money has taught u
 
 
 <hr/>
-updated 26/September/2022
+updated 03/March/2023
