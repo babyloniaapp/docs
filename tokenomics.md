@@ -4,6 +4,7 @@
 
 ~~There are 3 main tokens on **Babylonia**~~. **BABY (BABY)**, ~~CHIP(CHP) and CREDIT (CRD)~~.  **BABY** is the main token of the platform, hard-capped to 888,888,888, mintable and partially backed by collaterals. CHIP & CREDIT are functional tokens, can be used only in babylonia.app, they are not hard-capped, cannot be minted by public. <br/>
 Update 06. Sep 2022: Due to the recent decision by founders, we decided to postpone the traditional web2 games & gambling and continue developing only in-house web3 smart contract based games. Therefore, CHIP & CREDIT tokens won't be available.
+Update 01. March 2023: We had to hard-fork the $BABY token on BNB chain and pull out of the one-sided farming minting contracts from some DEXes. The new contract is issued and the holders will be air-dropped.
 
 Token format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom, the Ethereum, and Avalanche expansions are also on the way. The BABY token will be bridged between the blockchains, maintaining the total hard cap, will be distributed proportionally to the performance & demand of network. As the BSC transaction fee getting more expensive due to increase in price of BNB, we gradually move toward Polygon & Fantom.
 
@@ -13,15 +14,16 @@ Token format: ERC20 compatible, on Binance Smart Chain (BSC), Polygon & Fantom, 
 
 CoinGecko: [Babylonia](https://www.coingecko.com/en/coins/babylonia)</br>
 CoinMarketCap: [Babylonia](https://coinmarketcap.com/currencies/babylonia)</br>
-DEX: [RadioShack](https://app.radioshack.org/swap)<br/>
-DEX: [AmpleSWAP](https://ampleswap.com)<br/>
-DEX: [Vizslaswap](https://www.vizslaswap.com/swap)<br/>
+DEX: [Pancakeswap](https://pancakeswap.finance/swap)<br/>
+
 
 
 ## Addresses
 **BABY Token (BABY) address: 0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a** </br>
-BABY BNB: 0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a <br/>
-https://bscscan.com/address/0xa4e26bd6dcba9021dcd3a1159ba52e97cd770b8a <br/>
+BABY BNB: ~~0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a~~  forked to 
+0xe6dFa7118961851d62297Eb7bBe453364D880Ba5
+<br/>
+https://bscscan.com/token/0xe6dFa7118961851d62297Eb7bBe453364D880Ba5?a=0xd81ab8628AE0EE303d317bf7315206e087982f3d <br/>
 BNBICO1M1: 0xE4CbCD4064B86960719CBF1C0703de3a0DD903F7 --> disabled <br/> 
 BNBICO1M2: 0x84b1ef16C1461B7864a611925FbF31736f924a40 --> disabled <br/>
 
