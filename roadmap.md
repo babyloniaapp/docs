@@ -4,6 +4,7 @@
 # 🚀 Roadmap
 
 <img width="1080" alt="The Babylonia Roadmap" src="https://user-images.githubusercontent.com/94221562/192100183-55cfc0b1-915c-4755-bf5f-c797c01edf53.png">
+![SLIDES_ROADMAP_wtitle-06032023_2500x1000](https://user-images.githubusercontent.com/94221562/223178179-f67251e7-b551-439a-a88d-32285a04a294.png)
 
 
 The Babylonia roadmap is a guide that describes the steps we need to take in order to reach our project goals. It's a plan of action that lines up our project's short-term and long-term goals, and we outline how they will be achieved. We start the project with an "Alpha Stage", which is consisted of initial planning, launching of the website, preparing the smart contracts of the token and "[Crowdsale #1](https://pool.babylonia.app/Crowdsale1)", and developing the phase I of the gaming platform. After the crowdfunding phases, we begin to testing the integration of tokenomics into the gaming platform, that stage is called "Beta Launch". The roadmap will be updated as the project proceeds, we might add extra steps to achieve the next milestone.
