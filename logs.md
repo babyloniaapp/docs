@@ -4,7 +4,7 @@
 
 <hr/>
 
-06.03.23 – The airdrop has been completed. Proof —> https://bscscan.com/tx/0xbbde9fe5bbc03af4e844d3a8246325baf62ca7b918374d19e552ee4302037584
+06.03.23 – The airdrop has been completed --> [bscscan proof](https://bscscan.com/tx/0xbbde9fe5bbc03af4e844d3a8246325baf62ca7b918374d19e552ee4302037584). <br/> 
 
 ---
 
