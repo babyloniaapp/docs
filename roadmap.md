@@ -55,7 +55,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 <hr/>
 
-### Beta Launch ~~2022Q4-2023Q1~~ 2023Q1-2023Q2
+### Beta Launch ~~2022Q4-2023Q1~~ 2023Q4-2024Q1
 
 * [ ] Last phase performance analysis and updating the roadmap
 * [ ] Align the goals and assign the budget to the tasks as plan
@@ -82,9 +82,9 @@ We funded the project ourselves until now, and running low on money has taught u
 
 <hr/>
 
-### Open Market 2023Q4-2024Q1
+### Open Market 2023Q4-2024Q2
 
-* [ ] Conversion of BABY to BABY V2
+* [X] Conversion of BABY to BABY V2
 * [ ] Starting the process of swapping BABY to BABY V2
 * [ ] Deploying the liquidity pairs on the Pancakeswap / BSC chain, starting with BABY – BNB & BABY - BUSD
 * [ ] Setting the open market price at $0.04
@@ -92,7 +92,7 @@ We funded the project ourselves until now, and running low on money has taught u
 
 <hr/>
 
-### Main Launch 2024Q1-2024Q2
+### Main Launch 2024Q2-2024Q3
 
 * [ ] Deploying the minting contracts
 * [ ] Deploying the smart contracts of CHIP (CHP) & CREDIT (CRD) tokens
