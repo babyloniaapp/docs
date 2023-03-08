@@ -4,7 +4,7 @@
 
 <hr/>
 
-08.03.23 – We are working on the token and liquidity lock mechanism, will be sorted out soon, the $BABY tokens will be airdropped during the weekend. <br/>
+08.03.23 – The $BABY-$BNB liquidity will be allocated during 3rd week of March. <br/>
 
 ---
 
