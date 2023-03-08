@@ -4,6 +4,11 @@
 
 <hr/>
 
+08.03.23 – We are working on the token and liquidity lock mechanism, will be sorted out soon, the $BABY tokens will be airdropped during the weekend. <br/>
+
+---
+
+
 06.03.23 – The airdrop has been completed --> [bscscan proof](https://bscscan.com/tx/0xbbde9fe5bbc03af4e844d3a8246325baf62ca7b918374d19e552ee4302037584). <br/> 
 
 ---
