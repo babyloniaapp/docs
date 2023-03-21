@@ -8,6 +8,10 @@
 
 ---
 
+08.03.23 – The team is working on some of the main page updates, soon will be deployed. <br/>
+
+---
+
 08.03.23 – The $BABY-$BNB liquidity will be allocated during 3rd week of March. <br/>
 
 ---
