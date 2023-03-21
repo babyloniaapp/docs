@@ -8,7 +8,7 @@
 
 ---
 
-08.03.23 – The team is working on some of the main page updates, soon will be deployed. <br/>
+15.03.23 – The team is working on some of the main page updates, soon will be deployed. <br/>
 
 ---
 
