@@ -4,7 +4,7 @@
 
 <hr/>
 
-08.03.23 – The team is working on some of the main page updates, soon will be deployed. <br/>
+21.03.23 – The updates on the mainpage has been deployed. <br/>
 
 ---
 
