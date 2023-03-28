@@ -2,10 +2,8 @@
 
 ## How to buy BABY Token
 BABY token is available on BNB Chain and Polygon network. 
-1. Go to the pool.babylonia.app or click on the POOL icon on the left side of the babylonia.app homepage.
+1. Go to the https://pancakeswap.finance or click on the Pancakeswap icon on the left side of the babylonia.app homepage.
 
-
-![Selecting Crowdsale #1 | pool.babylonia.app](https://raw.githubusercontent.com/babyloniaapp/docs/9e71e3b44dd886177786cb6415bf4e893e4e81cf/.gitbook/assets/Screenshot_pool.babylonia.app_Crowdsale%20%231-01.png)
 
 
 2. Click on the Crowdsale #1 menu on the top.
