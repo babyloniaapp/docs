@@ -13,7 +13,7 @@ Medium: [@appbabylonia](https://medium.com/@appbabylonia)</br>
 
 ## Contracts
 
-BABY BNB: 0xA4E26Bd6DCBa9021DCd3A1159BA52e97CD770b8a </br>
+BABY BNB: 0xe6dFa7118961851d62297Eb7bBe453364D880Ba5 </br>
 https://bscscan.com/address/0xa4e26bd6dcba9021dcd3a1159ba52e97cd770b8a </br>
 BNBICO1M1: 0xE4CbCD4064B86960719CBF1C0703de3a0DD903F7 </br>
 BNBICO1M2: 0x84b1ef16C1461B7864a611925FbF31736f924a40 </br>
