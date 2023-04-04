@@ -4,7 +4,7 @@
 
 <hr/>
 
-21.03.23 – The updates on the mainpage has been deployed. <br/>
+04.04.23 – We are still waiting for some favorable market pull back to deploy the liquidity , sorry for delays.  <br/>
 
 
 ---
