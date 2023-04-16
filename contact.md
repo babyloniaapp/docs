@@ -4,7 +4,7 @@
 
 ## Partners
 
-<img width="800" alt="Contact image 02" src="https://user-images.githubusercontent.com/94221562/191418607-82b49f99-e52f-46c3-98bd-d86f5a809636.png">
+<img width="600" alt="Contact image 02" src="https://user-images.githubusercontent.com/94221562/191418607-82b49f99-e52f-46c3-98bd-d86f5a809636.png">
 
 
 We believe communication is always about humans being a unique creation. In a world of explosively growing information flows, we need guides and points of focus. As creators of online and offline lottery and board games, we, together with our future partners, search for authentic relationships and unique products. We are convinced that the right audience in a relevant, credible and distinctive way and help realize ambitions.&#x20;
