@@ -4,6 +4,11 @@
 
 <hr/>
 
+30.04.23 - The liquidity deployment has been delayed, we are hopping to relaunch the project in May.  <br/>
+
+
+---
+
 04.04.23 – We are still waiting for some favorable market pull back to deploy the liquidity , sorry for delays.  <br/>
 
 
