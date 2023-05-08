@@ -136,8 +136,9 @@ Wei is the smallest denomination of ether—the cryptocurrency coin used on the 
 
 ## ICO & IPO
 
+---
 
-
+more to come!
 
 
 
