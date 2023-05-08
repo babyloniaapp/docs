@@ -4,6 +4,11 @@
 
 <hr/>
 
+08.05.23 - We are still struggling to continue funding the project, we are waiting for better market conditions.  <br/>
+
+
+---
+
 30.04.23 - The liquidity deployment has been delayed, we are hopping to relaunch the project in May.  <br/>
 
 
